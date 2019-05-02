@@ -1,0 +1,1189 @@
+,Unnamed: 0,index,Componenti,Valori nutrizionali,Prodotto,Categoria,Fast_Food
+0,0,0,Calories,460.0,Cinnamon Melts,Desserts,McDonald
+1,1,1,Calories from Fat,170.0,Cinnamon Melts,Desserts,McDonald
+2,2,2,Total Fat (g),19.0,Cinnamon Melts,Desserts,McDonald
+3,3,3,Saturated Fat (g),9.0,Cinnamon Melts,Desserts,McDonald
+4,4,4,Trans Fat (g),0.0,Cinnamon Melts,Desserts,McDonald
+5,5,5,Cholesterol (mg),15.0,Cinnamon Melts,Desserts,McDonald
+6,6,6,Sodium (mg),370.0,Cinnamon Melts,Desserts,McDonald
+7,7,7,Total Carbs (g),66.0,Cinnamon Melts,Desserts,McDonald
+8,8,8,Fiber (g),3.0,Cinnamon Melts,Desserts,McDonald
+9,9,9,Sugars (g),32.0,Cinnamon Melts,Desserts,McDonald
+10,10,10,Protein (g),6.0,Cinnamon Melts,Desserts,McDonald
+11,11,0,Calories,290.0,Fruit & Maple Oatmeal,Desserts,McDonald
+12,12,1,Calories from Fat,35.0,Fruit & Maple Oatmeal,Desserts,McDonald
+13,13,2,Total Fat (g),4.0,Fruit & Maple Oatmeal,Desserts,McDonald
+14,14,3,Saturated Fat (g),1.5,Fruit & Maple Oatmeal,Desserts,McDonald
+15,15,4,Trans Fat (g),0.0,Fruit & Maple Oatmeal,Desserts,McDonald
+16,16,5,Cholesterol (mg),5.0,Fruit & Maple Oatmeal,Desserts,McDonald
+17,17,6,Sodium (mg),160.0,Fruit & Maple Oatmeal,Desserts,McDonald
+18,18,7,Total Carbs (g),58.0,Fruit & Maple Oatmeal,Desserts,McDonald
+19,19,8,Fiber (g),5.0,Fruit & Maple Oatmeal,Desserts,McDonald
+20,20,9,Sugars (g),32.0,Fruit & Maple Oatmeal,Desserts,McDonald
+21,21,10,Protein (g),5.0,Fruit & Maple Oatmeal,Desserts,McDonald
+22,22,0,Calories,260.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+23,23,1,Calories from Fat,40.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+24,24,2,Total Fat (g),4.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+25,25,3,Saturated Fat (g),1.5,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+26,26,4,Trans Fat (g),0.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+27,27,5,Cholesterol (mg),5.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+28,28,6,Sodium (mg),115.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+29,29,7,Total Carbs (g),49.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+30,30,8,Fiber (g),5.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+31,31,9,Sugars (g),18.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+32,32,10,Protein (g),5.0,Fruit & Maple Oatmeal without Brown Sugar,Desserts,McDonald
+33,33,0,Calories,530.0,Big Mac,Beef & Pork,McDonald
+34,34,1,Calories from Fat,240.0,Big Mac,Beef & Pork,McDonald
+35,35,2,Total Fat (g),27.0,Big Mac,Beef & Pork,McDonald
+36,36,3,Saturated Fat (g),10.0,Big Mac,Beef & Pork,McDonald
+37,37,4,Trans Fat (g),1.0,Big Mac,Beef & Pork,McDonald
+38,38,5,Cholesterol (mg),85.0,Big Mac,Beef & Pork,McDonald
+39,39,6,Sodium (mg),960.0,Big Mac,Beef & Pork,McDonald
+40,40,7,Total Carbs (g),47.0,Big Mac,Beef & Pork,McDonald
+41,41,8,Fiber (g),3.0,Big Mac,Beef & Pork,McDonald
+42,42,9,Sugars (g),9.0,Big Mac,Beef & Pork,McDonald
+43,43,10,Protein (g),24.0,Big Mac,Beef & Pork,McDonald
+44,44,0,Calories,520.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+45,45,1,Calories from Fat,240.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+46,46,2,Total Fat (g),26.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+47,47,3,Saturated Fat (g),12.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+48,48,4,Trans Fat (g),1.5,Quarter Pounder with Cheese,Beef & Pork,McDonald
+49,49,5,Cholesterol (mg),95.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+50,50,6,Sodium (mg),1100.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+51,51,7,Total Carbs (g),41.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+52,52,8,Fiber (g),3.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+53,53,9,Sugars (g),10.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+54,54,10,Protein (g),30.0,Quarter Pounder with Cheese,Beef & Pork,McDonald
+55,55,0,Calories,600.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+56,56,1,Calories from Fat,260.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+57,57,2,Total Fat (g),29.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+58,58,3,Saturated Fat (g),13.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+59,59,4,Trans Fat (g),1.5,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+60,60,5,Cholesterol (mg),105.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+61,61,6,Sodium (mg),1440.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+62,62,7,Total Carbs (g),48.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+63,63,8,Fiber (g),3.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+64,64,9,Sugars (g),12.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+65,65,10,Protein (g),37.0,Quarter Pounder with Bacon & Cheese,Beef & Pork,McDonald
+66,66,0,Calories,610.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+67,67,1,Calories from Fat,280.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+68,68,2,Total Fat (g),31.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+69,69,3,Saturated Fat (g),13.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+70,70,4,Trans Fat (g),1.5,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+71,71,5,Cholesterol (mg),105.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+72,72,6,Sodium (mg),1180.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+73,73,7,Total Carbs (g),46.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+74,74,8,Fiber (g),3.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+75,75,9,Sugars (g),10.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+76,76,10,Protein (g),37.0,Quarter Pounder with Bacon Habanero Ranch,Beef & Pork,McDonald
+77,77,0,Calories,540.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+78,78,1,Calories from Fat,250.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+79,79,2,Total Fat (g),27.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+80,80,3,Saturated Fat (g),11.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+81,81,4,Trans Fat (g),1.5,Quarter Pounder Deluxe,Beef & Pork,McDonald
+82,82,5,Cholesterol (mg),85.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+83,83,6,Sodium (mg),960.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+84,84,7,Total Carbs (g),45.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+85,85,8,Fiber (g),3.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+86,86,9,Sugars (g),9.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+87,87,10,Protein (g),29.0,Quarter Pounder Deluxe,Beef & Pork,McDonald
+88,88,0,Calories,750.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+89,89,1,Calories from Fat,380.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+90,90,2,Total Fat (g),43.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+91,91,3,Saturated Fat (g),19.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+92,92,4,Trans Fat (g),2.5,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+93,93,5,Cholesterol (mg),160.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+94,94,6,Sodium (mg),1280.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+95,95,7,Total Carbs (g),42.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+96,96,8,Fiber (g),3.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+97,97,9,Sugars (g),10.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+98,98,10,Protein (g),48.0,Double Quarter Pounder with Cheese,Beef & Pork,McDonald
+99,99,0,Calories,240.0,Hamburger,Beef & Pork,McDonald
+100,100,1,Calories from Fat,70.0,Hamburger,Beef & Pork,McDonald
+101,101,2,Total Fat (g),8.0,Hamburger,Beef & Pork,McDonald
+102,102,3,Saturated Fat (g),3.0,Hamburger,Beef & Pork,McDonald
+103,103,4,Trans Fat (g),0.0,Hamburger,Beef & Pork,McDonald
+104,104,5,Cholesterol (mg),30.0,Hamburger,Beef & Pork,McDonald
+105,105,6,Sodium (mg),480.0,Hamburger,Beef & Pork,McDonald
+106,106,7,Total Carbs (g),32.0,Hamburger,Beef & Pork,McDonald
+107,107,8,Fiber (g),1.0,Hamburger,Beef & Pork,McDonald
+108,108,9,Sugars (g),6.0,Hamburger,Beef & Pork,McDonald
+109,109,10,Protein (g),12.0,Hamburger,Beef & Pork,McDonald
+110,110,0,Calories,290.0,Cheeseburger,Beef & Pork,McDonald
+111,111,1,Calories from Fat,100.0,Cheeseburger,Beef & Pork,McDonald
+112,112,2,Total Fat (g),11.0,Cheeseburger,Beef & Pork,McDonald
+113,113,3,Saturated Fat (g),5.0,Cheeseburger,Beef & Pork,McDonald
+114,114,4,Trans Fat (g),0.5,Cheeseburger,Beef & Pork,McDonald
+115,115,5,Cholesterol (mg),45.0,Cheeseburger,Beef & Pork,McDonald
+116,116,6,Sodium (mg),680.0,Cheeseburger,Beef & Pork,McDonald
+117,117,7,Total Carbs (g),33.0,Cheeseburger,Beef & Pork,McDonald
+118,118,8,Fiber (g),2.0,Cheeseburger,Beef & Pork,McDonald
+119,119,9,Sugars (g),7.0,Cheeseburger,Beef & Pork,McDonald
+120,120,10,Protein (g),15.0,Cheeseburger,Beef & Pork,McDonald
+121,121,0,Calories,430.0,Double Cheeseburger,Beef & Pork,McDonald
+122,122,1,Calories from Fat,190.0,Double Cheeseburger,Beef & Pork,McDonald
+123,123,2,Total Fat (g),21.0,Double Cheeseburger,Beef & Pork,McDonald
+124,124,3,Saturated Fat (g),10.0,Double Cheeseburger,Beef & Pork,McDonald
+125,125,4,Trans Fat (g),1.0,Double Cheeseburger,Beef & Pork,McDonald
+126,126,5,Cholesterol (mg),90.0,Double Cheeseburger,Beef & Pork,McDonald
+127,127,6,Sodium (mg),1040.0,Double Cheeseburger,Beef & Pork,McDonald
+128,128,7,Total Carbs (g),35.0,Double Cheeseburger,Beef & Pork,McDonald
+129,129,8,Fiber (g),2.0,Double Cheeseburger,Beef & Pork,McDonald
+130,130,9,Sugars (g),7.0,Double Cheeseburger,Beef & Pork,McDonald
+131,131,10,Protein (g),24.0,Double Cheeseburger,Beef & Pork,McDonald
+132,132,0,Calories,720.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+133,133,1,Calories from Fat,360.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+134,134,2,Total Fat (g),40.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+135,135,3,Saturated Fat (g),15.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+136,136,4,Trans Fat (g),1.5,Bacon Clubhouse Burger,Beef & Pork,McDonald
+137,137,5,Cholesterol (mg),115.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+138,138,6,Sodium (mg),1470.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+139,139,7,Total Carbs (g),51.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+140,140,8,Fiber (g),4.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+141,141,9,Sugars (g),14.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+142,142,10,Protein (g),39.0,Bacon Clubhouse Burger,Beef & Pork,McDonald
+143,143,0,Calories,380.0,McDouble,Beef & Pork,McDonald
+144,144,1,Calories from Fat,150.0,McDouble,Beef & Pork,McDonald
+145,145,2,Total Fat (g),17.0,McDouble,Beef & Pork,McDonald
+146,146,3,Saturated Fat (g),8.0,McDouble,Beef & Pork,McDonald
+147,147,4,Trans Fat (g),1.0,McDouble,Beef & Pork,McDonald
+148,148,5,Cholesterol (mg),75.0,McDouble,Beef & Pork,McDonald
+149,149,6,Sodium (mg),840.0,McDouble,Beef & Pork,McDonald
+150,150,7,Total Carbs (g),34.0,McDouble,Beef & Pork,McDonald
+151,151,8,Fiber (g),2.0,McDouble,Beef & Pork,McDonald
+152,152,9,Sugars (g),7.0,McDouble,Beef & Pork,McDonald
+153,153,10,Protein (g),22.0,McDouble,Beef & Pork,McDonald
+154,154,0,Calories,440.0,Bacon McDouble,Beef & Pork,McDonald
+155,155,1,Calories from Fat,200.0,Bacon McDouble,Beef & Pork,McDonald
+156,156,2,Total Fat (g),22.0,Bacon McDouble,Beef & Pork,McDonald
+157,157,3,Saturated Fat (g),10.0,Bacon McDouble,Beef & Pork,McDonald
+158,158,4,Trans Fat (g),1.0,Bacon McDouble,Beef & Pork,McDonald
+159,159,5,Cholesterol (mg),90.0,Bacon McDouble,Beef & Pork,McDonald
+160,160,6,Sodium (mg),1110.0,Bacon McDouble,Beef & Pork,McDonald
+161,161,7,Total Carbs (g),35.0,Bacon McDouble,Beef & Pork,McDonald
+162,162,8,Fiber (g),2.0,Bacon McDouble,Beef & Pork,McDonald
+163,163,9,Sugars (g),7.0,Bacon McDouble,Beef & Pork,McDonald
+164,164,10,Protein (g),27.0,Bacon McDouble,Beef & Pork,McDonald
+165,165,0,Calories,430.0,Daily Double,Beef & Pork,McDonald
+166,166,1,Calories from Fat,200.0,Daily Double,Beef & Pork,McDonald
+167,167,2,Total Fat (g),22.0,Daily Double,Beef & Pork,McDonald
+168,168,3,Saturated Fat (g),9.0,Daily Double,Beef & Pork,McDonald
+169,169,4,Trans Fat (g),1.0,Daily Double,Beef & Pork,McDonald
+170,170,5,Cholesterol (mg),80.0,Daily Double,Beef & Pork,McDonald
+171,171,6,Sodium (mg),760.0,Daily Double,Beef & Pork,McDonald
+172,172,7,Total Carbs (g),34.0,Daily Double,Beef & Pork,McDonald
+173,173,8,Fiber (g),2.0,Daily Double,Beef & Pork,McDonald
+174,174,9,Sugars (g),7.0,Daily Double,Beef & Pork,McDonald
+175,175,10,Protein (g),22.0,Daily Double,Beef & Pork,McDonald
+176,176,0,Calories,430.0,Jalapeño Double,Beef & Pork,McDonald
+177,177,1,Calories from Fat,210.0,Jalapeño Double,Beef & Pork,McDonald
+178,178,2,Total Fat (g),23.0,Jalapeño Double,Beef & Pork,McDonald
+179,179,3,Saturated Fat (g),9.0,Jalapeño Double,Beef & Pork,McDonald
+180,180,4,Trans Fat (g),1.0,Jalapeño Double,Beef & Pork,McDonald
+181,181,5,Cholesterol (mg),80.0,Jalapeño Double,Beef & Pork,McDonald
+182,182,6,Sodium (mg),1030.0,Jalapeño Double,Beef & Pork,McDonald
+183,183,7,Total Carbs (g),35.0,Jalapeño Double,Beef & Pork,McDonald
+184,184,8,Fiber (g),2.0,Jalapeño Double,Beef & Pork,McDonald
+185,185,9,Sugars (g),6.0,Jalapeño Double,Beef & Pork,McDonald
+186,186,10,Protein (g),22.0,Jalapeño Double,Beef & Pork,McDonald
+187,187,0,Calories,500.0,McRib,Beef & Pork,McDonald
+188,188,1,Calories from Fat,240.0,McRib,Beef & Pork,McDonald
+189,189,2,Total Fat (g),26.0,McRib,Beef & Pork,McDonald
+190,190,3,Saturated Fat (g),10.0,McRib,Beef & Pork,McDonald
+191,191,4,Trans Fat (g),0.0,McRib,Beef & Pork,McDonald
+192,192,5,Cholesterol (mg),70.0,McRib,Beef & Pork,McDonald
+193,193,6,Sodium (mg),980.0,McRib,Beef & Pork,McDonald
+194,194,7,Total Carbs (g),44.0,McRib,Beef & Pork,McDonald
+195,195,8,Fiber (g),3.0,McRib,Beef & Pork,McDonald
+196,196,9,Sugars (g),11.0,McRib,Beef & Pork,McDonald
+197,197,10,Protein (g),22.0,McRib,Beef & Pork,McDonald
+198,198,0,Calories,510.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+199,199,1,Calories from Fat,200.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+200,200,2,Total Fat (g),22.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+201,201,3,Saturated Fat (g),3.5,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+202,202,4,Trans Fat (g),0.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+203,203,5,Cholesterol (mg),45.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+204,204,6,Sodium (mg),990.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+205,205,7,Total Carbs (g),55.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+206,206,8,Fiber (g),3.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+207,207,9,Sugars (g),10.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+208,208,10,Protein (g),24.0,Premium Crispy Chicken Classic Sandwich,Chicken & Fish,McDonald
+209,209,0,Calories,350.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+210,210,1,Calories from Fat,80.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+211,211,2,Total Fat (g),9.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+212,212,3,Saturated Fat (g),2.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+213,213,4,Trans Fat (g),0.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+214,214,5,Cholesterol (mg),65.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+215,215,6,Sodium (mg),820.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+216,216,7,Total Carbs (g),42.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+217,217,8,Fiber (g),3.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+218,218,9,Sugars (g),8.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+219,219,10,Protein (g),28.0,Premium Grilled Chicken Classic Sandwich,Chicken & Fish,McDonald
+220,220,0,Calories,670.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+221,221,1,Calories from Fat,300.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+222,222,2,Total Fat (g),33.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+223,223,3,Saturated Fat (g),9.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+224,224,4,Trans Fat (g),0.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+225,225,5,Cholesterol (mg),85.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+226,226,6,Sodium (mg),1410.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+227,227,7,Total Carbs (g),58.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+228,228,8,Fiber (g),3.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+229,229,9,Sugars (g),11.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+230,230,10,Protein (g),36.0,Premium Crispy Chicken Club Sandwich,Chicken & Fish,McDonald
+231,231,0,Calories,510.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+232,232,1,Calories from Fat,180.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+233,233,2,Total Fat (g),20.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+234,234,3,Saturated Fat (g),7.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+235,235,4,Trans Fat (g),0.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+236,236,5,Cholesterol (mg),105.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+237,237,6,Sodium (mg),1250.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+238,238,7,Total Carbs (g),44.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+239,239,8,Fiber (g),3.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+240,240,9,Sugars (g),9.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+241,241,10,Protein (g),40.0,Premium Grilled Chicken Club Sandwich,Chicken & Fish,McDonald
+242,242,0,Calories,610.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+243,243,1,Calories from Fat,250.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+244,244,2,Total Fat (g),28.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+245,245,3,Saturated Fat (g),6.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+246,246,4,Trans Fat (g),0.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+247,247,5,Cholesterol (mg),70.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+248,248,6,Sodium (mg),1400.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+249,249,7,Total Carbs (g),57.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+250,250,8,Fiber (g),3.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+251,251,9,Sugars (g),11.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+252,252,10,Protein (g),32.0,Premium Crispy Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+253,253,0,Calories,450.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+254,254,1,Calories from Fat,130.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+255,255,2,Total Fat (g),15.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+256,256,3,Saturated Fat (g),4.5,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+257,257,4,Trans Fat (g),0.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+258,258,5,Cholesterol (mg),90.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+259,259,6,Sodium (mg),1230.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+260,260,7,Total Carbs (g),43.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+261,261,8,Fiber (g),3.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+262,262,9,Sugars (g),9.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+263,263,10,Protein (g),36.0,Premium Grilled Chicken Ranch BLT Sandwich,Chicken & Fish,McDonald
+264,264,0,Calories,750.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+265,265,1,Calories from Fat,340.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+266,266,2,Total Fat (g),38.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+267,267,3,Saturated Fat (g),10.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+268,268,4,Trans Fat (g),0.5,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+269,269,5,Cholesterol (mg),90.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+270,270,6,Sodium (mg),1720.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+271,271,7,Total Carbs (g),65.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+272,272,8,Fiber (g),4.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+273,273,9,Sugars (g),16.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+274,274,10,Protein (g),36.0,Bacon Clubhouse Crispy Chicken Sandwich,Chicken & Fish,McDonald
+275,275,0,Calories,590.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+276,276,1,Calories from Fat,230.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+277,277,2,Total Fat (g),25.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+278,278,3,Saturated Fat (g),8.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+279,279,4,Trans Fat (g),0.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+280,280,5,Cholesterol (mg),110.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+281,281,6,Sodium (mg),1560.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+282,282,7,Total Carbs (g),51.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+283,283,8,Fiber (g),4.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+284,284,9,Sugars (g),14.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+285,285,10,Protein (g),40.0,Bacon Clubhouse Grilled Chicken Sandwich,Chicken & Fish,McDonald
+286,286,0,Calories,430.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+287,287,1,Calories from Fat,170.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+288,288,2,Total Fat (g),19.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+289,289,3,Saturated Fat (g),3.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+290,290,4,Trans Fat (g),0.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+291,291,5,Cholesterol (mg),45.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+292,292,6,Sodium (mg),910.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+293,293,7,Total Carbs (g),43.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+294,294,8,Fiber (g),2.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+295,295,9,Sugars (g),7.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+296,296,10,Protein (g),21.0,Southern Style Crispy Chicken Sandwich,Chicken & Fish,McDonald
+297,297,0,Calories,360.0,McChicken,Chicken & Fish,McDonald
+298,298,1,Calories from Fat,140.0,McChicken,Chicken & Fish,McDonald
+299,299,2,Total Fat (g),16.0,McChicken,Chicken & Fish,McDonald
+300,300,3,Saturated Fat (g),3.0,McChicken,Chicken & Fish,McDonald
+301,301,4,Trans Fat (g),0.0,McChicken,Chicken & Fish,McDonald
+302,302,5,Cholesterol (mg),35.0,McChicken,Chicken & Fish,McDonald
+303,303,6,Sodium (mg),800.0,McChicken,Chicken & Fish,McDonald
+304,304,7,Total Carbs (g),40.0,McChicken,Chicken & Fish,McDonald
+305,305,8,Fiber (g),2.0,McChicken,Chicken & Fish,McDonald
+306,306,9,Sugars (g),5.0,McChicken,Chicken & Fish,McDonald
+307,307,10,Protein (g),14.0,McChicken,Chicken & Fish,McDonald
+308,308,0,Calories,480.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+309,309,1,Calories from Fat,220.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+310,310,2,Total Fat (g),24.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+311,311,3,Saturated Fat (g),7.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+312,312,4,Trans Fat (g),0.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+313,313,5,Cholesterol (mg),65.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+314,314,6,Sodium (mg),1260.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+315,315,7,Total Carbs (g),43.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+316,316,8,Fiber (g),2.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+317,317,9,Sugars (g),6.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+318,318,10,Protein (g),22.0,Bacon Cheddar McChicken,Chicken & Fish,McDonald
+319,319,0,Calories,430.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+320,320,1,Calories from Fat,190.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+321,321,2,Total Fat (g),21.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+322,322,3,Saturated Fat (g),5.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+323,323,4,Trans Fat (g),0.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+324,324,5,Cholesterol (mg),50.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+325,325,6,Sodium (mg),1260.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+326,326,7,Total Carbs (g),41.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+327,327,8,Fiber (g),2.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+328,328,9,Sugars (g),6.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+329,329,10,Protein (g),20.0,Bacon Buffalo Ranch McChicken,Chicken & Fish,McDonald
+330,330,0,Calories,360.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+331,331,1,Calories from Fat,150.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+332,332,2,Total Fat (g),16.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+333,333,3,Saturated Fat (g),3.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+334,334,4,Trans Fat (g),0.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+335,335,5,Cholesterol (mg),35.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+336,336,6,Sodium (mg),990.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+337,337,7,Total Carbs (g),40.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+338,338,8,Fiber (g),2.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+339,339,9,Sugars (g),5.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+340,340,10,Protein (g),14.0,Buffalo Ranch McChicken,Chicken & Fish,McDonald
+341,341,0,Calories,630.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+342,342,1,Calories from Fat,280.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+343,343,2,Total Fat (g),32.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+344,344,3,Saturated Fat (g),9.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+345,345,4,Trans Fat (g),0.5,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+346,346,5,Cholesterol (mg),80.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+347,347,6,Sodium (mg),1540.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+348,348,7,Total Carbs (g),56.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+349,349,8,Fiber (g),3.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+350,350,9,Sugars (g),7.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+351,351,10,Protein (g),32.0,Premium McWrap Chicken & Bacon (Crispy Chicken),Chicken & Fish,McDonald
+352,352,0,Calories,480.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+353,353,1,Calories from Fat,170.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+354,354,2,Total Fat (g),19.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+355,355,3,Saturated Fat (g),7.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+356,356,4,Trans Fat (g),0.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+357,357,5,Cholesterol (mg),95.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+358,358,6,Sodium (mg),1370.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+359,359,7,Total Carbs (g),42.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+360,360,8,Fiber (g),3.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+361,361,9,Sugars (g),6.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+362,362,10,Protein (g),36.0,Premium McWrap Chicken & Bacon (Grilled Chicken),Chicken & Fish,McDonald
+363,363,0,Calories,610.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+364,364,1,Calories from Fat,280.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+365,365,2,Total Fat (g),31.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+366,366,3,Saturated Fat (g),8.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+367,367,4,Trans Fat (g),0.5,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+368,368,5,Cholesterol (mg),65.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+369,369,6,Sodium (mg),1340.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+370,370,7,Total Carbs (g),56.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+371,371,8,Fiber (g),3.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+372,372,9,Sugars (g),8.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+373,373,10,Protein (g),27.0,Premium McWrap Chicken & Ranch (Crispy Chicken),Chicken & Fish,McDonald
+374,374,0,Calories,450.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+375,375,1,Calories from Fat,160.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+376,376,2,Total Fat (g),18.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+377,377,3,Saturated Fat (g),6.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+378,378,4,Trans Fat (g),0.5,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+379,379,5,Cholesterol (mg),80.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+380,380,6,Sodium (mg),1170.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+381,381,7,Total Carbs (g),42.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+382,382,8,Fiber (g),3.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+383,383,9,Sugars (g),6.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+384,384,10,Protein (g),30.0,Premium McWrap Chicken & Ranch (Grilled Chicken),Chicken & Fish,McDonald
+385,385,0,Calories,670.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+386,386,1,Calories from Fat,300.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+387,387,2,Total Fat (g),33.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+388,388,3,Saturated Fat (g),8.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+389,389,4,Trans Fat (g),0.5,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+390,390,5,Cholesterol (mg),60.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+391,391,6,Sodium (mg),1480.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+392,392,7,Total Carbs (g),68.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+393,393,8,Fiber (g),5.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+394,394,9,Sugars (g),12.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+395,395,10,Protein (g),27.0,Premium McWrap Southwest Chicken (Crispy Chicken),Chicken & Fish,McDonald
+396,396,0,Calories,520.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+397,397,1,Calories from Fat,180.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+398,398,2,Total Fat (g),20.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+399,399,3,Saturated Fat (g),6.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+400,400,4,Trans Fat (g),0.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+401,401,5,Cholesterol (mg),80.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+402,402,6,Sodium (mg),1320.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+403,403,7,Total Carbs (g),55.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+404,404,8,Fiber (g),5.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+405,405,9,Sugars (g),10.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+406,406,10,Protein (g),31.0,Premium McWrap Southwest Chicken (Grilled Chicken),Chicken & Fish,McDonald
+407,407,0,Calories,540.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+408,408,1,Calories from Fat,200.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+409,409,2,Total Fat (g),23.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+410,410,3,Saturated Fat (g),4.5,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+411,411,4,Trans Fat (g),0.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+412,412,5,Cholesterol (mg),50.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+413,413,6,Sodium (mg),1260.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+414,414,7,Total Carbs (g),61.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+415,415,8,Fiber (g),3.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+416,416,9,Sugars (g),14.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+417,417,10,Protein (g),23.0,Premium McWrap Chicken Sweet Chili (Crispy Chicken),Chicken & Fish,McDonald
+418,418,0,Calories,380.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+419,419,1,Calories from Fat,90.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+420,420,2,Total Fat (g),10.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+421,421,3,Saturated Fat (g),3.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+422,422,4,Trans Fat (g),0.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+423,423,5,Cholesterol (mg),65.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+424,424,6,Sodium (mg),1090.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+425,425,7,Total Carbs (g),47.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+426,426,8,Fiber (g),3.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+427,427,9,Sugars (g),12.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+428,428,10,Protein (g),27.0,Premium McWrap Chicken Sweet Chili (Grilled Chicken),Chicken & Fish,McDonald
+429,429,0,Calories,190.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+430,430,1,Calories from Fat,110.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+431,431,2,Total Fat (g),12.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+432,432,3,Saturated Fat (g),2.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+433,433,4,Trans Fat (g),0.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+434,434,5,Cholesterol (mg),25.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+435,435,6,Sodium (mg),360.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+436,436,7,Total Carbs (g),12.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+437,437,8,Fiber (g),1.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+438,438,9,Sugars (g),0.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+439,439,10,Protein (g),9.0,Chicken McNuggets (4 piece),Snacks & Sides,McDonald
+440,440,0,Calories,280.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+441,441,1,Calories from Fat,160.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+442,442,2,Total Fat (g),18.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+443,443,3,Saturated Fat (g),3.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+444,444,4,Trans Fat (g),0.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+445,445,5,Cholesterol (mg),40.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+446,446,6,Sodium (mg),540.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+447,447,7,Total Carbs (g),18.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+448,448,8,Fiber (g),1.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+449,449,9,Sugars (g),0.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+450,450,10,Protein (g),13.0,Chicken McNuggets (6 piece),Snacks & Sides,McDonald
+451,451,0,Calories,470.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+452,452,1,Calories from Fat,270.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+453,453,2,Total Fat (g),30.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+454,454,3,Saturated Fat (g),5.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+455,455,4,Trans Fat (g),0.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+456,456,5,Cholesterol (mg),65.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+457,457,6,Sodium (mg),900.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+458,458,7,Total Carbs (g),30.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+459,459,8,Fiber (g),2.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+460,460,9,Sugars (g),0.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+461,461,10,Protein (g),22.0,Chicken McNuggets (10 piece),Snacks & Sides,McDonald
+462,462,0,Calories,940.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+463,463,1,Calories from Fat,530.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+464,464,2,Total Fat (g),59.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+465,465,3,Saturated Fat (g),10.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+466,466,4,Trans Fat (g),0.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+467,467,5,Cholesterol (mg),135.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+468,468,6,Sodium (mg),1800.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+469,469,7,Total Carbs (g),59.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+470,470,8,Fiber (g),3.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+471,471,9,Sugars (g),0.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+472,472,10,Protein (g),44.0,Chicken McNuggets (20 piece),Snacks & Sides,McDonald
+473,473,0,Calories,1880.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+474,474,1,Calories from Fat,1060.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+475,475,2,Total Fat (g),118.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+476,476,3,Saturated Fat (g),20.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+477,477,4,Trans Fat (g),1.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+478,478,5,Cholesterol (mg),265.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+479,479,6,Sodium (mg),3600.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+480,480,7,Total Carbs (g),118.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+481,481,8,Fiber (g),6.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+482,482,9,Sugars (g),1.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+483,483,10,Protein (g),87.0,Chicken McNuggets (40 piece),Snacks & Sides,McDonald
+484,484,0,Calories,390.0,Filet-O-Fish,Chicken & Fish,McDonald
+485,485,1,Calories from Fat,170.0,Filet-O-Fish,Chicken & Fish,McDonald
+486,486,2,Total Fat (g),19.0,Filet-O-Fish,Chicken & Fish,McDonald
+487,487,3,Saturated Fat (g),4.0,Filet-O-Fish,Chicken & Fish,McDonald
+488,488,4,Trans Fat (g),0.0,Filet-O-Fish,Chicken & Fish,McDonald
+489,489,5,Cholesterol (mg),40.0,Filet-O-Fish,Chicken & Fish,McDonald
+490,490,6,Sodium (mg),590.0,Filet-O-Fish,Chicken & Fish,McDonald
+491,491,7,Total Carbs (g),39.0,Filet-O-Fish,Chicken & Fish,McDonald
+492,492,8,Fiber (g),2.0,Filet-O-Fish,Chicken & Fish,McDonald
+493,493,9,Sugars (g),5.0,Filet-O-Fish,Chicken & Fish,McDonald
+494,494,10,Protein (g),15.0,Filet-O-Fish,Chicken & Fish,McDonald
+495,495,0,Calories,140.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+496,496,1,Calories from Fat,70.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+497,497,2,Total Fat (g),7.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+498,498,3,Saturated Fat (g),3.5,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+499,499,4,Trans Fat (g),0.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+500,500,5,Cholesterol (mg),25.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+501,501,6,Sodium (mg),300.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+502,502,7,Total Carbs (g),10.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+503,503,8,Fiber (g),3.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+504,504,9,Sugars (g),4.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+505,505,10,Protein (g),9.0,Premium Bacon Ranch Salad (without Chicken),Salads,McDonald
+506,506,0,Calories,380.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+507,507,1,Calories from Fat,190.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+508,508,2,Total Fat (g),21.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+509,509,3,Saturated Fat (g),6.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+510,510,4,Trans Fat (g),0.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+511,511,5,Cholesterol (mg),70.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+512,512,6,Sodium (mg),860.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+513,513,7,Total Carbs (g),22.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+514,514,8,Fiber (g),2.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+515,515,9,Sugars (g),5.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+516,516,10,Protein (g),25.0,Premium Bacon Ranch Salad with Crispy Chicken,Salads,McDonald
+517,517,0,Calories,220.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+518,518,1,Calories from Fat,80.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+519,519,2,Total Fat (g),8.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+520,520,3,Saturated Fat (g),4.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+521,521,4,Trans Fat (g),0.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+522,522,5,Cholesterol (mg),85.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+523,523,6,Sodium (mg),690.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+524,524,7,Total Carbs (g),8.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+525,525,8,Fiber (g),2.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+526,526,9,Sugars (g),4.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+527,527,10,Protein (g),29.0,Premium Bacon Ranch Salad with Grilled Chicken,Salads,McDonald
+528,528,0,Calories,140.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+529,529,1,Calories from Fat,40.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+530,530,2,Total Fat (g),4.5,Premium Southwest Salad (without Chicken),Salads,McDonald
+531,531,3,Saturated Fat (g),2.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+532,532,4,Trans Fat (g),0.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+533,533,5,Cholesterol (mg),10.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+534,534,6,Sodium (mg),150.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+535,535,7,Total Carbs (g),20.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+536,536,8,Fiber (g),6.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+537,537,9,Sugars (g),6.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+538,538,10,Protein (g),6.0,Premium Southwest Salad (without Chicken),Salads,McDonald
+539,539,0,Calories,450.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+540,540,1,Calories from Fat,190.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+541,541,2,Total Fat (g),22.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+542,542,3,Saturated Fat (g),4.5,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+543,543,4,Trans Fat (g),0.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+544,544,5,Cholesterol (mg),50.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+545,545,6,Sodium (mg),850.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+546,546,7,Total Carbs (g),42.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+547,547,8,Fiber (g),7.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+548,548,9,Sugars (g),12.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+549,549,10,Protein (g),23.0,Premium Southwest Salad with Crispy Chicken,Salads,McDonald
+550,550,0,Calories,290.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+551,551,1,Calories from Fat,80.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+552,552,2,Total Fat (g),8.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+553,553,3,Saturated Fat (g),2.5,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+554,554,4,Trans Fat (g),0.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+555,555,5,Cholesterol (mg),70.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+556,556,6,Sodium (mg),680.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+557,557,7,Total Carbs (g),28.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+558,558,8,Fiber (g),7.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+559,559,9,Sugars (g),10.0,Premium Southwest Salad with Grilled Chicken,Salads,McDonald
+560,560,10,Protein (g),27.0,Premium Southwest Salad with Grilled Chicken,Saladas,McDonald
+561,561,0,Calories,340.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+562,562,1,Calories from Fat,130.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+563,563,2,Total Fat (g),15.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+564,564,3,Saturated Fat (g),4.5,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+565,565,4,Trans Fat (g),0.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+566,566,5,Cholesterol (mg),30.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+567,567,6,Sodium (mg),780.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+568,568,7,Total Carbs (g),37.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+569,569,8,Fiber (g),1.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+570,570,9,Sugars (g),8.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+571,571,10,Protein (g),14.0,Chipotle BBQ Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+572,572,0,Calories,260.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+573,573,1,Calories from Fat,70.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+574,574,2,Total Fat (g),8.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+575,575,3,Saturated Fat (g),3.5,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+576,576,4,Trans Fat (g),0.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+577,577,5,Cholesterol (mg),40.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+578,578,6,Sodium (mg),700.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+579,579,7,Total Carbs (g),30.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+580,580,8,Fiber (g),1.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+581,581,9,Sugars (g),7.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+582,582,10,Protein (g),16.0,Chipotle BBQ Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+583,583,0,Calories,330.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+584,584,1,Calories from Fat,130.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+585,585,2,Total Fat (g),15.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+586,586,3,Saturated Fat (g),4.5,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+587,587,4,Trans Fat (g),0.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+588,588,5,Cholesterol (mg),35.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+589,589,6,Sodium (mg),730.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+590,590,7,Total Carbs (g),34.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+591,591,8,Fiber (g),1.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+592,592,9,Sugars (g),3.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+593,593,10,Protein (g),14.0,Honey Mustard Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+594,594,0,Calories,250.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+595,595,1,Calories from Fat,70.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+596,596,2,Total Fat (g),8.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+597,597,3,Saturated Fat (g),3.5,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+598,598,4,Trans Fat (g),0.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+599,599,5,Cholesterol (mg),45.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+600,600,6,Sodium (mg),650.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+601,601,7,Total Carbs (g),27.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+602,602,8,Fiber (g),1.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+603,603,9,Sugars (g),2.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+604,604,10,Protein (g),16.0,Honey Mustard Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+605,605,0,Calories,360.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+606,606,1,Calories from Fat,180.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+607,607,2,Total Fat (g),20.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+608,608,3,Saturated Fat (g),5.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+609,609,4,Trans Fat (g),0.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+610,610,5,Cholesterol (mg),40.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+611,611,6,Sodium (mg),810.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+612,612,7,Total Carbs (g),32.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+613,613,8,Fiber (g),1.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+614,614,9,Sugars (g),3.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+615,615,10,Protein (g),15.0,Ranch Snack Wrap (Crispy Chicken),Chicken & Fish,McDonald
+616,616,0,Calories,280.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+617,617,1,Calories from Fat,120.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+618,618,2,Total Fat (g),13.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+619,619,3,Saturated Fat (g),4.5,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+620,620,4,Trans Fat (g),0.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+621,621,5,Cholesterol (mg),45.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+622,622,6,Sodium (mg),720.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+623,623,7,Total Carbs (g),25.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+624,624,8,Fiber (g),1.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+625,625,9,Sugars (g),2.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+626,626,10,Protein (g),16.0,Ranch Snack Wrap (Grilled Chicken),Chicken & Fish,McDonald
+627,627,0,Calories,230.0,Small French Fries,Snacks & Sides,McDonald
+628,628,1,Calories from Fat,100.0,Small French Fries,Snacks & Sides,McDonald
+629,629,2,Total Fat (g),11.0,Small French Fries,Snacks & Sides,McDonald
+630,630,3,Saturated Fat (g),1.5,Small French Fries,Snacks & Sides,McDonald
+631,631,4,Trans Fat (g),0.0,Small French Fries,Snacks & Sides,McDonald
+632,632,5,Cholesterol (mg),0.0,Small French Fries,Snacks & Sides,McDonald
+633,633,6,Sodium (mg),130.0,Small French Fries,Snacks & Sides,McDonald
+634,634,7,Total Carbs (g),30.0,Small French Fries,Snacks & Sides,McDonald
+635,635,8,Fiber (g),2.0,Small French Fries,Snacks & Sides,McDonald
+636,636,9,Sugars (g),0.0,Small French Fries,Snacks & Sides,McDonald
+637,637,10,Protein (g),2.0,Small French Fries,Snacks & Sides,McDonald
+638,638,0,Calories,340.0,Medium French Fries,Snacks & Sides,McDonald
+639,639,1,Calories from Fat,140.0,Medium French Fries,Snacks & Sides,McDonald
+640,640,2,Total Fat (g),16.0,Medium French Fries,Snacks & Sides,McDonald
+641,641,3,Saturated Fat (g),2.5,Medium French Fries,Snacks & Sides,McDonald
+642,642,4,Trans Fat (g),0.0,Medium French Fries,Snacks & Sides,McDonald
+643,643,5,Cholesterol (mg),0.0,Medium French Fries,Snacks & Sides,McDonald
+644,644,6,Sodium (mg),190.0,Medium French Fries,Snacks & Sides,McDonald
+645,645,7,Total Carbs (g),44.0,Medium French Fries,Snacks & Sides,McDonald
+646,646,8,Fiber (g),4.0,Medium French Fries,Snacks & Sides,McDonald
+647,647,9,Sugars (g),0.0,Medium French Fries,Snacks & Sides,McDonald
+648,648,10,Protein (g),4.0,Medium French Fries,Snacks & Sides,McDonald
+649,649,0,Calories,510.0,Large French Fries,Snacks & Sides,McDonald
+650,650,1,Calories from Fat,220.0,Large French Fries,Snacks & Sides,McDonald
+651,651,2,Total Fat (g),24.0,Large French Fries,Snacks & Sides,McDonald
+652,652,3,Saturated Fat (g),3.5,Large French Fries,Snacks & Sides,McDonald
+653,653,4,Trans Fat (g),0.0,Large French Fries,Snacks & Sides,McDonald
+654,654,5,Cholesterol (mg),0.0,Large French Fries,Snacks & Sides,McDonald
+655,655,6,Sodium (mg),290.0,Large French Fries,Snacks & Sides,McDonald
+656,656,7,Total Carbs (g),67.0,Large French Fries,Snacks & Sides,McDonald
+657,657,8,Fiber (g),5.0,Large French Fries,Snacks & Sides,McDonald
+658,658,9,Sugars (g),0.0,Large French Fries,Snacks & Sides,McDonald
+659,659,10,Protein (g),6.0,Large French Fries,Snacks & Sides,McDonald
+660,660,0,Calories,110.0,Kids French Fries,Snacks & Sides,McDonald
+661,661,1,Calories from Fat,50.0,Kids French Fries,Snacks & Sides,McDonald
+662,662,2,Total Fat (g),5.0,Kids French Fries,Snacks & Sides,McDonald
+663,663,3,Saturated Fat (g),1.0,Kids French Fries,Snacks & Sides,McDonald
+664,664,4,Trans Fat (g),0.0,Kids French Fries,Snacks & Sides,McDonald
+665,665,5,Cholesterol (mg),0.0,Kids French Fries,Snacks & Sides,McDonald
+666,666,6,Sodium (mg),65.0,Kids French Fries,Snacks & Sides,McDonald
+667,667,7,Total Carbs (g),15.0,Kids French Fries,Snacks & Sides,McDonald
+668,668,8,Fiber (g),1.0,Kids French Fries,Snacks & Sides,McDonald
+669,669,9,Sugars (g),0.0,Kids French Fries,Snacks & Sides,McDonald
+670,670,10,Protein (g),1.0,Kids French Fries,Snacks & Sides,McDonald
+671,671,0,Calories,20.0,Side Salad,Salads,McDonald
+672,672,1,Calories from Fat,0.0,Side Salad,Salads,McDonald
+673,673,2,Total Fat (g),0.0,Side Salad,Salads,McDonald
+674,674,3,Saturated Fat (g),0.0,Side Salad,Salads,McDonald
+675,675,4,Trans Fat (g),0.0,Side Salad,Salads,McDonald
+676,676,5,Cholesterol (mg),0.0,Side Salad,Salads,McDonald
+677,677,6,Sodium (mg),10.0,Side Salad,Salads,McDonald
+678,678,7,Total Carbs (g),4.0,Side Salad,Salads,McDonald
+679,679,8,Fiber (g),1.0,Side Salad,Salads,McDonald
+680,680,9,Sugars (g),2.0,Side Salad,Salads,McDonald
+681,681,10,Protein (g),1.0,Side Salad,Salads,McDonald
+682,682,0,Calories,15.0,Apple Slices,Desserts,McDonald
+683,683,1,Calories from Fat,0.0,Apple Slices,Desserts,McDonald
+684,684,2,Total Fat (g),0.0,Apple Slices,Desserts,McDonald
+685,685,3,Saturated Fat (g),0.0,Apple Slices,Desserts,McDonald
+686,686,4,Trans Fat (g),0.0,Apple Slices,Desserts,McDonald
+687,687,5,Cholesterol (mg),0.0,Apple Slices,Desserts,McDonald
+688,688,6,Sodium (mg),0.0,Apple Slices,Desserts,McDonald
+689,689,7,Total Carbs (g),4.0,Apple Slices,Desserts,McDonald
+690,690,8,Fiber (g),0.0,Apple Slices,Desserts,McDonald
+691,691,9,Sugars (g),3.0,Apple Slices,Desserts,McDonald
+692,692,10,Protein (g),0.0,Apple Slices,Desserts,McDonald
+693,693,0,Calories,150.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+694,694,1,Calories from Fat,20.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+695,695,2,Total Fat (g),2.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+696,696,3,Saturated Fat (g),1.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+697,697,4,Trans Fat (g),0.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+698,698,5,Cholesterol (mg),5.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+699,699,6,Sodium (mg),70.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+700,700,7,Total Carbs (g),30.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+701,701,8,Fiber (g),1.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+702,702,9,Sugars (g),23.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+703,703,10,Protein (g),4.0,Fruit 'n Yogurt Parfait,Desserts,McDonald
+704,704,0,Calories,250.0,Baked Apple Pie,Desserts,McDonald
+705,705,1,Calories from Fat,110.0,Baked Apple Pie,Desserts,McDonald
+706,706,2,Total Fat (g),13.0,Baked Apple Pie,Desserts,McDonald
+707,707,3,Saturated Fat (g),7.0,Baked Apple Pie,Desserts,McDonald
+708,708,4,Trans Fat (g),0.0,Baked Apple Pie,Desserts,McDonald
+709,709,5,Cholesterol (mg),0.0,Baked Apple Pie,Desserts,McDonald
+710,710,6,Sodium (mg),170.0,Baked Apple Pie,Desserts,McDonald
+711,711,7,Total Carbs (g),32.0,Baked Apple Pie,Desserts,McDonald
+712,712,8,Fiber (g),4.0,Baked Apple Pie,Desserts,McDonald
+713,713,9,Sugars (g),13.0,Baked Apple Pie,Desserts,McDonald
+714,714,10,Protein (g),2.0,Baked Apple Pie,Desserts,McDonald
+715,715,0,Calories,160.0,Chocolate Chip Cookie,Desserts,McDonald
+716,716,1,Calories from Fat,70.0,Chocolate Chip Cookie,Desserts,McDonald
+717,717,2,Total Fat (g),8.0,Chocolate Chip Cookie,Desserts,McDonald
+718,718,3,Saturated Fat (g),3.5,Chocolate Chip Cookie,Desserts,McDonald
+719,719,4,Trans Fat (g),0.0,Chocolate Chip Cookie,Desserts,McDonald
+720,720,5,Cholesterol (mg),10.0,Chocolate Chip Cookie,Desserts,McDonald
+721,721,6,Sodium (mg),90.0,Chocolate Chip Cookie,Desserts,McDonald
+722,722,7,Total Carbs (g),21.0,Chocolate Chip Cookie,Desserts,McDonald
+723,723,8,Fiber (g),1.0,Chocolate Chip Cookie,Desserts,McDonald
+724,724,9,Sugars (g),15.0,Chocolate Chip Cookie,Desserts,McDonald
+725,725,10,Protein (g),2.0,Chocolate Chip Cookie,Desserts,McDonald
+726,726,0,Calories,150.0,Oatmeal Raisin Cookie,Desserts,McDonald
+727,727,1,Calories from Fat,50.0,Oatmeal Raisin Cookie,Desserts,McDonald
+728,728,2,Total Fat (g),6.0,Oatmeal Raisin Cookie,Desserts,McDonald
+729,729,3,Saturated Fat (g),2.5,Oatmeal Raisin Cookie,Desserts,McDonald
+730,730,4,Trans Fat (g),0.0,Oatmeal Raisin Cookie,Desserts,McDonald
+731,731,5,Cholesterol (mg),10.0,Oatmeal Raisin Cookie,Desserts,McDonald
+732,732,6,Sodium (mg),135.0,Oatmeal Raisin Cookie,Desserts,McDonald
+733,733,7,Total Carbs (g),22.0,Oatmeal Raisin Cookie,Desserts,McDonald
+734,734,8,Fiber (g),1.0,Oatmeal Raisin Cookie,Desserts,McDonald
+735,735,9,Sugars (g),13.0,Oatmeal Raisin Cookie,Desserts,McDonald
+736,736,10,Protein (g),2.0,Oatmeal Raisin Cookie,Desserts,McDonald
+737,737,0,Calories,45.0,Kids Ice Cream Cone,Desserts,McDonald
+738,738,1,Calories from Fat,10.0,Kids Ice Cream Cone,Desserts,McDonald
+739,739,2,Total Fat (g),1.5,Kids Ice Cream Cone,Desserts,McDonald
+740,740,3,Saturated Fat (g),1.0,Kids Ice Cream Cone,Desserts,McDonald
+741,741,4,Trans Fat (g),0.0,Kids Ice Cream Cone,Desserts,McDonald
+742,742,5,Cholesterol (mg),5.0,Kids Ice Cream Cone,Desserts,McDonald
+743,743,6,Sodium (mg),20.0,Kids Ice Cream Cone,Desserts,McDonald
+744,744,7,Total Carbs (g),7.0,Kids Ice Cream Cone,Desserts,McDonald
+745,745,8,Fiber (g),0.0,Kids Ice Cream Cone,Desserts,McDonald
+746,746,9,Sugars (g),6.0,Kids Ice Cream Cone,Desserts,McDonald
+747,747,10,Protein (g),1.0,Kids Ice Cream Cone,Desserts,McDonald
+748,748,0,Calories,330.0,Hot Fudge Sundae,Desserts,McDonald
+749,749,1,Calories from Fat,80.0,Hot Fudge Sundae,Desserts,McDonald
+750,750,2,Total Fat (g),9.0,Hot Fudge Sundae,Desserts,McDonald
+751,751,3,Saturated Fat (g),7.0,Hot Fudge Sundae,Desserts,McDonald
+752,752,4,Trans Fat (g),0.0,Hot Fudge Sundae,Desserts,McDonald
+753,753,5,Cholesterol (mg),25.0,Hot Fudge Sundae,Desserts,McDonald
+754,754,6,Sodium (mg),170.0,Hot Fudge Sundae,Desserts,McDonald
+755,755,7,Total Carbs (g),53.0,Hot Fudge Sundae,Desserts,McDonald
+756,756,8,Fiber (g),1.0,Hot Fudge Sundae,Desserts,McDonald
+757,757,9,Sugars (g),48.0,Hot Fudge Sundae,Desserts,McDonald
+758,758,10,Protein (g),8.0,Hot Fudge Sundae,Desserts,McDonald
+759,759,0,Calories,340.0,Hot Caramel Sundae,Desserts,McDonald
+760,760,1,Calories from Fat,70.0,Hot Caramel Sundae,Desserts,McDonald
+761,761,2,Total Fat (g),8.0,Hot Caramel Sundae,Desserts,McDonald
+762,762,3,Saturated Fat (g),5.0,Hot Caramel Sundae,Desserts,McDonald
+763,763,4,Trans Fat (g),0.0,Hot Caramel Sundae,Desserts,McDonald
+764,764,5,Cholesterol (mg),30.0,Hot Caramel Sundae,Desserts,McDonald
+765,765,6,Sodium (mg),150.0,Hot Caramel Sundae,Desserts,McDonald
+766,766,7,Total Carbs (g),60.0,Hot Caramel Sundae,Desserts,McDonald
+767,767,8,Fiber (g),0.0,Hot Caramel Sundae,Desserts,McDonald
+768,768,9,Sugars (g),43.0,Hot Caramel Sundae,Desserts,McDonald
+769,769,10,Protein (g),7.0,Hot Caramel Sundae,Desserts,McDonald
+770,770,0,Calories,280.0,Strawberry Sundae,Desserts,McDonald
+771,771,1,Calories from Fat,60.0,Strawberry Sundae,Desserts,McDonald
+772,772,2,Total Fat (g),6.0,Strawberry Sundae,Desserts,McDonald
+773,773,3,Saturated Fat (g),4.0,Strawberry Sundae,Desserts,McDonald
+774,774,4,Trans Fat (g),0.0,Strawberry Sundae,Desserts,McDonald
+775,775,5,Cholesterol (mg),25.0,Strawberry Sundae,Desserts,McDonald
+776,776,6,Sodium (mg),85.0,Strawberry Sundae,Desserts,McDonald
+777,777,7,Total Carbs (g),49.0,Strawberry Sundae,Desserts,McDonald
+778,778,8,Fiber (g),0.0,Strawberry Sundae,Desserts,McDonald
+779,779,9,Sugars (g),45.0,Strawberry Sundae,Desserts,McDonald
+780,780,10,Protein (g),6.0,Strawberry Sundae,Desserts,McDonald
+781,781,0,Calories,450.0,Frappé Mocha (Small),Desserts,McDonald
+782,782,1,Calories from Fat,160.0,Frappé Mocha (Small),Desserts,McDonald
+783,783,2,Total Fat (g),18.0,Frappé Mocha (Small),Desserts,McDonald
+784,784,3,Saturated Fat (g),12.0,Frappé Mocha (Small),Desserts,McDonald
+785,785,4,Trans Fat (g),1.0,Frappé Mocha (Small),Desserts,McDonald
+786,786,5,Cholesterol (mg),65.0,Frappé Mocha (Small),Desserts,McDonald
+787,787,6,Sodium (mg),125.0,Frappé Mocha (Small),Desserts,McDonald
+788,788,7,Total Carbs (g),65.0,Frappé Mocha (Small),Desserts,McDonald
+789,789,8,Fiber (g),1.0,Frappé Mocha (Small),Desserts,McDonald
+790,790,9,Sugars (g),57.0,Frappé Mocha (Small),Desserts,McDonald
+791,791,10,Protein (g),7.0,Frappé Mocha (Small),Desserts,McDonald
+792,792,0,Calories,550.0,Frappé Mocha (Medium),Desserts,McDonald
+793,793,1,Calories from Fat,200.0,Frappé Mocha (Medium),Desserts,McDonald
+794,794,2,Total Fat (g),22.0,Frappé Mocha (Medium),Desserts,McDonald
+795,795,3,Saturated Fat (g),14.0,Frappé Mocha (Medium),Desserts,McDonald
+796,796,4,Trans Fat (g),1.0,Frappé Mocha (Medium),Desserts,McDonald
+797,797,5,Cholesterol (mg),75.0,Frappé Mocha (Medium),Desserts,McDonald
+798,798,6,Sodium (mg),160.0,Frappé Mocha (Medium),Desserts,McDonald
+799,799,7,Total Carbs (g),80.0,Frappé Mocha (Medium),Desserts,McDonald
+800,800,8,Fiber (g),1.0,Frappé Mocha (Medium),Desserts,McDonald
+801,801,9,Sugars (g),71.0,Frappé Mocha (Medium),Desserts,McDonald
+802,802,10,Protein (g),9.0,Frappé Mocha (Medium),Desserts,McDonald
+803,803,0,Calories,670.0,Frappé Mocha (Large),Desserts,McDonald
+804,804,1,Calories from Fat,240.0,Frappé Mocha (Large),Desserts,McDonald
+805,805,2,Total Fat (g),26.0,Frappé Mocha (Large),Desserts,McDonald
+806,806,3,Saturated Fat (g),17.0,Frappé Mocha (Large),Desserts,McDonald
+807,807,4,Trans Fat (g),1.0,Frappé Mocha (Large),Desserts,McDonald
+808,808,5,Cholesterol (mg),90.0,Frappé Mocha (Large),Desserts,McDonald
+809,809,6,Sodium (mg),190.0,Frappé Mocha (Large),Desserts,McDonald
+810,810,7,Total Carbs (g),98.0,Frappé Mocha (Large),Desserts,McDonald
+811,811,8,Fiber (g),1.0,Frappé Mocha (Large),Desserts,McDonald
+812,812,9,Sugars (g),88.0,Frappé Mocha (Large),Desserts,McDonald
+813,813,10,Protein (g),11.0,Frappé Mocha (Large),Desserts,McDonald
+814,814,0,Calories,450.0,Frappé Caramel (Small),Desserts,McDonald
+815,815,1,Calories from Fat,170.0,Frappé Caramel (Small),Desserts,McDonald
+816,816,2,Total Fat (g),19.0,Frappé Caramel (Small),Desserts,McDonald
+817,817,3,Saturated Fat (g),12.0,Frappé Caramel (Small),Desserts,McDonald
+818,818,4,Trans Fat (g),1.0,Frappé Caramel (Small),Desserts,McDonald
+819,819,5,Cholesterol (mg),65.0,Frappé Caramel (Small),Desserts,McDonald
+820,820,6,Sodium (mg),125.0,Frappé Caramel (Small),Desserts,McDonald
+821,821,7,Total Carbs (g),64.0,Frappé Caramel (Small),Desserts,McDonald
+822,822,8,Fiber (g),0.0,Frappé Caramel (Small),Desserts,McDonald
+823,823,9,Sugars (g),57.0,Frappé Caramel (Small),Desserts,McDonald
+824,824,10,Protein (g),7.0,Frappé Caramel (Small),Desserts,McDonald
+825,825,0,Calories,550.0,Frappé Caramel (Medium),Desserts,McDonald
+826,826,1,Calories from Fat,200.0,Frappé Caramel (Medium),Desserts,McDonald
+827,827,2,Total Fat (g),23.0,Frappé Caramel (Medium),Desserts,McDonald
+828,828,3,Saturated Fat (g),15.0,Frappé Caramel (Medium),Desserts,McDonald
+829,829,4,Trans Fat (g),1.0,Frappé Caramel (Medium),Desserts,McDonald
+830,830,5,Cholesterol (mg),80.0,Frappé Caramel (Medium),Desserts,McDonald
+831,831,6,Sodium (mg),160.0,Frappé Caramel (Medium),Desserts,McDonald
+832,832,7,Total Carbs (g),79.0,Frappé Caramel (Medium),Desserts,McDonald
+833,833,8,Fiber (g),0.0,Frappé Caramel (Medium),Desserts,McDonald
+834,834,9,Sugars (g),71.0,Frappé Caramel (Medium),Desserts,McDonald
+835,835,10,Protein (g),9.0,Frappé Caramel (Medium),Desserts,McDonald
+836,836,0,Calories,670.0,Frappé Caramel (Large),Desserts,McDonald
+837,837,1,Calories from Fat,250.0,Frappé Caramel (Large),Desserts,McDonald
+838,838,2,Total Fat (g),27.0,Frappé Caramel (Large),Desserts,McDonald
+839,839,3,Saturated Fat (g),17.0,Frappé Caramel (Large),Desserts,McDonald
+840,840,4,Trans Fat (g),1.5,Frappé Caramel (Large),Desserts,McDonald
+841,841,5,Cholesterol (mg),95.0,Frappé Caramel (Large),Desserts,McDonald
+842,842,6,Sodium (mg),190.0,Frappé Caramel (Large),Desserts,McDonald
+843,843,7,Total Carbs (g),96.0,Frappé Caramel (Large),Desserts,McDonald
+844,844,8,Fiber (g),0.0,Frappé Caramel (Large),Desserts,McDonald
+845,845,9,Sugars (g),88.0,Frappé Caramel (Large),Desserts,McDonald
+846,846,10,Protein (g),11.0,Frappé Caramel (Large),Desserts,McDonald
+847,847,0,Calories,530.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+848,848,1,Calories from Fat,200.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+849,849,2,Total Fat (g),23.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+850,850,3,Saturated Fat (g),14.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+851,851,4,Trans Fat (g),1.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+852,852,5,Cholesterol (mg),65.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+853,853,6,Sodium (mg),135.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+854,854,7,Total Carbs (g),76.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+855,855,8,Fiber (g),1.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+856,856,9,Sugars (g),67.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+857,857,10,Protein (g),8.0,Frappé Chocolate Chip (Small),Desserts,McDonald
+858,858,0,Calories,630.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+859,859,1,Calories from Fat,240.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+860,860,2,Total Fat (g),26.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+861,861,3,Saturated Fat (g),17.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+862,862,4,Trans Fat (g),1.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+863,863,5,Cholesterol (mg),80.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+864,864,6,Sodium (mg),160.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+865,865,7,Total Carbs (g),91.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+866,866,8,Fiber (g),1.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+867,867,9,Sugars (g),81.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+868,868,10,Protein (g),9.0,Frappé Chocolate Chip (Medium),Desserts,McDonald
+869,869,0,Calories,760.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+870,870,1,Calories from Fat,280.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+871,871,2,Total Fat (g),31.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+872,872,3,Saturated Fat (g),20.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+873,873,4,Trans Fat (g),1.5,Frappé Chocolate Chip (Large),Desserts,McDonald
+874,874,5,Cholesterol (mg),95.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+875,875,6,Sodium (mg),200.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+876,876,7,Total Carbs (g),111.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+877,877,8,Fiber (g),1.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+878,878,9,Sugars (g),99.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+879,879,10,Protein (g),12.0,Frappé Chocolate Chip (Large),Desserts,McDonald
+880,880,0,Calories,220.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+881,881,1,Calories from Fat,5.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+882,882,2,Total Fat (g),0.5,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+883,883,3,Saturated Fat (g),0.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+884,884,4,Trans Fat (g),0.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+885,885,5,Cholesterol (mg),5.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+886,886,6,Sodium (mg),40.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+887,887,7,Total Carbs (g),50.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+888,888,8,Fiber (g),3.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+889,889,9,Sugars (g),44.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+890,890,10,Protein (g),2.0,Blueberry Pomegranate Smoothie (Small),Desserts,McDonald
+891,891,0,Calories,260.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+892,892,1,Calories from Fat,5.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+893,893,2,Total Fat (g),1.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+894,894,3,Saturated Fat (g),0.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+895,895,4,Trans Fat (g),0.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+896,896,5,Cholesterol (mg),5.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+897,897,6,Sodium (mg),50.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+898,898,7,Total Carbs (g),62.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+899,899,8,Fiber (g),4.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+900,900,9,Sugars (g),54.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+901,901,10,Protein (g),3.0,Blueberry Pomegranate Smoothie (Medium),Desserts,McDonald
+902,902,0,Calories,340.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+903,903,1,Calories from Fat,10.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+904,904,2,Total Fat (g),1.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+905,905,3,Saturated Fat (g),0.5,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+906,906,4,Trans Fat (g),0.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+907,907,5,Cholesterol (mg),5.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+908,908,6,Sodium (mg),65.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+909,909,7,Total Carbs (g),79.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+910,910,8,Fiber (g),5.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+911,911,9,Sugars (g),70.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+912,912,10,Protein (g),4.0,Blueberry Pomegranate Smoothie (Large),Desserts,McDonald
+913,913,0,Calories,210.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+914,914,1,Calories from Fat,5.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+915,915,2,Total Fat (g),0.5,Strawberry Banana Smoothie (Small),Desserts,McDonald
+916,916,3,Saturated Fat (g),0.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+917,917,4,Trans Fat (g),0.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+918,918,5,Cholesterol (mg),5.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+919,919,6,Sodium (mg),50.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+920,920,7,Total Carbs (g),47.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+921,921,8,Fiber (g),3.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+922,922,9,Sugars (g),44.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+923,923,10,Protein (g),3.0,Strawberry Banana Smoothie (Small),Desserts,McDonald
+924,924,0,Calories,250.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+925,925,1,Calories from Fat,5.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+926,926,2,Total Fat (g),1.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+927,927,3,Saturated Fat (g),0.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+928,928,4,Trans Fat (g),0.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+929,929,5,Cholesterol (mg),5.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+930,930,6,Sodium (mg),60.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+931,931,7,Total Carbs (g),58.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+932,932,8,Fiber (g),3.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+933,933,9,Sugars (g),54.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+934,934,10,Protein (g),4.0,Strawberry Banana Smoothie (Medium),Desserts,McDonald
+935,935,0,Calories,330.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+936,936,1,Calories from Fat,10.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+937,937,2,Total Fat (g),1.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+938,938,3,Saturated Fat (g),0.5,Strawberry Banana Smoothie (Large),Desserts,McDonald
+939,939,4,Trans Fat (g),0.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+940,940,5,Cholesterol (mg),5.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+941,941,6,Sodium (mg),80.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+942,942,7,Total Carbs (g),74.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+943,943,8,Fiber (g),4.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+944,944,9,Sugars (g),70.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+945,945,10,Protein (g),5.0,Strawberry Banana Smoothie (Large),Desserts,McDonald
+946,946,0,Calories,210.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+947,947,1,Calories from Fat,5.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+948,948,2,Total Fat (g),0.5,Mango Pineapple Smoothie (Small),Desserts,McDonald
+949,949,3,Saturated Fat (g),0.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+950,950,4,Trans Fat (g),0.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+951,951,5,Cholesterol (mg),5.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+952,952,6,Sodium (mg),40.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+953,953,7,Total Carbs (g),50.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+954,954,8,Fiber (g),1.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+955,955,9,Sugars (g),46.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+956,956,10,Protein (g),2.0,Mango Pineapple Smoothie (Small),Desserts,McDonald
+957,957,0,Calories,260.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+958,958,1,Calories from Fat,10.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+959,959,2,Total Fat (g),1.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+960,960,3,Saturated Fat (g),0.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+961,961,4,Trans Fat (g),0.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+962,962,5,Cholesterol (mg),5.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+963,963,6,Sodium (mg),45.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+964,964,7,Total Carbs (g),61.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+965,965,8,Fiber (g),1.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+966,966,9,Sugars (g),56.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+967,967,10,Protein (g),3.0,Mango Pineapple Smoothie (Medium),Desserts,McDonald
+968,968,0,Calories,340.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+969,969,1,Calories from Fat,10.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+970,970,2,Total Fat (g),1.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+971,971,3,Saturated Fat (g),0.5,Mango Pineapple Smoothie (Large),Desserts,McDonald
+972,972,4,Trans Fat (g),0.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+973,973,5,Cholesterol (mg),5.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+974,974,6,Sodium (mg),60.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+975,975,7,Total Carbs (g),78.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+976,976,8,Fiber (g),2.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+977,977,9,Sugars (g),72.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+978,978,10,Protein (g),4.0,Mango Pineapple Smoothie (Large),Desserts,McDonald
+979,979,0,Calories,530.0,Vanilla Shake (Small),Desserts,McDonald
+980,980,1,Calories from Fat,140.0,Vanilla Shake (Small),Desserts,McDonald
+981,981,2,Total Fat (g),15.0,Vanilla Shake (Small),Desserts,McDonald
+982,982,3,Saturated Fat (g),10.0,Vanilla Shake (Small),Desserts,McDonald
+983,983,4,Trans Fat (g),1.0,Vanilla Shake (Small),Desserts,McDonald
+984,984,5,Cholesterol (mg),60.0,Vanilla Shake (Small),Desserts,McDonald
+985,985,6,Sodium (mg),160.0,Vanilla Shake (Small),Desserts,McDonald
+986,986,7,Total Carbs (g),86.0,Vanilla Shake (Small),Desserts,McDonald
+987,987,8,Fiber (g),0.0,Vanilla Shake (Small),Desserts,McDonald
+988,988,9,Sugars (g),63.0,Vanilla Shake (Small),Desserts,McDonald
+989,989,10,Protein (g),11.0,Vanilla Shake (Small),Desserts,McDonald
+990,990,0,Calories,660.0,Vanilla Shake (Medium),Desserts,McDonald
+991,991,1,Calories from Fat,170.0,Vanilla Shake (Medium),Desserts,McDonald
+992,992,2,Total Fat (g),19.0,Vanilla Shake (Medium),Desserts,McDonald
+993,993,3,Saturated Fat (g),12.0,Vanilla Shake (Medium),Desserts,McDonald
+994,994,4,Trans Fat (g),1.0,Vanilla Shake (Medium),Desserts,McDonald
+995,995,5,Cholesterol (mg),75.0,Vanilla Shake (Medium),Desserts,McDonald
+996,996,6,Sodium (mg),200.0,Vanilla Shake (Medium),Desserts,McDonald
+997,997,7,Total Carbs (g),109.0,Vanilla Shake (Medium),Desserts,McDonald
+998,998,8,Fiber (g),0.0,Vanilla Shake (Medium),Desserts,McDonald
+999,999,9,Sugars (g),81.0,Vanilla Shake (Medium),Desserts,McDonald
+1000,1000,10,Protein (g),14.0,Vanilla Shake (Medium),Desserts,McDonald
+1001,1001,0,Calories,820.0,Vanilla Shake (Large),Desserts,McDonald
+1002,1002,1,Calories from Fat,210.0,Vanilla Shake (Large),Desserts,McDonald
+1003,1003,2,Total Fat (g),23.0,Vanilla Shake (Large),Desserts,McDonald
+1004,1004,3,Saturated Fat (g),15.0,Vanilla Shake (Large),Desserts,McDonald
+1005,1005,4,Trans Fat (g),1.0,Vanilla Shake (Large),Desserts,McDonald
+1006,1006,5,Cholesterol (mg),90.0,Vanilla Shake (Large),Desserts,McDonald
+1007,1007,6,Sodium (mg),260.0,Vanilla Shake (Large),Desserts,McDonald
+1008,1008,7,Total Carbs (g),135.0,Vanilla Shake (Large),Desserts,McDonald
+1009,1009,8,Fiber (g),0.0,Vanilla Shake (Large),Desserts,McDonald
+1010,1010,9,Sugars (g),101.0,Vanilla Shake (Large),Desserts,McDonald
+1011,1011,10,Protein (g),18.0,Vanilla Shake (Large),Desserts,McDonald
+1012,1012,0,Calories,550.0,Strawberry Shake (Small),Desserts,McDonald
+1013,1013,1,Calories from Fat,150.0,Strawberry Shake (Small),Desserts,McDonald
+1014,1014,2,Total Fat (g),16.0,Strawberry Shake (Small),Desserts,McDonald
+1015,1015,3,Saturated Fat (g),10.0,Strawberry Shake (Small),Desserts,McDonald
+1016,1016,4,Trans Fat (g),1.0,Strawberry Shake (Small),Desserts,McDonald
+1017,1017,5,Cholesterol (mg),60.0,Strawberry Shake (Small),Desserts,McDonald
+1018,1018,6,Sodium (mg),160.0,Strawberry Shake (Small),Desserts,McDonald
+1019,1019,7,Total Carbs (g),90.0,Strawberry Shake (Small),Desserts,McDonald
+1020,1020,8,Fiber (g),0.0,Strawberry Shake (Small),Desserts,McDonald
+1021,1021,9,Sugars (g),79.0,Strawberry Shake (Small),Desserts,McDonald
+1022,1022,10,Protein (g),12.0,Strawberry Shake (Small),Desserts,McDonald
+1023,1023,0,Calories,690.0,Strawberry Shake (Medium),Desserts,McDonald
+1024,1024,1,Calories from Fat,180.0,Strawberry Shake (Medium),Desserts,McDonald
+1025,1025,2,Total Fat (g),20.0,Strawberry Shake (Medium),Desserts,McDonald
+1026,1026,3,Saturated Fat (g),13.0,Strawberry Shake (Medium),Desserts,McDonald
+1027,1027,4,Trans Fat (g),1.0,Strawberry Shake (Medium),Desserts,McDonald
+1028,1028,5,Cholesterol (mg),75.0,Strawberry Shake (Medium),Desserts,McDonald
+1029,1029,6,Sodium (mg),210.0,Strawberry Shake (Medium),Desserts,McDonald
+1030,1030,7,Total Carbs (g),114.0,Strawberry Shake (Medium),Desserts,McDonald
+1031,1031,8,Fiber (g),0.0,Strawberry Shake (Medium),Desserts,McDonald
+1032,1032,9,Sugars (g),100.0,Strawberry Shake (Medium),Desserts,McDonald
+1033,1033,10,Protein (g),15.0,Strawberry Shake (Medium),Desserts,McDonald
+1034,1034,0,Calories,850.0,Strawberry Shake (Large),Desserts,McDonald
+1035,1035,1,Calories from Fat,210.0,Strawberry Shake (Large),Desserts,McDonald
+1036,1036,2,Total Fat (g),24.0,Strawberry Shake (Large),Desserts,McDonald
+1037,1037,3,Saturated Fat (g),15.0,Strawberry Shake (Large),Desserts,McDonald
+1038,1038,4,Trans Fat (g),1.0,Strawberry Shake (Large),Desserts,McDonald
+1039,1039,5,Cholesterol (mg),90.0,Strawberry Shake (Large),Desserts,McDonald
+1040,1040,6,Sodium (mg),260.0,Strawberry Shake (Large),Desserts,McDonald
+1041,1041,7,Total Carbs (g),140.0,Strawberry Shake (Large),Desserts,McDonald
+1042,1042,8,Fiber (g),0.0,Strawberry Shake (Large),Desserts,McDonald
+1043,1043,9,Sugars (g),123.0,Strawberry Shake (Large),Desserts,McDonald
+1044,1044,10,Protein (g),18.0,Strawberry Shake (Large),Desserts,McDonald
+1045,1045,0,Calories,560.0,Chocolate Shake (Small),Desserts,McDonald
+1046,1046,1,Calories from Fat,150.0,Chocolate Shake (Small),Desserts,McDonald
+1047,1047,2,Total Fat (g),16.0,Chocolate Shake (Small),Desserts,McDonald
+1048,1048,3,Saturated Fat (g),10.0,Chocolate Shake (Small),Desserts,McDonald
+1049,1049,4,Trans Fat (g),1.0,Chocolate Shake (Small),Desserts,McDonald
+1050,1050,5,Cholesterol (mg),60.0,Chocolate Shake (Small),Desserts,McDonald
+1051,1051,6,Sodium (mg),240.0,Chocolate Shake (Small),Desserts,McDonald
+1052,1052,7,Total Carbs (g),91.0,Chocolate Shake (Small),Desserts,McDonald
+1053,1053,8,Fiber (g),1.0,Chocolate Shake (Small),Desserts,McDonald
+1054,1054,9,Sugars (g),77.0,Chocolate Shake (Small),Desserts,McDonald
+1055,1055,10,Protein (g),12.0,Chocolate Shake (Small),Desserts,McDonald
+1056,1056,0,Calories,700.0,Chocolate Shake (Medium),Desserts,McDonald
+1057,1057,1,Calories from Fat,180.0,Chocolate Shake (Medium),Desserts,McDonald
+1058,1058,2,Total Fat (g),20.0,Chocolate Shake (Medium),Desserts,McDonald
+1059,1059,3,Saturated Fat (g),12.0,Chocolate Shake (Medium),Desserts,McDonald
+1060,1060,4,Trans Fat (g),1.0,Chocolate Shake (Medium),Desserts,McDonald
+1061,1061,5,Cholesterol (mg),75.0,Chocolate Shake (Medium),Desserts,McDonald
+1062,1062,6,Sodium (mg),300.0,Chocolate Shake (Medium),Desserts,McDonald
+1063,1063,7,Total Carbs (g),114.0,Chocolate Shake (Medium),Desserts,McDonald
+1064,1064,8,Fiber (g),2.0,Chocolate Shake (Medium),Desserts,McDonald
+1065,1065,9,Sugars (g),97.0,Chocolate Shake (Medium),Desserts,McDonald
+1066,1066,10,Protein (g),15.0,Chocolate Shake (Medium),Desserts,McDonald
+1067,1067,0,Calories,850.0,Chocolate Shake (Large),Desserts,McDonald
+1068,1068,1,Calories from Fat,210.0,Chocolate Shake (Large),Desserts,McDonald
+1069,1069,2,Total Fat (g),23.0,Chocolate Shake (Large),Desserts,McDonald
+1070,1070,3,Saturated Fat (g),15.0,Chocolate Shake (Large),Desserts,McDonald
+1071,1071,4,Trans Fat (g),1.0,Chocolate Shake (Large),Desserts,McDonald
+1072,1072,5,Cholesterol (mg),85.0,Chocolate Shake (Large),Desserts,McDonald
+1073,1073,6,Sodium (mg),380.0,Chocolate Shake (Large),Desserts,McDonald
+1074,1074,7,Total Carbs (g),141.0,Chocolate Shake (Large),Desserts,McDonald
+1075,1075,8,Fiber (g),2.0,Chocolate Shake (Large),Desserts,McDonald
+1076,1076,9,Sugars (g),120.0,Chocolate Shake (Large),Desserts,McDonald
+1077,1077,10,Protein (g),19.0,Chocolate Shake (Large),Desserts,McDonald
+1078,1078,0,Calories,660.0,Shamrock Shake (Medium),Desserts,McDonald
+1079,1079,1,Calories from Fat,170.0,Shamrock Shake (Medium),Desserts,McDonald
+1080,1080,2,Total Fat (g),19.0,Shamrock Shake (Medium),Desserts,McDonald
+1081,1081,3,Saturated Fat (g),12.0,Shamrock Shake (Medium),Desserts,McDonald
+1082,1082,4,Trans Fat (g),1.0,Shamrock Shake (Medium),Desserts,McDonald
+1083,1083,5,Cholesterol (mg),75.0,Shamrock Shake (Medium),Desserts,McDonald
+1084,1084,6,Sodium (mg),210.0,Shamrock Shake (Medium),Desserts,McDonald
+1085,1085,7,Total Carbs (g),109.0,Shamrock Shake (Medium),Desserts,McDonald
+1086,1086,8,Fiber (g),0.0,Shamrock Shake (Medium),Desserts,McDonald
+1087,1087,9,Sugars (g),93.0,Shamrock Shake (Medium),Desserts,McDonald
+1088,1088,10,Protein (g),14.0,Shamrock Shake (Medium),Desserts,McDonald
+1089,1089,0,Calories,820.0,Shamrock Shake (Large),Desserts,McDonald
+1090,1090,1,Calories from Fat,210.0,Shamrock Shake (Large),Desserts,McDonald
+1091,1091,2,Total Fat (g),23.0,Shamrock Shake (Large),Desserts,McDonald
+1092,1092,3,Saturated Fat (g),15.0,Shamrock Shake (Large),Desserts,McDonald
+1093,1093,4,Trans Fat (g),1.0,Shamrock Shake (Large),Desserts,McDonald
+1094,1094,5,Cholesterol (mg),90.0,Shamrock Shake (Large),Desserts,McDonald
+1095,1095,6,Sodium (mg),260.0,Shamrock Shake (Large),Desserts,McDonald
+1096,1096,7,Total Carbs (g),135.0,Shamrock Shake (Large),Desserts,McDonald
+1097,1097,8,Fiber (g),0.0,Shamrock Shake (Large),Desserts,McDonald
+1098,1098,9,Sugars (g),115.0,Shamrock Shake (Large),Desserts,McDonald
+1099,1099,10,Protein (g),18.0,Shamrock Shake (Large),Desserts,McDonald
+1100,1100,0,Calories,650.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1101,1101,1,Calories from Fat,210.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1102,1102,2,Total Fat (g),23.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1103,1103,3,Saturated Fat (g),14.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1104,1104,4,Trans Fat (g),0.5,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1105,1105,5,Cholesterol (mg),50.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1106,1106,6,Sodium (mg),180.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1107,1107,7,Total Carbs (g),96.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1108,1108,8,Fiber (g),1.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1109,1109,9,Sugars (g),89.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1110,1110,10,Protein (g),13.0,McFlurry with M&M’s Candies (Small),Desserts,McDonald
+1111,1111,0,Calories,930.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1112,1112,1,Calories from Fat,290.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1113,1113,2,Total Fat (g),33.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1114,1114,3,Saturated Fat (g),20.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1115,1115,4,Trans Fat (g),1.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1116,1116,5,Cholesterol (mg),75.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1117,1117,6,Sodium (mg),260.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1118,1118,7,Total Carbs (g),139.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1119,1119,8,Fiber (g),2.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1120,1120,9,Sugars (g),128.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1121,1121,10,Protein (g),20.0,McFlurry with M&M’s Candies (Medium),Desserts,McDonald
+1122,1122,0,Calories,430.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1123,1123,1,Calories from Fat,140.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1124,1124,2,Total Fat (g),15.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1125,1125,3,Saturated Fat (g),10.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1126,1126,4,Trans Fat (g),0.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1127,1127,5,Cholesterol (mg),35.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1128,1128,6,Sodium (mg),120.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1129,1129,7,Total Carbs (g),64.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1130,1130,8,Fiber (g),1.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1131,1131,9,Sugars (g),59.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1132,1132,10,Protein (g),9.0,McFlurry with M&M’s Candies (Snack),Desserts,McDonald
+1133,1133,0,Calories,510.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1134,1134,1,Calories from Fat,150.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1135,1135,2,Total Fat (g),17.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1136,1136,3,Saturated Fat (g),9.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1137,1137,4,Trans Fat (g),0.5,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1138,1138,5,Cholesterol (mg),45.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1139,1139,6,Sodium (mg),280.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1140,1140,7,Total Carbs (g),80.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1141,1141,8,Fiber (g),1.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1142,1142,9,Sugars (g),64.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1143,1143,10,Protein (g),12.0,McFlurry with Oreo Cookies (Small),Desserts,McDonald
+1144,1144,0,Calories,690.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1145,1145,1,Calories from Fat,200.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1146,1146,2,Total Fat (g),23.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1147,1147,3,Saturated Fat (g),12.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1148,1148,4,Trans Fat (g),1.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1149,1149,5,Cholesterol (mg),55.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1150,1150,6,Sodium (mg),380.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1151,1151,7,Total Carbs (g),106.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1152,1152,8,Fiber (g),1.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1153,1153,9,Sugars (g),85.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1154,1154,10,Protein (g),15.0,McFlurry with Oreo Cookies (Medium),Desserts,McDonald
+1155,1155,0,Calories,340.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1156,1156,1,Calories from Fat,100.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1157,1157,2,Total Fat (g),11.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1158,1158,3,Saturated Fat (g),6.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1159,1159,4,Trans Fat (g),0.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1160,1160,5,Cholesterol (mg),30.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1161,1161,6,Sodium (mg),190.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1162,1162,7,Total Carbs (g),53.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1163,1163,8,Fiber (g),1.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1164,1164,9,Sugars (g),43.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1165,1165,10,Protein (g),8.0,McFlurry with Oreo Cookies (Snack),Desserts,McDonald
+1166,1166,0,Calories,810.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1167,1167,1,Calories from Fat,290.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1168,1168,2,Total Fat (g),32.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1169,1169,3,Saturated Fat (g),15.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1170,1170,4,Trans Fat (g),1.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1171,1171,5,Cholesterol (mg),60.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1172,1172,6,Sodium (mg),400.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1173,1173,7,Total Carbs (g),114.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1174,1174,8,Fiber (g),2.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1175,1175,9,Sugars (g),103.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1176,1176,10,Protein (g),21.0,McFlurry with Reese's Peanut Butter Cups (Medium),Desserts,McDonald
+1177,1177,0,Calories,410.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1178,1178,1,Calories from Fat,150.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1179,1179,2,Total Fat (g),16.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1180,1180,3,Saturated Fat (g),8.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1181,1181,4,Trans Fat (g),0.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1182,1182,5,Cholesterol (mg),30.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1183,1183,6,Sodium (mg),200.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1184,1184,7,Total Carbs (g),57.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1185,1185,8,Fiber (g),1.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1186,1186,9,Sugars (g),51.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald
+1187,1187,10,Protein (g),10.0,McFlurry with Reese's Peanut Butter Cups (Snack),Desserts,McDonald

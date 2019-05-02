@@ -1,0 +1,925 @@
+,Componenti,Valori nutrizionali,Prodotto,Categoria,Fast_Food
+0,Calories,260,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+1, Protein (g),3,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+2, Total Fat (g),15.0,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+3,Total Carbs (g),28,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+4,Sodium (mg),130,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+5,Calories from Fat,130,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+6,Saturated Fat (g),3.5,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+7,Trans Fat (g),0.0,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+8,Cholesterol (mg),10,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+9,Fiber (g),1,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+10,Sugars (g),16,Cinnabon Delights – 4 Pack,Desserts,TacoBell
+11,Calories,440,Bacon & Egg Burrito,Beef & Pork,TacoBell
+12, Protein (g),20,Bacon & Egg Burrito,Beef & Pork,TacoBell
+13, Total Fat (g),24.0,Bacon & Egg Burrito,Beef & Pork,TacoBell
+14,Total Carbs (g),37,Bacon & Egg Burrito,Beef & Pork,TacoBell
+15,Sodium (mg),990,Bacon & Egg Burrito,Beef & Pork,TacoBell
+16,Calories from Fat,210,Bacon & Egg Burrito,Beef & Pork,TacoBell
+17,Saturated Fat (g),8.0,Bacon & Egg Burrito,Beef & Pork,TacoBell
+18,Trans Fat (g),0.0,Bacon & Egg Burrito,Beef & Pork,TacoBell
+19,Cholesterol (mg),195,Bacon & Egg Burrito,Beef & Pork,TacoBell
+20,Fiber (g),3,Bacon & Egg Burrito,Beef & Pork,TacoBell
+21,Sugars (g),3,Bacon & Egg Burrito,Beef & Pork,TacoBell
+22,Calories,520,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+23, Protein (g),19,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+24, Total Fat (g),21.0,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+25,Total Carbs (g),65,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+26,Sodium (mg),1280,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+27,Calories from Fat,190,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+28,Saturated Fat (g),8.0,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+29,Trans Fat (g),0.0,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+30,Cholesterol (mg),30,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+31,Fiber (g),8,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+32,Sugars (g),5,Beefy 5-Layer Burrito,Beef & Pork,TacoBell
+33,Calories,390,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+34, Protein (g),20,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+35, Total Fat (g),12.0,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+36,Total Carbs (g),51,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+37,Sodium (mg),1080,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+38,Calories from Fat,110,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+39,Saturated Fat (g),5.0,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+40,Trans Fat (g),0.0,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+41,Cholesterol (mg),40,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+42,Fiber (g),6,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+43,Sugars (g),4,Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+44,Calories,400,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+45, Protein (g),20,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+46, Total Fat (g),13.0,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+47,Total Carbs (g),51,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+48,Sodium (mg),1050,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+49,Calories from Fat,120,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+50,Saturated Fat (g),5.0,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+51,Trans Fat (g),0.0,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+52,Cholesterol (mg),35,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+53,Fiber (g),7,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+54,Sugars (g),5,Burrito Supreme® – Steak,Beef & Pork,TacoBell
+55,Calories,420,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+56, Protein (g),17,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+57, Total Fat (g),16.0,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+58,Total Carbs (g),52,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+59,Sodium (mg),1140,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+60,Calories from Fat,140,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+61,Saturated Fat (g),7.0,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+62,Trans Fat (g),0.0,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+63,Cholesterol (mg),30,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+64,Fiber (g),8,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+65,Sugars (g),5,Burrito Supreme® – Beef,Beef & Pork,TacoBell
+66,Calories,740,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+67, Protein (g),32,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+68, Total Fat (g),27.0,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+69,Total Carbs (g),94,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+70,Sodium (mg),1920,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+71,Calories from Fat,240,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+72,Saturated Fat (g),6.0,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+73,Trans Fat (g),0.0,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+74,Cholesterol (mg),60,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+75,Fiber (g),12,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+76,Sugars (g),7,Cantina Burrito – Chicken,Chicken & Fish,TacoBell
+77,Calories,760,Cantina Burrito – Steak,Beef & Pork,TacoBell
+78, Protein (g),33,Cantina Burrito – Steak,Beef & Pork,TacoBell
+79, Total Fat (g),28.0,Cantina Burrito – Steak,Beef & Pork,TacoBell
+80,Total Carbs (g),95,Cantina Burrito – Steak,Beef & Pork,TacoBell
+81,Sodium (mg),1870,Cantina Burrito – Steak,Beef & Pork,TacoBell
+82,Calories from Fat,250,Cantina Burrito – Steak,Beef & Pork,TacoBell
+83,Saturated Fat (g),7.0,Cantina Burrito – Steak,Beef & Pork,TacoBell
+84,Trans Fat (g),0.0,Cantina Burrito – Steak,Beef & Pork,TacoBell
+85,Cholesterol (mg),50,Cantina Burrito – Steak,Beef & Pork,TacoBell
+86,Fiber (g),13,Cantina Burrito – Steak,Beef & Pork,TacoBell
+87,Sugars (g),8,Cantina Burrito – Steak,Beef & Pork,TacoBell
+88,Calories,520,Cheesy Potato Burrito,Beef & Pork,TacoBell
+89, Protein (g),18,Cheesy Potato Burrito,Beef & Pork,TacoBell
+90, Total Fat (g),25.0,Cheesy Potato Burrito,Beef & Pork,TacoBell
+91,Total Carbs (g),57,Cheesy Potato Burrito,Beef & Pork,TacoBell
+92,Sodium (mg),1340,Cheesy Potato Burrito,Beef & Pork,TacoBell
+93,Calories from Fat,220,Cheesy Potato Burrito,Beef & Pork,TacoBell
+94,Saturated Fat (g),8.0,Cheesy Potato Burrito,Beef & Pork,TacoBell
+95,Trans Fat (g),0.5,Cheesy Potato Burrito,Beef & Pork,TacoBell
+96,Cholesterol (mg),45,Cheesy Potato Burrito,Beef & Pork,TacoBell
+97,Fiber (g),7,Cheesy Potato Burrito,Beef & Pork,TacoBell
+98,Sugars (g),4,Cheesy Potato Burrito,Beef & Pork,TacoBell
+99,Calories,410,Chicken Burrito,Chicken & Fish,TacoBell
+100, Protein (g),16,Chicken Burrito,Chicken & Fish,TacoBell
+101, Total Fat (g),18.0,Chicken Burrito,Chicken & Fish,TacoBell
+102,Total Carbs (g),46,Chicken Burrito,Chicken & Fish,TacoBell
+103,Sodium (mg),960,Chicken Burrito,Chicken & Fish,TacoBell
+104,Calories from Fat,160,Chicken Burrito,Chicken & Fish,TacoBell
+105,Saturated Fat (g),4.5,Chicken Burrito,Chicken & Fish,TacoBell
+106,Trans Fat (g),0.0,Chicken Burrito,Chicken & Fish,TacoBell
+107,Cholesterol (mg),30,Chicken Burrito,Chicken & Fish,TacoBell
+108,Fiber (g),3,Chicken Burrito,Chicken & Fish,TacoBell
+109,Sugars (g),3,Chicken Burrito,Chicken & Fish,TacoBell
+110,Calories,370,Chili Cheese Burrito,Beef & Pork,TacoBell
+111, Protein (g),16,Chili Cheese Burrito,Beef & Pork,TacoBell
+112, Total Fat (g),17.0,Chili Cheese Burrito,Beef & Pork,TacoBell
+113,Total Carbs (g),40,Chili Cheese Burrito,Beef & Pork,TacoBell
+114,Sodium (mg),910,Chili Cheese Burrito,Beef & Pork,TacoBell
+115,Calories from Fat,150,Chili Cheese Burrito,Beef & Pork,TacoBell
+116,Saturated Fat (g),8.0,Chili Cheese Burrito,Beef & Pork,TacoBell
+117,Trans Fat (g),0.5,Chili Cheese Burrito,Beef & Pork,TacoBell
+118,Cholesterol (mg),35,Chili Cheese Burrito,Beef & Pork,TacoBell
+119,Fiber (g),5,Chili Cheese Burrito,Beef & Pork,TacoBell
+120,Sugars (g),2,Chili Cheese Burrito,Beef & Pork,TacoBell
+121,Calories,460,Combo Burrito,Beef & Pork,TacoBell
+122, Protein (g),21,Combo Burrito,Beef & Pork,TacoBell
+123, Total Fat (g),19.0,Combo Burrito,Beef & Pork,TacoBell
+124,Total Carbs (g),52,Combo Burrito,Beef & Pork,TacoBell
+125,Sodium (mg),1380,Combo Burrito,Beef & Pork,TacoBell
+126,Calories from Fat,170,Combo Burrito,Beef & Pork,TacoBell
+127,Saturated Fat (g),7.0,Combo Burrito,Beef & Pork,TacoBell
+128,Trans Fat (g),0.5,Combo Burrito,Beef & Pork,TacoBell
+129,Cholesterol (mg),40,Combo Burrito,Beef & Pork,TacoBell
+130,Fiber (g),9,Combo Burrito,Beef & Pork,TacoBell
+131,Sugars (g),3,Combo Burrito,Beef & Pork,TacoBell
+132,Calories,430,Sausage & Egg Burrito,Beef & Pork,TacoBell
+133, Protein (g),17,Sausage & Egg Burrito,Beef & Pork,TacoBell
+134, Total Fat (g),24.0,Sausage & Egg Burrito,Beef & Pork,TacoBell
+135,Total Carbs (g),37,Sausage & Egg Burrito,Beef & Pork,TacoBell
+136,Sodium (mg),860,Sausage & Egg Burrito,Beef & Pork,TacoBell
+137,Calories from Fat,220,Sausage & Egg Burrito,Beef & Pork,TacoBell
+138,Saturated Fat (g),8.0,Sausage & Egg Burrito,Beef & Pork,TacoBell
+139,Trans Fat (g),0.0,Sausage & Egg Burrito,Beef & Pork,TacoBell
+140,Cholesterol (mg),190,Sausage & Egg Burrito,Beef & Pork,TacoBell
+141,Fiber (g),3,Sausage & Egg Burrito,Beef & Pork,TacoBell
+142,Sugars (g),2,Sausage & Egg Burrito,Beef & Pork,TacoBell
+143,Calories,710,Smothered Burrito – Beef,Beef & Pork,TacoBell
+144, Protein (g),28,Smothered Burrito – Beef,Beef & Pork,TacoBell
+145, Total Fat (g),35.0,Smothered Burrito – Beef,Beef & Pork,TacoBell
+146,Total Carbs (g),70,Smothered Burrito – Beef,Beef & Pork,TacoBell
+147,Sodium (mg),2260,Smothered Burrito – Beef,Beef & Pork,TacoBell
+148,Calories from Fat,320,Smothered Burrito – Beef,Beef & Pork,TacoBell
+149,Saturated Fat (g),13.0,Smothered Burrito – Beef,Beef & Pork,TacoBell
+150,Trans Fat (g),1.0,Smothered Burrito – Beef,Beef & Pork,TacoBell
+151,Cholesterol (mg),75,Smothered Burrito – Beef,Beef & Pork,TacoBell
+152,Fiber (g),10,Smothered Burrito – Beef,Beef & Pork,TacoBell
+153,Sugars (g),4,Smothered Burrito – Beef,Beef & Pork,TacoBell
+154,Calories,650,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+155, Protein (g),34,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+156, Total Fat (g),28.0,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+157,Total Carbs (g),67,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+158,Sodium (mg),2230,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+159,Calories from Fat,250,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+160,Saturated Fat (g),10.0,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+161,Trans Fat (g),0.0,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+162,Cholesterol (mg),70,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+163,Fiber (g),8,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+164,Sugars (g),4,Smothered Burrito – Shredded Chicken,Chicken & Fish,TacoBell
+165,Calories,670,Smothered Burrito – Steak,Beef & Pork,TacoBell
+166, Protein (g),35,Smothered Burrito – Steak,Beef & Pork,TacoBell
+167, Total Fat (g),29.0,Smothered Burrito – Steak,Beef & Pork,TacoBell
+168,Total Carbs (g),68,Smothered Burrito – Steak,Beef & Pork,TacoBell
+169,Sodium (mg),2080,Smothered Burrito – Steak,Beef & Pork,TacoBell
+170,Calories from Fat,260,Smothered Burrito – Steak,Beef & Pork,TacoBell
+171,Saturated Fat (g),11.0,Smothered Burrito – Steak,Beef & Pork,TacoBell
+172,Trans Fat (g),0.5,Smothered Burrito – Steak,Beef & Pork,TacoBell
+173,Cholesterol (mg),80,Smothered Burrito – Steak,Beef & Pork,TacoBell
+174,Fiber (g),7,Smothered Burrito – Steak,Beef & Pork,TacoBell
+175,Sugars (g),4,Smothered Burrito – Steak,Beef & Pork,TacoBell
+176,Calories,380,Steak & Egg Burrito,Beef & Pork,TacoBell
+177, Protein (g),19,Steak & Egg Burrito,Beef & Pork,TacoBell
+178, Total Fat (g),17.0,Steak & Egg Burrito,Beef & Pork,TacoBell
+179,Total Carbs (g),37,Steak & Egg Burrito,Beef & Pork,TacoBell
+180,Sodium (mg),790,Steak & Egg Burrito,Beef & Pork,TacoBell
+181,Calories from Fat,160,Steak & Egg Burrito,Beef & Pork,TacoBell
+182,Saturated Fat (g),5.0,Steak & Egg Burrito,Beef & Pork,TacoBell
+183,Trans Fat (g),0.0,Steak & Egg Burrito,Beef & Pork,TacoBell
+184,Cholesterol (mg),115,Steak & Egg Burrito,Beef & Pork,TacoBell
+185,Fiber (g),3,Steak & Egg Burrito,Beef & Pork,TacoBell
+186,Sugars (g),3,Steak & Egg Burrito,Beef & Pork,TacoBell
+187,Calories,780,Volcano Burrito,Beef & Pork,TacoBell
+188, Protein (g),23,Volcano Burrito,Beef & Pork,TacoBell
+189, Total Fat (g),41.0,Volcano Burrito,Beef & Pork,TacoBell
+190,Total Carbs (g),79,Volcano Burrito,Beef & Pork,TacoBell
+191,Sodium (mg),1650,Volcano Burrito,Beef & Pork,TacoBell
+192,Calories from Fat,370,Volcano Burrito,Beef & Pork,TacoBell
+193,Saturated Fat (g),12.0,Volcano Burrito,Beef & Pork,TacoBell
+194,Trans Fat (g),1.0,Volcano Burrito,Beef & Pork,TacoBell
+195,Cholesterol (mg),65,Volcano Burrito,Beef & Pork,TacoBell
+196,Fiber (g),9,Volcano Burrito,Beef & Pork,TacoBell
+197,Sugars (g),6,Volcano Burrito,Beef & Pork,TacoBell
+198,Calories,880,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+199, Protein (g),32,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+200, Total Fat (g),42.0,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+201,Total Carbs (g),93,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+202,Sodium (mg),2200,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+203,Calories from Fat,380,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+204,Saturated Fat (g),14.0,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+205,Trans Fat (g),1.0,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+206,Cholesterol (mg),70,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+207,Fiber (g),13,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+208,Sugars (g),7,XXL Grilled Stuft Burrito – Beef,Beef & Pork,TacoBell
+209,Calories,830,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+210, Protein (g),38,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+211, Total Fat (g),35.0,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+212,Total Carbs (g),90,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+213,Sodium (mg),2080,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+214,Calories from Fat,310,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+215,Saturated Fat (g),11.0,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+216,Trans Fat (g),0.0,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+217,Cholesterol (mg),85,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+218,Fiber (g),10,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+219,Sugars (g),7,XXL Grilled Stuft Burrito – Chicken,Chicken & Fish,TacoBell
+220,Calories,840,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+221, Protein (g),39,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+222, Total Fat (g),36.0,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+223,Total Carbs (g),91,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+224,Sodium (mg),2030,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+225,Calories from Fat,320,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+226,Saturated Fat (g),12.0,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+227,Trans Fat (g),0.5,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+228,Cholesterol (mg),75,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+229,Fiber (g),10,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+230,Sugars (g),7,XXL Grilled Stuft Burrito – Steak,Beef & Pork,TacoBell
+231,Calories,530,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+232, Protein (g),26,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+233, Total Fat (g),21.0,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+234,Total Carbs (g),59,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+235,Sodium (mg),1450,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+236,Calories from Fat,190,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+237,Saturated Fat (g),3.5,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+238,Trans Fat (g),0.0,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+239,Cholesterol (mg),60,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+240,Fiber (g),9,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+241,Sugars (g),4,Cantina Bowl – Chicken,Chicken & Fish,TacoBell
+242,Calories,550,Cantina Bowl – Steak,Beef & Pork,TacoBell
+243, Protein (g),26,Cantina Bowl – Steak,Beef & Pork,TacoBell
+244, Total Fat (g),23.0,Cantina Bowl – Steak,Beef & Pork,TacoBell
+245,Total Carbs (g),60,Cantina Bowl – Steak,Beef & Pork,TacoBell
+246,Sodium (mg),1390,Cantina Bowl – Steak,Beef & Pork,TacoBell
+247,Calories from Fat,200,Cantina Bowl – Steak,Beef & Pork,TacoBell
+248,Saturated Fat (g),4.0,Cantina Bowl – Steak,Beef & Pork,TacoBell
+249,Trans Fat (g),0.0,Cantina Bowl – Steak,Beef & Pork,TacoBell
+250,Cholesterol (mg),50,Cantina Bowl – Steak,Beef & Pork,TacoBell
+251,Fiber (g),9,Cantina Bowl – Steak,Beef & Pork,TacoBell
+252,Sugars (g),4,Cantina Bowl – Steak,Beef & Pork,TacoBell
+253,Calories,960,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+254, Protein (g),43,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+255, Total Fat (g),45.0,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+256,Total Carbs (g),97,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+257,Sodium (mg),2070,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+258,Calories from Fat,400,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+259,Saturated Fat (g),19.0,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+260,Trans Fat (g),1.0,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+261,Cholesterol (mg),115,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+262,Fiber (g),9,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+263,Sugars (g),10,Cantina Double Steak Quesadilla,Beef & Pork,TacoBell
+264,Calories,340,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+265, Protein (g),16,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+266, Total Fat (g),18.0,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+267,Total Carbs (g),29,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+268,Sodium (mg),530,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+269,Calories from Fat,160,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+270,Saturated Fat (g),4.0,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+271,Trans Fat (g),0.0,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+272,Cholesterol (mg),40,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+273,Fiber (g),3,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+274,Sugars (g),4,Chalupa Supreme® – Chicken,Chicken & Fish,TacoBell
+275,Calories,350,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+276, Protein (g),16,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+277, Total Fat (g),19.0,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+278,Total Carbs (g),30,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+279,Sodium (mg),500,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+280,Calories from Fat,170,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+281,Saturated Fat (g),4.5,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+282,Trans Fat (g),0.0,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+283,Cholesterol (mg),35,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+284,Fiber (g),3,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+285,Sugars (g),4,Chalupa Supreme® – Steak,Beef & Pork,TacoBell
+286,Calories,370,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+287, Protein (g),13,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+288, Total Fat (g),22.0,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+289,Total Carbs (g),31,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+290,Sodium (mg),590,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+291,Calories from Fat,190,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+292,Saturated Fat (g),6.0,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+293,Trans Fat (g),0.5,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+294,Cholesterol (mg),30,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+295,Fiber (g),5,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+296,Sugars (g),4,Chalupa Supreme® – Beef,Beef & Pork,TacoBell
+297,Calories,340,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+298, Protein (g),18,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+299, Total Fat (g),8.0,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+300,Total Carbs (g),49,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+301,Sodium (mg),1090,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+302,Calories from Fat,70,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+303,Saturated Fat (g),2.5,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+304,Trans Fat (g),0.0,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+305,Cholesterol (mg),15,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+306,Fiber (g),7,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+307,Sugars (g),4,Fresco Burrito Supreme® – Chicken,Chicken & Fish,TacoBell
+308,Calories,350,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+309, Protein (g),18,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+310, Total Fat (g),9.0,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+311,Total Carbs (g),50,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+312,Sodium (mg),1020,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+313,Calories from Fat,80,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+314,Saturated Fat (g),3.0,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+315,Trans Fat (g),0.0,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+316,Cholesterol (mg),20,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+317,Fiber (g),6,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+318,Sugars (g),4,Fresco Burrito Supreme® – Steak,Beef & Pork,TacoBell
+319,Calories,140,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+320, Protein (g),10,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+321, Total Fat (g),3.5,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+322,Total Carbs (g),16,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+323,Sodium (mg),470,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+324,Calories from Fat,30,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+325,Saturated Fat (g),1.0,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+326,Trans Fat (g),0.0,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+327,Cholesterol (mg),15,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+328,Fiber (g),2,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+329,Sugars (g),2,Fresco Chicken Soft Taco,Chicken & Fish,TacoBell
+330,Calories,150,Fresco Crunchy Taco,Beef & Pork,TacoBell
+331, Protein (g),6,Fresco Crunchy Taco,Beef & Pork,TacoBell
+332, Total Fat (g),8.0,Fresco Crunchy Taco,Beef & Pork,TacoBell
+333,Total Carbs (g),13,Fresco Crunchy Taco,Beef & Pork,TacoBell
+334,Sodium (mg),310,Fresco Crunchy Taco,Beef & Pork,TacoBell
+335,Calories from Fat,70,Fresco Crunchy Taco,Beef & Pork,TacoBell
+336,Saturated Fat (g),2.5,Fresco Crunchy Taco,Beef & Pork,TacoBell
+337,Trans Fat (g),0.0,Fresco Crunchy Taco,Beef & Pork,TacoBell
+338,Cholesterol (mg),20,Fresco Crunchy Taco,Beef & Pork,TacoBell
+339,Fiber (g),3,Fresco Crunchy Taco,Beef & Pork,TacoBell
+340,Sugars (g),1,Fresco Crunchy Taco,Beef & Pork,TacoBell
+341,Calories,150,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+342, Protein (g),11,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+343, Total Fat (g),4.0,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+344,Total Carbs (g),18,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+345,Sodium (mg),410,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+346,Calories from Fat,35,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+347,Saturated Fat (g),1.5,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+348,Trans Fat (g),0.0,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+349,Cholesterol (mg),20,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+350,Fiber (g),2,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+351,Sugars (g),2,Fresco Grilled Steak Soft Taco,Beef & Pork,TacoBell
+352,Calories,160,Fresco Soft Taco,Beef & Pork,TacoBell
+353, Protein (g),8,Fresco Soft Taco,Beef & Pork,TacoBell
+354, Total Fat (g),7.0,Fresco Soft Taco,Beef & Pork,TacoBell
+355,Total Carbs (g),18,Fresco Soft Taco,Beef & Pork,TacoBell
+356,Sodium (mg),490,Fresco Soft Taco,Beef & Pork,TacoBell
+357,Calories from Fat,60,Fresco Soft Taco,Beef & Pork,TacoBell
+358,Saturated Fat (g),2.5,Fresco Soft Taco,Beef & Pork,TacoBell
+359,Trans Fat (g),0.0,Fresco Soft Taco,Beef & Pork,TacoBell
+360,Cholesterol (mg),20,Fresco Soft Taco,Beef & Pork,TacoBell
+361,Fiber (g),3,Fresco Soft Taco,Beef & Pork,TacoBell
+362,Sugars (g),2,Fresco Soft Taco,Beef & Pork,TacoBell
+363,Calories,500,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+364, Protein (g),20,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+365, Total Fat (g),29.0,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+366,Total Carbs (g),39,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+367,Sodium (mg),830,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+368,Calories from Fat,260,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+369,Saturated Fat (g),10.0,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+370,Trans Fat (g),0.5,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+371,Cholesterol (mg),55,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+372,Fiber (g),5,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+373,Sugars (g),6,Cheesy Gordita Crunch,Snacks & Sides,TacoBell
+374,Calories,270,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+375, Protein (g),16,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+376, Total Fat (g),10.0,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+377,Total Carbs (g),29,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+378,Sodium (mg),510,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+379,Calories from Fat,90,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+380,Saturated Fat (g),3.5,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+381,Trans Fat (g),0.0,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+382,Cholesterol (mg),40,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+383,Fiber (g),2,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+384,Sugars (g),6,Gordita Supreme® – Chicken,Snacks & Sides,TacoBell
+385,Calories,280,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+386, Protein (g),16,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+387, Total Fat (g),11.0,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+388,Total Carbs (g),30,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+389,Sodium (mg),480,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+390,Calories from Fat,100,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+391,Saturated Fat (g),4.0,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+392,Trans Fat (g),0.0,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+393,Cholesterol (mg),35,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+394,Fiber (g),3,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+395,Sugars (g),6,Gordita Supreme® – Steak,Snacks & Sides,TacoBell
+396,Calories,300,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+397, Protein (g),13,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+398, Total Fat (g),14.0,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+399,Total Carbs (g),31,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+400,Sodium (mg),570,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+401,Calories from Fat,120,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+402,Saturated Fat (g),5.0,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+403,Trans Fat (g),0.0,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+404,Cholesterol (mg),30,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+405,Fiber (g),4,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+406,Sugars (g),6,Gordita Supreme® – Beef,Snacks & Sides,TacoBell
+407,Calories,290,Cheesy Nachos,Snacks & Sides,TacoBell
+408, Protein (g),4,Cheesy Nachos,Snacks & Sides,TacoBell
+409, Total Fat (g),16.0,Cheesy Nachos,Snacks & Sides,TacoBell
+410,Total Carbs (g),31,Cheesy Nachos,Snacks & Sides,TacoBell
+411,Sodium (mg),340,Cheesy Nachos,Snacks & Sides,TacoBell
+412,Calories from Fat,150,Cheesy Nachos,Snacks & Sides,TacoBell
+413,Saturated Fat (g),1.5,Cheesy Nachos,Snacks & Sides,TacoBell
+414,Trans Fat (g),0.0,Cheesy Nachos,Snacks & Sides,TacoBell
+415,Cholesterol (mg),0,Cheesy Nachos,Snacks & Sides,TacoBell
+416,Fiber (g),3,Cheesy Nachos,Snacks & Sides,TacoBell
+417,Sugars (g),2,Cheesy Nachos,Snacks & Sides,TacoBell
+418,Calories,320,Nachos,Snacks & Sides,TacoBell
+419, Protein (g),4,Nachos,Snacks & Sides,TacoBell
+420, Total Fat (g),19.0,Nachos,Snacks & Sides,TacoBell
+421,Total Carbs (g),33,Nachos,Snacks & Sides,TacoBell
+422,Sodium (mg),430,Nachos,Snacks & Sides,TacoBell
+423,Calories from Fat,170,Nachos,Snacks & Sides,TacoBell
+424,Saturated Fat (g),2.0,Nachos,Snacks & Sides,TacoBell
+425,Trans Fat (g),0.0,Nachos,Snacks & Sides,TacoBell
+426,Cholesterol (mg),0,Nachos,Snacks & Sides,TacoBell
+427,Fiber (g),3,Nachos,Snacks & Sides,TacoBell
+428,Sugars (g),3,Nachos,Snacks & Sides,TacoBell
+429,Calories,780,Nachos BellGrande®,Snacks & Sides,TacoBell
+430, Protein (g),20,Nachos BellGrande®,Snacks & Sides,TacoBell
+431, Total Fat (g),40.0,Nachos BellGrande®,Snacks & Sides,TacoBell
+432,Total Carbs (g),84,Nachos BellGrande®,Snacks & Sides,TacoBell
+433,Sodium (mg),1270,Nachos BellGrande®,Snacks & Sides,TacoBell
+434,Calories from Fat,360,Nachos BellGrande®,Snacks & Sides,TacoBell
+435,Saturated Fat (g),7.0,Nachos BellGrande®,Snacks & Sides,TacoBell
+436,Trans Fat (g),0.0,Nachos BellGrande®,Snacks & Sides,TacoBell
+437,Cholesterol (mg),25,Nachos BellGrande®,Snacks & Sides,TacoBell
+438,Fiber (g),13,Nachos BellGrande®,Snacks & Sides,TacoBell
+439,Sugars (g),6,Nachos BellGrande®,Snacks & Sides,TacoBell
+440,Calories,460,Nachos Supreme,Snacks & Sides,TacoBell
+441, Protein (g),13,Nachos Supreme,Snacks & Sides,TacoBell
+442, Total Fat (g),25.0,Nachos Supreme,Snacks & Sides,TacoBell
+443,Total Carbs (g),46,Nachos Supreme,Snacks & Sides,TacoBell
+444,Sodium (mg),830,Nachos Supreme,Snacks & Sides,TacoBell
+445,Calories from Fat,220,Nachos Supreme,Snacks & Sides,TacoBell
+446,Saturated Fat (g),5.0,Nachos Supreme,Snacks & Sides,TacoBell
+447,Trans Fat (g),0.0,Nachos Supreme,Snacks & Sides,TacoBell
+448,Cholesterol (mg),25,Nachos Supreme,Snacks & Sides,TacoBell
+449,Fiber (g),8,Nachos Supreme,Snacks & Sides,TacoBell
+450,Sugars (g),4,Nachos Supreme,Snacks & Sides,TacoBell
+451,Calories,990,Volcano Nachos,Snacks & Sides,TacoBell
+452, Protein (g),22,Volcano Nachos,Snacks & Sides,TacoBell
+453, Total Fat (g),59.0,Volcano Nachos,Snacks & Sides,TacoBell
+454,Total Carbs (g),94,Volcano Nachos,Snacks & Sides,TacoBell
+455,Sodium (mg),1840,Volcano Nachos,Snacks & Sides,TacoBell
+456,Calories from Fat,530,Volcano Nachos,Snacks & Sides,TacoBell
+457,Saturated Fat (g),9.0,Volcano Nachos,Snacks & Sides,TacoBell
+458,Trans Fat (g),0.5,Volcano Nachos,Snacks & Sides,TacoBell
+459,Cholesterol (mg),40,Volcano Nachos,Snacks & Sides,TacoBell
+460,Fiber (g),15,Volcano Nachos,Snacks & Sides,TacoBell
+461,Sugars (g),7,Volcano Nachos,Snacks & Sides,TacoBell
+462,Calories,80,Black Beans,Snacks & Sides,TacoBell
+463, Protein (g),4,Black Beans,Snacks & Sides,TacoBell
+464, Total Fat (g),1.5,Black Beans,Snacks & Sides,TacoBell
+465,Total Carbs (g),12,Black Beans,Snacks & Sides,TacoBell
+466,Sodium (mg),200,Black Beans,Snacks & Sides,TacoBell
+467,Calories from Fat,10,Black Beans,Snacks & Sides,TacoBell
+468,Saturated Fat (g),0.0,Black Beans,Snacks & Sides,TacoBell
+469,Trans Fat (g),0.0,Black Beans,Snacks & Sides,TacoBell
+470,Cholesterol (mg),0,Black Beans,Snacks & Sides,TacoBell
+471,Fiber (g),5,Black Beans,Snacks & Sides,TacoBell
+472,Sugars (g),1,Black Beans,Snacks & Sides,TacoBell
+473,Calories,180,Black Beans and Rice,Snacks & Sides,TacoBell
+474, Protein (g),6,Black Beans and Rice,Snacks & Sides,TacoBell
+475, Total Fat (g),4.0,Black Beans and Rice,Snacks & Sides,TacoBell
+476,Total Carbs (g),30,Black Beans and Rice,Snacks & Sides,TacoBell
+477,Sodium (mg),430,Black Beans and Rice,Snacks & Sides,TacoBell
+478,Calories from Fat,35,Black Beans and Rice,Snacks & Sides,TacoBell
+479,Saturated Fat (g),0.0,Black Beans and Rice,Snacks & Sides,TacoBell
+480,Trans Fat (g),0.0,Black Beans and Rice,Snacks & Sides,TacoBell
+481,Cholesterol (mg),0,Black Beans and Rice,Snacks & Sides,TacoBell
+482,Fiber (g),5,Black Beans and Rice,Snacks & Sides,TacoBell
+483,Sugars (g),1,Black Beans and Rice,Snacks & Sides,TacoBell
+484,Calories,400,Brownie Sandwich,Desserts,TacoBell
+485, Protein (g),3,Brownie Sandwich,Desserts,TacoBell
+486, Total Fat (g),18.0,Brownie Sandwich,Desserts,TacoBell
+487,Total Carbs (g),55,Brownie Sandwich,Desserts,TacoBell
+488,Sodium (mg),200,Brownie Sandwich,Desserts,TacoBell
+489,Calories from Fat,170,Brownie Sandwich,Desserts,TacoBell
+490,Saturated Fat (g),8.0,Brownie Sandwich,Desserts,TacoBell
+491,Trans Fat (g),0.0,Brownie Sandwich,Desserts,TacoBell
+492,Cholesterol (mg),20,Brownie Sandwich,Desserts,TacoBell
+493,Fiber (g),3,Brownie Sandwich,Desserts,TacoBell
+494,Sugars (g),38,Brownie Sandwich,Desserts,TacoBell
+495,Calories,310,Caramel Apple Empanada,Desserts,TacoBell
+496, Protein (g),3,Caramel Apple Empanada,Desserts,TacoBell
+497, Total Fat (g),15.0,Caramel Apple Empanada,Desserts,TacoBell
+498,Total Carbs (g),39,Caramel Apple Empanada,Desserts,TacoBell
+499,Sodium (mg),310,Caramel Apple Empanada,Desserts,TacoBell
+500,Calories from Fat,140,Caramel Apple Empanada,Desserts,TacoBell
+501,Saturated Fat (g),2.5,Caramel Apple Empanada,Desserts,TacoBell
+502,Trans Fat (g),0.0,Caramel Apple Empanada,Desserts,TacoBell
+503,Cholesterol (mg),0,Caramel Apple Empanada,Desserts,TacoBell
+504,Fiber (g),2,Caramel Apple Empanada,Desserts,TacoBell
+505,Sugars (g),13,Caramel Apple Empanada,Desserts,TacoBell
+506,Calories,280,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+507, Protein (g),4,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+508, Total Fat (g),15.0,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+509,Total Carbs (g),31,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+510,Sodium (mg),580,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+511,Calories from Fat,140,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+512,Saturated Fat (g),2.5,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+513,Trans Fat (g),0.0,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+514,Cholesterol (mg),10,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+515,Fiber (g),3,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+516,Sugars (g),2,Cheesy Fiesta Potatoes,Snacks & Sides,TacoBell
+517,Calories,280,Chips and Corn Salsa,Snacks & Sides,TacoBell
+518, Protein (g),4,Chips and Corn Salsa,Snacks & Sides,TacoBell
+519, Total Fat (g),12.0,Chips and Corn Salsa,Snacks & Sides,TacoBell
+520,Total Carbs (g),38,Chips and Corn Salsa,Snacks & Sides,TacoBell
+521,Sodium (mg),230,Chips and Corn Salsa,Snacks & Sides,TacoBell
+522,Calories from Fat,110,Chips and Corn Salsa,Snacks & Sides,TacoBell
+523,Saturated Fat (g),1.0,Chips and Corn Salsa,Snacks & Sides,TacoBell
+524,Trans Fat (g),0.0,Chips and Corn Salsa,Snacks & Sides,TacoBell
+525,Cholesterol (mg),0,Chips and Corn Salsa,Snacks & Sides,TacoBell
+526,Fiber (g),6,Chips and Corn Salsa,Snacks & Sides,TacoBell
+527,Sugars (g),5,Chips and Corn Salsa,Snacks & Sides,TacoBell
+528,Calories,320,Chips and Guacamole,Snacks & Sides,TacoBell
+529, Protein (g),4,Chips and Guacamole,Snacks & Sides,TacoBell
+530, Total Fat (g),20.0,Chips and Guacamole,Snacks & Sides,TacoBell
+531,Total Carbs (g),32,Chips and Guacamole,Snacks & Sides,TacoBell
+532,Sodium (mg),450,Chips and Guacamole,Snacks & Sides,TacoBell
+533,Calories from Fat,180,Chips and Guacamole,Snacks & Sides,TacoBell
+534,Saturated Fat (g),2.5,Chips and Guacamole,Snacks & Sides,TacoBell
+535,Trans Fat (g),0.0,Chips and Guacamole,Snacks & Sides,TacoBell
+536,Cholesterol (mg),0,Chips and Guacamole,Snacks & Sides,TacoBell
+537,Fiber (g),6,Chips and Guacamole,Snacks & Sides,TacoBell
+538,Sugars (g),1,Chips and Guacamole,Snacks & Sides,TacoBell
+539,Calories,230,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+540, Protein (g),3,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+541, Total Fat (g),11.0,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+542,Total Carbs (g),30,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+543,Sodium (mg),260,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+544,Calories from Fat,100,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+545,Saturated Fat (g),1.0,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+546,Trans Fat (g),0.0,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+547,Cholesterol (mg),0,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+548,Fiber (g),3,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+549,Sugars (g),2,Chips and Pico De Gallo,Snacks & Sides,TacoBell
+550,Calories,190,Churro,Desserts,TacoBell
+551, Protein (g),2,Churro,Desserts,TacoBell
+552, Total Fat (g),8.0,Churro,Desserts,TacoBell
+553,Total Carbs (g),28,Churro,Desserts,TacoBell
+554,Sodium (mg),230,Churro,Desserts,TacoBell
+555,Calories from Fat,80,Churro,Desserts,TacoBell
+556,Saturated Fat (g),1.0,Churro,Desserts,TacoBell
+557,Trans Fat (g),0.0,Churro,Desserts,TacoBell
+558,Cholesterol (mg),15,Churro,Desserts,TacoBell
+559,Fiber (g),1,Churro,Desserts,TacoBell
+560,Sugars (g),5,Churro,Desserts,TacoBell
+561,Calories,170,Cinnamon Twists,Desserts,TacoBell
+562, Protein (g),1,Cinnamon Twists,Desserts,TacoBell
+563, Total Fat (g),7.0,Cinnamon Twists,Desserts,TacoBell
+564,Total Carbs (g),26,Cinnamon Twists,Desserts,TacoBell
+565,Sodium (mg),200,Cinnamon Twists,Desserts,TacoBell
+566,Calories from Fat,60,Cinnamon Twists,Desserts,TacoBell
+567,Saturated Fat (g),0.0,Cinnamon Twists,Desserts,TacoBell
+568,Trans Fat (g),0.0,Cinnamon Twists,Desserts,TacoBell
+569,Cholesterol (mg),0,Cinnamon Twists,Desserts,TacoBell
+570,Fiber (g),1,Cinnamon Twists,Desserts,TacoBell
+571,Sugars (g),10,Cinnamon Twists,Desserts,TacoBell
+572,Calories,190,Pintos n Cheese,Snacks & Sides,TacoBell
+573, Protein (g),11,Pintos n Cheese,Snacks & Sides,TacoBell
+574, Total Fat (g),7.0,Pintos n Cheese,Snacks & Sides,TacoBell
+575,Total Carbs (g),21,Pintos n Cheese,Snacks & Sides,TacoBell
+576,Sodium (mg),670,Pintos n Cheese,Snacks & Sides,TacoBell
+577,Calories from Fat,60,Pintos n Cheese,Snacks & Sides,TacoBell
+578,Saturated Fat (g),3.0,Pintos n Cheese,Snacks & Sides,TacoBell
+579,Trans Fat (g),0.0,Pintos n Cheese,Snacks & Sides,TacoBell
+580,Cholesterol (mg),10,Pintos n Cheese,Snacks & Sides,TacoBell
+581,Fiber (g),6,Pintos n Cheese,Snacks & Sides,TacoBell
+582,Sugars (g),1,Pintos n Cheese,Snacks & Sides,TacoBell
+583,Calories,100,Premium Latin Rice,Snacks & Sides,TacoBell
+584, Protein (g),2,Premium Latin Rice,Snacks & Sides,TacoBell
+585, Total Fat (g),2.5,Premium Latin Rice,Snacks & Sides,TacoBell
+586,Total Carbs (g),18,Premium Latin Rice,Snacks & Sides,TacoBell
+587,Sodium (mg),230,Premium Latin Rice,Snacks & Sides,TacoBell
+588,Calories from Fat,25,Premium Latin Rice,Snacks & Sides,TacoBell
+589,Saturated Fat (g),0.0,Premium Latin Rice,Snacks & Sides,TacoBell
+590,Trans Fat (g),0.0,Premium Latin Rice,Snacks & Sides,TacoBell
+591,Cholesterol (mg),0,Premium Latin Rice,Snacks & Sides,TacoBell
+592,Fiber (g),0,Premium Latin Rice,Snacks & Sides,TacoBell
+593,Sugars (g),0,Premium Latin Rice,Snacks & Sides,TacoBell
+594,Calories,420,Beefy Nacho Griller,Beef & Pork,TacoBell
+595, Protein (g),12,Beefy Nacho Griller,Beef & Pork,TacoBell
+596, Total Fat (g),19.0,Beefy Nacho Griller,Beef & Pork,TacoBell
+597,Total Carbs (g),49,Beefy Nacho Griller,Beef & Pork,TacoBell
+598,Sodium (mg),890,Beefy Nacho Griller,Beef & Pork,TacoBell
+599,Calories from Fat,170,Beefy Nacho Griller,Beef & Pork,TacoBell
+600,Saturated Fat (g),4.5,Beefy Nacho Griller,Beef & Pork,TacoBell
+601,Trans Fat (g),0.0,Beefy Nacho Griller,Beef & Pork,TacoBell
+602,Cholesterol (mg),20,Beefy Nacho Griller,Beef & Pork,TacoBell
+603,Fiber (g),5,Beefy Nacho Griller,Beef & Pork,TacoBell
+604,Sugars (g),4,Beefy Nacho Griller,Beef & Pork,TacoBell
+605,Calories,510,Cantina Bowl – Veggie,Salads,TacoBell
+606, Protein (g),14,Cantina Bowl – Veggie,Salads,TacoBell
+607, Total Fat (g),20.0,Cantina Bowl – Veggie,Salads,TacoBell
+608,Total Carbs (g),69,Cantina Bowl – Veggie,Salads,TacoBell
+609,Sodium (mg),1240,Cantina Bowl – Veggie,Salads,TacoBell
+610,Calories from Fat,180,Cantina Bowl – Veggie,Salads,TacoBell
+611,Saturated Fat (g),3.0,Cantina Bowl – Veggie,Salads,TacoBell
+612,Trans Fat (g),0.0,Cantina Bowl – Veggie,Salads,TacoBell
+613,Cholesterol (mg),10,Cantina Bowl – Veggie,Salads,TacoBell
+614,Fiber (g),14,Cantina Bowl – Veggie,Salads,TacoBell
+615,Sugars (g),4,Cantina Bowl – Veggie,Salads,TacoBell
+616,Calories,470,Cheese Quesadilla,Snacks & Sides,TacoBell
+617, Protein (g),19,Cheese Quesadilla,Snacks & Sides,TacoBell
+618, Total Fat (g),26.0,Cheese Quesadilla,Snacks & Sides,TacoBell
+619,Total Carbs (g),39,Cheese Quesadilla,Snacks & Sides,TacoBell
+620,Sodium (mg),990,Cheese Quesadilla,Snacks & Sides,TacoBell
+621,Calories from Fat,240,Cheese Quesadilla,Snacks & Sides,TacoBell
+622,Saturated Fat (g),11.0,Cheese Quesadilla,Snacks & Sides,TacoBell
+623,Trans Fat (g),0.5,Cheese Quesadilla,Snacks & Sides,TacoBell
+624,Cholesterol (mg),50,Cheese Quesadilla,Snacks & Sides,TacoBell
+625,Fiber (g),4,Cheese Quesadilla,Snacks & Sides,TacoBell
+626,Sugars (g),3,Cheese Quesadilla,Snacks & Sides,TacoBell
+627,Calories,180,Cheese Roll-Up,Snacks & Sides,TacoBell
+628, Protein (g),9,Cheese Roll-Up,Snacks & Sides,TacoBell
+629, Total Fat (g),9.0,Cheese Roll-Up,Snacks & Sides,TacoBell
+630,Total Carbs (g),16,Cheese Roll-Up,Snacks & Sides,TacoBell
+631,Sodium (mg),430,Cheese Roll-Up,Snacks & Sides,TacoBell
+632,Calories from Fat,80,Cheese Roll-Up,Snacks & Sides,TacoBell
+633,Saturated Fat (g),5.0,Cheese Roll-Up,Snacks & Sides,TacoBell
+634,Trans Fat (g),0.0,Cheese Roll-Up,Snacks & Sides,TacoBell
+635,Cholesterol (mg),20,Cheese Roll-Up,Snacks & Sides,TacoBell
+636,Fiber (g),2,Cheese Roll-Up,Snacks & Sides,TacoBell
+637,Sugars (g),1,Cheese Roll-Up,Snacks & Sides,TacoBell
+638,Calories,510,Chicken Quesadilla,Snacks & Sides,TacoBell
+639, Protein (g),27,Chicken Quesadilla,Snacks & Sides,TacoBell
+640, Total Fat (g),28.0,Chicken Quesadilla,Snacks & Sides,TacoBell
+641,Total Carbs (g),39,Chicken Quesadilla,Snacks & Sides,TacoBell
+642,Sodium (mg),1190,Chicken Quesadilla,Snacks & Sides,TacoBell
+643,Calories from Fat,250,Chicken Quesadilla,Snacks & Sides,TacoBell
+644,Saturated Fat (g),12.0,Chicken Quesadilla,Snacks & Sides,TacoBell
+645,Trans Fat (g),0.5,Chicken Quesadilla,Snacks & Sides,TacoBell
+646,Cholesterol (mg),75,Chicken Quesadilla,Snacks & Sides,TacoBell
+647,Fiber (g),4,Chicken Quesadilla,Snacks & Sides,TacoBell
+648,Sugars (g),3,Chicken Quesadilla,Snacks & Sides,TacoBell
+649,Calories,530,Crunchwrap Supreme®,Beef & Pork,TacoBell
+650, Protein (g),16,Crunchwrap Supreme®,Beef & Pork,TacoBell
+651, Total Fat (g),20.0,Crunchwrap Supreme®,Beef & Pork,TacoBell
+652,Total Carbs (g),70,Crunchwrap Supreme®,Beef & Pork,TacoBell
+653,Sodium (mg),1090,Crunchwrap Supreme®,Beef & Pork,TacoBell
+654,Calories from Fat,180,Crunchwrap Supreme®,Beef & Pork,TacoBell
+655,Saturated Fat (g),6.0,Crunchwrap Supreme®,Beef & Pork,TacoBell
+656,Trans Fat (g),0.0,Crunchwrap Supreme®,Beef & Pork,TacoBell
+657,Cholesterol (mg),25,Crunchwrap Supreme®,Beef & Pork,TacoBell
+658,Fiber (g),7,Crunchwrap Supreme®,Beef & Pork,TacoBell
+659,Sugars (g),6,Crunchwrap Supreme®,Beef & Pork,TacoBell
+660,Calories,580,Express Taco Salad w/ Chips,Salads,TacoBell
+661, Protein (g),23,Express Taco Salad w/ Chips,Salads,TacoBell
+662, Total Fat (g),29.0,Express Taco Salad w/ Chips,Salads,TacoBell
+663,Total Carbs (g),57,Express Taco Salad w/ Chips,Salads,TacoBell
+664,Sodium (mg),1370,Express Taco Salad w/ Chips,Salads,TacoBell
+665,Calories from Fat,260,Express Taco Salad w/ Chips,Salads,TacoBell
+666,Saturated Fat (g),10.0,Express Taco Salad w/ Chips,Salads,TacoBell
+667,Trans Fat (g),1.0,Express Taco Salad w/ Chips,Salads,TacoBell
+668,Cholesterol (mg),55,Express Taco Salad w/ Chips,Salads,TacoBell
+669,Fiber (g),9,Express Taco Salad w/ Chips,Salads,TacoBell
+670,Sugars (g),6,Express Taco Salad w/ Chips,Salads,TacoBell
+671,Calories,470,Loaded Potato Griller,Snacks & Sides,TacoBell
+672, Protein (g),13,Loaded Potato Griller,Snacks & Sides,TacoBell
+673, Total Fat (g),22.0,Loaded Potato Griller,Snacks & Sides,TacoBell
+674,Total Carbs (g),55,Loaded Potato Griller,Snacks & Sides,TacoBell
+675,Sodium (mg),1120,Loaded Potato Griller,Snacks & Sides,TacoBell
+676,Calories from Fat,200,Loaded Potato Griller,Snacks & Sides,TacoBell
+677,Saturated Fat (g),6.0,Loaded Potato Griller,Snacks & Sides,TacoBell
+678,Trans Fat (g),0.0,Loaded Potato Griller,Snacks & Sides,TacoBell
+679,Cholesterol (mg),25,Loaded Potato Griller,Snacks & Sides,TacoBell
+680,Fiber (g),4,Loaded Potato Griller,Snacks & Sides,TacoBell
+681,Sugars (g),5,Loaded Potato Griller,Snacks & Sides,TacoBell
+682,Calories,260,MexiMelt®,Beef & Pork,TacoBell
+683, Protein (g),14,MexiMelt®,Beef & Pork,TacoBell
+684, Total Fat (g),14.0,MexiMelt®,Beef & Pork,TacoBell
+685,Total Carbs (g),19,MexiMelt®,Beef & Pork,TacoBell
+686,Sodium (mg),730,MexiMelt®,Beef & Pork,TacoBell
+687,Calories from Fat,120,MexiMelt®,Beef & Pork,TacoBell
+688,Saturated Fat (g),7.0,MexiMelt®,Beef & Pork,TacoBell
+689,Trans Fat (g),0.5,MexiMelt®,Beef & Pork,TacoBell
+690,Cholesterol (mg),40,MexiMelt®,Beef & Pork,TacoBell
+691,Fiber (g),4,MexiMelt®,Beef & Pork,TacoBell
+692,Sugars (g),2,MexiMelt®,Beef & Pork,TacoBell
+693,Calories,550,Mexican Pizza,Snacks & Sides,TacoBell
+694, Protein (g),21,Mexican Pizza,Snacks & Sides,TacoBell
+695, Total Fat (g),31.0,Mexican Pizza,Snacks & Sides,TacoBell
+696,Total Carbs (g),48,Mexican Pizza,Snacks & Sides,TacoBell
+697,Sodium (mg),950,Mexican Pizza,Snacks & Sides,TacoBell
+698,Calories from Fat,280,Mexican Pizza,Snacks & Sides,TacoBell
+699,Saturated Fat (g),8.0,Mexican Pizza,Snacks & Sides,TacoBell
+700,Trans Fat (g),0.5,Mexican Pizza,Snacks & Sides,TacoBell
+701,Cholesterol (mg),40,Mexican Pizza,Snacks & Sides,TacoBell
+702,Fiber (g),7,Mexican Pizza,Snacks & Sides,TacoBell
+703,Sugars (g),3,Mexican Pizza,Snacks & Sides,TacoBell
+704,Calories,350,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+705, Protein (g),15,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+706, Total Fat (g),15.0,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+707,Total Carbs (g),40,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+708,Sodium (mg),810,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+709,Calories from Fat,140,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+710,Saturated Fat (g),4.5,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+711,Trans Fat (g),0.0,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+712,Cholesterol (mg),40,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+713,Fiber (g),3,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+714,Sugars (g),4,Spicy Buffalo Chicken Griller,Chicken & Fish,TacoBell
+715,Calories,520,Steak Quesadilla,Snacks & Sides,TacoBell
+716, Protein (g),27,Steak Quesadilla,Snacks & Sides,TacoBell
+717, Total Fat (g),28.0,Steak Quesadilla,Snacks & Sides,TacoBell
+718,Total Carbs (g),40,Steak Quesadilla,Snacks & Sides,TacoBell
+719,Sodium (mg),1160,Steak Quesadilla,Snacks & Sides,TacoBell
+720,Calories from Fat,250,Steak Quesadilla,Snacks & Sides,TacoBell
+721,Saturated Fat (g),12.0,Steak Quesadilla,Snacks & Sides,TacoBell
+722,Trans Fat (g),0.5,Steak Quesadilla,Snacks & Sides,TacoBell
+723,Cholesterol (mg),70,Steak Quesadilla,Snacks & Sides,TacoBell
+724,Fiber (g),4,Steak Quesadilla,Snacks & Sides,TacoBell
+725,Sugars (g),3,Steak Quesadilla,Snacks & Sides,TacoBell
+726,Calories,270,Tostada,Snacks & Sides,TacoBell
+727, Protein (g),12,Tostada,Snacks & Sides,TacoBell
+728, Total Fat (g),11.0,Tostada,Snacks & Sides,TacoBell
+729,Total Carbs (g),31,Tostada,Snacks & Sides,TacoBell
+730,Sodium (mg),650,Tostada,Snacks & Sides,TacoBell
+731,Calories from Fat,100,Tostada,Snacks & Sides,TacoBell
+732,Saturated Fat (g),4.0,Tostada,Snacks & Sides,TacoBell
+733,Trans Fat (g),0.0,Tostada,Snacks & Sides,TacoBell
+734,Cholesterol (mg),15,Tostada,Snacks & Sides,TacoBell
+735,Fiber (g),8,Tostada,Snacks & Sides,TacoBell
+736,Sugars (g),1,Tostada,Snacks & Sides,TacoBell
+737,Calories,780,Fiesta Taco Salad-Beef,Salads,TacoBell
+738, Protein (g),26,Fiesta Taco Salad-Beef,Salads,TacoBell
+739, Total Fat (g),42.0,Fiesta Taco Salad-Beef,Salads,TacoBell
+740,Total Carbs (g),74,Fiesta Taco Salad-Beef,Salads,TacoBell
+741,Sodium (mg),1590,Fiesta Taco Salad-Beef,Salads,TacoBell
+742,Calories from Fat,380,Fiesta Taco Salad-Beef,Salads,TacoBell
+743,Saturated Fat (g),10.0,Fiesta Taco Salad-Beef,Salads,TacoBell
+744,Trans Fat (g),1.0,Fiesta Taco Salad-Beef,Salads,TacoBell
+745,Cholesterol (mg),55,Fiesta Taco Salad-Beef,Salads,TacoBell
+746,Fiber (g),11,Fiesta Taco Salad-Beef,Salads,TacoBell
+747,Sugars (g),7,Fiesta Taco Salad-Beef,Salads,TacoBell
+748,Calories,730,Fiesta Taco Salad-Chicken,Salads,TacoBell
+749, Protein (g),32,Fiesta Taco Salad-Chicken,Salads,TacoBell
+750, Total Fat (g),35.0,Fiesta Taco Salad-Chicken,Salads,TacoBell
+751,Total Carbs (g),71,Fiesta Taco Salad-Chicken,Salads,TacoBell
+752,Sodium (mg),1470,Fiesta Taco Salad-Chicken,Salads,TacoBell
+753,Calories from Fat,320,Fiesta Taco Salad-Chicken,Salads,TacoBell
+754,Saturated Fat (g),7.0,Fiesta Taco Salad-Chicken,Salads,TacoBell
+755,Trans Fat (g),0.0,Fiesta Taco Salad-Chicken,Salads,TacoBell
+756,Cholesterol (mg),70,Fiesta Taco Salad-Chicken,Salads,TacoBell
+757,Fiber (g),8,Fiesta Taco Salad-Chicken,Salads,TacoBell
+758,Sugars (g),7,Fiesta Taco Salad-Chicken,Salads,TacoBell
+759,Calories,750,Fiesta Taco Salad-Steak,Salads,TacoBell
+760, Protein (g),33,Fiesta Taco Salad-Steak,Salads,TacoBell
+761, Total Fat (g),36.0,Fiesta Taco Salad-Steak,Salads,TacoBell
+762,Total Carbs (g),72,Fiesta Taco Salad-Steak,Salads,TacoBell
+763,Sodium (mg),1410,Fiesta Taco Salad-Steak,Salads,TacoBell
+764,Calories from Fat,330,Fiesta Taco Salad-Steak,Salads,TacoBell
+765,Saturated Fat (g),8.0,Fiesta Taco Salad-Steak,Salads,TacoBell
+766,Trans Fat (g),0.5,Fiesta Taco Salad-Steak,Salads,TacoBell
+767,Cholesterol (mg),60,Fiesta Taco Salad-Steak,Salads,TacoBell
+768,Fiber (g),9,Fiesta Taco Salad-Steak,Salads,TacoBell
+769,Sugars (g),7,Fiesta Taco Salad-Steak,Salads,TacoBell
+770,Calories,160,Chicken Soft Taco,Chicken & Fish,TacoBell
+771, Protein (g),12,Chicken Soft Taco,Chicken & Fish,TacoBell
+772, Total Fat (g),5.0,Chicken Soft Taco,Chicken & Fish,TacoBell
+773,Total Carbs (g),16,Chicken Soft Taco,Chicken & Fish,TacoBell
+774,Sodium (mg),480,Chicken Soft Taco,Chicken & Fish,TacoBell
+775,Calories from Fat,50,Chicken Soft Taco,Chicken & Fish,TacoBell
+776,Saturated Fat (g),2.5,Chicken Soft Taco,Chicken & Fish,TacoBell
+777,Trans Fat (g),0.0,Chicken Soft Taco,Chicken & Fish,TacoBell
+778,Cholesterol (mg),25,Chicken Soft Taco,Chicken & Fish,TacoBell
+779,Fiber (g),2,Chicken Soft Taco,Chicken & Fish,TacoBell
+780,Sugars (g),1,Chicken Soft Taco,Chicken & Fish,TacoBell
+781,Calories,160,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+782, Protein (g),8,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+783, Total Fat (g),10.0,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+784,Total Carbs (g),13,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+785,Sodium (mg),370,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+786,Calories from Fat,90,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+787,Saturated Fat (g),3.5,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+788,Trans Fat (g),0.0,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+789,Cholesterol (mg),25,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+790,Fiber (g),3,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+791,Sugars (g),1,Cool Ranch® Doritos® Locos Taco,Beef & Pork,TacoBell
+792,Calories,200,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+793, Protein (g),8,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+794, Total Fat (g),12.0,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+795,Total Carbs (g),15,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+796,Sodium (mg),390,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+797,Calories from Fat,110,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+798,Saturated Fat (g),5.0,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+799,Trans Fat (g),0.0,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+800,Cholesterol (mg),30,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+801,Fiber (g),3,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+802,Sugars (g),3,Cool Ranch® Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+803,Calories,170,Crunchy Taco,Beef & Pork,TacoBell
+804, Protein (g),8,Crunchy Taco,Beef & Pork,TacoBell
+805, Total Fat (g),10.0,Crunchy Taco,Beef & Pork,TacoBell
+806,Total Carbs (g),12,Crunchy Taco,Beef & Pork,TacoBell
+807,Sodium (mg),310,Crunchy Taco,Beef & Pork,TacoBell
+808,Calories from Fat,90,Crunchy Taco,Beef & Pork,TacoBell
+809,Saturated Fat (g),3.5,Crunchy Taco,Beef & Pork,TacoBell
+810,Trans Fat (g),0.0,Crunchy Taco,Beef & Pork,TacoBell
+811,Cholesterol (mg),25,Crunchy Taco,Beef & Pork,TacoBell
+812,Fiber (g),3,Crunchy Taco,Beef & Pork,TacoBell
+813,Sugars (g),1,Crunchy Taco,Beef & Pork,TacoBell
+814,Calories,200,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+815, Protein (g),9,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+816, Total Fat (g),12.0,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+817,Total Carbs (g),15,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+818,Sodium (mg),340,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+819,Calories from Fat,110,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+820,Saturated Fat (g),5.0,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+821,Trans Fat (g),0.0,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+822,Cholesterol (mg),30,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+823,Fiber (g),3,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+824,Sugars (g),2,Crunchy Taco Supreme®,Beef & Pork,TacoBell
+825,Calories,350,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+826, Protein (g),14,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+827, Total Fat (g),16.0,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+828,Total Carbs (g),39,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+829,Sodium (mg),730,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+830,Calories from Fat,140,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+831,Saturated Fat (g),6.0,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+832,Trans Fat (g),0.0,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+833,Cholesterol (mg),30,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+834,Fiber (g),7,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+835,Sugars (g),3,DOUBLE DECKER® Taco Supreme®,Beef & Pork,TacoBell
+836,Calories,320,Double Decker® Taco,Beef & Pork,TacoBell
+837, Protein (g),14,Double Decker® Taco,Beef & Pork,TacoBell
+838, Total Fat (g),14.0,Double Decker® Taco,Beef & Pork,TacoBell
+839,Total Carbs (g),36,Double Decker® Taco,Beef & Pork,TacoBell
+840,Sodium (mg),710,Double Decker® Taco,Beef & Pork,TacoBell
+841,Calories from Fat,120,Double Decker® Taco,Beef & Pork,TacoBell
+842,Saturated Fat (g),5.0,Double Decker® Taco,Beef & Pork,TacoBell
+843,Trans Fat (g),0.0,Double Decker® Taco,Beef & Pork,TacoBell
+844,Cholesterol (mg),25,Double Decker® Taco,Beef & Pork,TacoBell
+845,Fiber (g),7,Double Decker® Taco,Beef & Pork,TacoBell
+846,Sugars (g),2,Double Decker® Taco,Beef & Pork,TacoBell
+847,Calories,170,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+848, Protein (g),8,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+849, Total Fat (g),10.0,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+850,Total Carbs (g),12,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+851,Sodium (mg),370,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+852,Calories from Fat,90,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+853,Saturated Fat (g),3.5,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+854,Trans Fat (g),0.0,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+855,Cholesterol (mg),25,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+856,Fiber (g),3,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+857,Sugars (g),1,Fiery Doritos® Locos Taco,Beef & Pork,TacoBell
+858,Calories,200,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+859, Protein (g),9,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+860, Total Fat (g),12.0,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+861,Total Carbs (g),15,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+862,Sodium (mg),390,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+863,Calories from Fat,110,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+864,Saturated Fat (g),5.0,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+865,Trans Fat (g),0.0,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+866,Cholesterol (mg),30,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+867,Fiber (g),3,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+868,Sugars (g),2,Fiery Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+869,Calories,200,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+870, Protein (g),13,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+871, Total Fat (g),9.0,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+872,Total Carbs (g),17,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+873,Sodium (mg),450,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+874,Calories from Fat,80,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+875,Saturated Fat (g),3.0,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+876,Trans Fat (g),0.0,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+877,Cholesterol (mg),30,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+878,Fiber (g),2,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+879,Sugars (g),2,Grilled Steak Soft Taco,Beef & Pork,TacoBell
+880,Calories,170,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+881, Protein (g),8,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+882, Total Fat (g),10.0,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+883,Total Carbs (g),13,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+884,Sodium (mg),360,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+885,Calories from Fat,90,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+886,Saturated Fat (g),3.5,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+887,Trans Fat (g),0.0,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+888,Cholesterol (mg),25,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+889,Fiber (g),3,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+890,Sugars (g),1,Nacho Cheese Doritos® Locos Taco,Beef & Pork,TacoBell
+891,Calories,200,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+892, Protein (g),9,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+893, Total Fat (g),12.0,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+894,Total Carbs (g),15,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+895,Sodium (mg),390,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+896,Calories from Fat,100,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+897,Saturated Fat (g),5.0,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+898,Trans Fat (g),0.0,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+899,Cholesterol (mg),30,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+900,Fiber (g),3,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+901,Sugars (g),2,Nacho Cheese Doritos® Locos Taco Supreme,Beef & Pork,TacoBell
+902,Calories,220,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+903, Protein (g),10,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+904, Total Fat (g),11.0,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+905,Total Carbs (g),20,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+906,Sodium (mg),520,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+907,Calories from Fat,100,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+908,Saturated Fat (g),5.0,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+909,Trans Fat (g),0.0,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+910,Cholesterol (mg),30,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+911,Fiber (g),3,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+912,Sugars (g),3,Soft Taco Supreme® – Beef,Beef & Pork,TacoBell
+913,Calories,190,Soft Taco-Beef,Beef & Pork,TacoBell
+914, Protein (g),9,Soft Taco-Beef,Beef & Pork,TacoBell
+915, Total Fat (g),9.0,Soft Taco-Beef,Beef & Pork,TacoBell
+916,Total Carbs (g),18,Soft Taco-Beef,Beef & Pork,TacoBell
+917,Sodium (mg),500,Soft Taco-Beef,Beef & Pork,TacoBell
+918,Calories from Fat,80,Soft Taco-Beef,Beef & Pork,TacoBell
+919,Saturated Fat (g),4.0,Soft Taco-Beef,Beef & Pork,TacoBell
+920,Trans Fat (g),0.0,Soft Taco-Beef,Beef & Pork,TacoBell
+921,Cholesterol (mg),25,Soft Taco-Beef,Beef & Pork,TacoBell
+922,Fiber (g),3,Soft Taco-Beef,Beef & Pork,TacoBell
+923,Sugars (g),1,Soft Taco-Beef,Beef & Pork,TacoBell

@@ -1,0 +1,1001 @@
+,Unnamed: 0,Componenti,Prodotto,Valori nutrizionali,Categoria,Fast_Food
+0,0,Calories,Apple Pecan Chicken Salad ,350,Salads,Wendys
+1,1, Protein (g),Apple Pecan Chicken Salad ,35,Salads,Wendys
+2,2, Total Fat (g),Apple Pecan Chicken Salad ,11,Salads,Wendys
+3,3,Total Carbs (g),Apple Pecan Chicken Salad ,27,Salads,Wendys
+4,4,Sodium (mg),Apple Pecan Chicken Salad ,970,Salads,Wendys
+5,5,Saturated Fat (g),Apple Pecan Chicken Salad ,7,Salads,Wendys
+6,6,Trans Fat (g),Apple Pecan Chicken Salad ,0,Salads,Wendys
+7,7,Cholesterol (mg),Apple Pecan Chicken Salad ,115,Salads,Wendys
+8,8,Fiber (g),Apple Pecan Chicken Salad ,5,Salads,Wendys
+9,9,Sugars (g),Apple Pecan Chicken Salad ,17,Salads,Wendys
+10,10,Calories,Apple Pecan Chicken Salad Half-Size ,180,Salads,Wendys
+11,11, Protein (g),Apple Pecan Chicken Salad Half-Size ,18,Salads,Wendys
+12,12, Total Fat (g),Apple Pecan Chicken Salad Half-Size ,6,Salads,Wendys
+13,13,Total Carbs (g),Apple Pecan Chicken Salad Half-Size ,14,Salads,Wendys
+14,14,Sodium (mg),Apple Pecan Chicken Salad Half-Size ,490,Salads,Wendys
+15,15,Saturated Fat (g),Apple Pecan Chicken Salad Half-Size ,4,Salads,Wendys
+16,16,Trans Fat (g),Apple Pecan Chicken Salad Half-Size ,0,Salads,Wendys
+17,17,Cholesterol (mg),Apple Pecan Chicken Salad Half-Size ,55,Salads,Wendys
+18,18,Fiber (g),Apple Pecan Chicken Salad Half-Size ,3,Salads,Wendys
+19,19,Sugars (g),Apple Pecan Chicken Salad Half-Size ,9,Salads,Wendys
+20,20,Calories,Roasted Pecans,110,Salads,Wendys
+21,21, Protein (g),Roasted Pecans,1,Salads,Wendys
+22,22, Total Fat (g),Roasted Pecans,9,Salads,Wendys
+23,23,Total Carbs (g),Roasted Pecans,6,Salads,Wendys
+24,24,Sodium (mg),Roasted Pecans,60,Salads,Wendys
+25,25,Saturated Fat (g),Roasted Pecans,1,Salads,Wendys
+26,26,Trans Fat (g),Roasted Pecans,0,Salads,Wendys
+27,27,Cholesterol (mg),Roasted Pecans,0,Salads,Wendys
+28,28,Fiber (g),Roasted Pecans,1,Salads,Wendys
+29,29,Sugars (g),Roasted Pecans,4,Salads,Wendys
+30,30,Calories,Baja Chili Salad,530,Salads,Wendys
+31,31, Protein (g),Baja Chili Salad,32,Salads,Wendys
+32,32, Total Fat (g),Baja Chili Salad,31,Salads,Wendys
+33,33,Total Carbs (g),Baja Chili Salad,34,Salads,Wendys
+34,34,Sodium (mg),Baja Chili Salad,1580,Salads,Wendys
+35,35,Saturated Fat (g),Baja Chili Salad,14,Salads,Wendys
+36,36,Trans Fat (g),Baja Chili Salad,1,Salads,Wendys
+37,37,Cholesterol (mg),Baja Chili Salad,90,Salads,Wendys
+38,38,Fiber (g),Baja Chili Salad,13,Salads,Wendys
+39,39,Sugars (g),Baja Chili Salad,10,Salads,Wendys
+40,40,Calories,Baja Chili Salad Half-Size,280,Salads,Wendys
+41,41, Protein (g),Baja Chili Salad Half-Size,16,Salads,Wendys
+42,42, Total Fat (g),Baja Chili Salad Half-Size,16,Salads,Wendys
+43,43,Total Carbs (g),Baja Chili Salad Half-Size,18,Salads,Wendys
+44,44,Sodium (mg),Baja Chili Salad Half-Size,820,Salads,Wendys
+45,45,Saturated Fat (g),Baja Chili Salad Half-Size,7,Salads,Wendys
+46,46,Trans Fat (g),Baja Chili Salad Half-Size,0,Salads,Wendys
+47,47,Cholesterol (mg),Baja Chili Salad Half-Size,45,Salads,Wendys
+48,48,Fiber (g),Baja Chili Salad Half-Size,7,Salads,Wendys
+49,49,Sugars (g),Baja Chili Salad Half-Size,6,Salads,Wendys
+50,50,Calories,Seasoned Tortilla Strips,80,Snacks & Sides,Wendys
+51,51, Protein (g),Seasoned Tortilla Strips,1,Snacks & Sides,Wendys
+52,52, Total Fat (g),Seasoned Tortilla Strips,5,Snacks & Sides,Wendys
+53,53,Total Carbs (g),Seasoned Tortilla Strips,11,Snacks & Sides,Wendys
+54,54,Sodium (mg),Seasoned Tortilla Strips,105,Snacks & Sides,Wendys
+55,55,Saturated Fat (g),Seasoned Tortilla Strips,1,Snacks & Sides,Wendys
+56,56,Trans Fat (g),Seasoned Tortilla Strips,0,Snacks & Sides,Wendys
+57,57,Cholesterol (mg),Seasoned Tortilla Strips,0,Snacks & Sides,Wendys
+58,58,Fiber (g),Seasoned Tortilla Strips,1,Snacks & Sides,Wendys
+59,59,Sugars (g),Seasoned Tortilla Strips,0,Snacks & Sides,Wendys
+60,60,Calories,Chicken BLT Cobb Salad ,380,Salads,Wendys
+61,61, Protein (g),Chicken BLT Cobb Salad ,44,Salads,Wendys
+62,62, Total Fat (g),Chicken BLT Cobb Salad ,18,Salads,Wendys
+63,63,Total Carbs (g),Chicken BLT Cobb Salad ,11,Salads,Wendys
+64,64,Sodium (mg),Chicken BLT Cobb Salad ,1190,Salads,Wendys
+65,65,Saturated Fat (g),Chicken BLT Cobb Salad ,9,Salads,Wendys
+66,66,Trans Fat (g),Chicken BLT Cobb Salad ,0,Salads,Wendys
+67,67,Cholesterol (mg),Chicken BLT Cobb Salad ,260,Salads,Wendys
+68,68,Fiber (g),Chicken BLT Cobb Salad ,3,Salads,Wendys
+69,69,Sugars (g),Chicken BLT Cobb Salad ,4,Salads,Wendys
+70,70,Calories,Chicken BLT Cobb Salad Half-Size ,190,Salads,Wendys
+71,71, Protein (g),Chicken BLT Cobb Salad Half-Size ,22,Salads,Wendys
+72,72, Total Fat (g),Chicken BLT Cobb Salad Half-Size ,9,Salads,Wendys
+73,73,Total Carbs (g),Chicken BLT Cobb Salad Half-Size ,6,Salads,Wendys
+74,74,Sodium (mg),Chicken BLT Cobb Salad Half-Size ,600,Salads,Wendys
+75,75,Saturated Fat (g),Chicken BLT Cobb Salad Half-Size ,5,Salads,Wendys
+76,76,Trans Fat (g),Chicken BLT Cobb Salad Half-Size ,0,Salads,Wendys
+77,77,Cholesterol (mg),Chicken BLT Cobb Salad Half-Size ,130,Salads,Wendys
+78,78,Fiber (g),Chicken BLT Cobb Salad Half-Size ,2,Salads,Wendys
+79,79,Sugars (g),Chicken BLT Cobb Salad Half-Size ,2,Salads,Wendys
+80,80,Calories,Spicy Chicken Caesar Salad,480,Salads,Wendys
+81,81, Protein (g),Spicy Chicken Caesar Salad,35,Salads,Wendys
+82,82, Total Fat (g),Spicy Chicken Caesar Salad,27,Salads,Wendys
+83,83,Total Carbs (g),Spicy Chicken Caesar Salad,24,Salads,Wendys
+84,84,Sodium (mg),Spicy Chicken Caesar Salad,1030,Salads,Wendys
+85,85,Saturated Fat (g),Spicy Chicken Caesar Salad,12,Salads,Wendys
+86,86,Trans Fat (g),Spicy Chicken Caesar Salad,1,Salads,Wendys
+87,87,Cholesterol (mg),Spicy Chicken Caesar Salad,90,Salads,Wendys
+88,88,Fiber (g),Spicy Chicken Caesar Salad,6,Salads,Wendys
+89,89,Sugars (g),Spicy Chicken Caesar Salad,3,Salads,Wendys
+90,90,Calories,Spicy Chicken Caesar Salad Half-Size,250,Salads,Wendys
+91,91, Protein (g),Spicy Chicken Caesar Salad Half-Size,18,Salads,Wendys
+92,92, Total Fat (g),Spicy Chicken Caesar Salad Half-Size,14,Salads,Wendys
+93,93,Total Carbs (g),Spicy Chicken Caesar Salad Half-Size,14,Salads,Wendys
+94,94,Sodium (mg),Spicy Chicken Caesar Salad Half-Size,520,Salads,Wendys
+95,95,Saturated Fat (g),Spicy Chicken Caesar Salad Half-Size,6,Salads,Wendys
+96,96,Trans Fat (g),Spicy Chicken Caesar Salad Half-Size,0,Salads,Wendys
+97,97,Cholesterol (mg),Spicy Chicken Caesar Salad Half-Size,45,Salads,Wendys
+98,98,Fiber (g),Spicy Chicken Caesar Salad Half-Size,4,Salads,Wendys
+99,99,Sugars (g),Spicy Chicken Caesar Salad Half-Size,2,Salads,Wendys
+100,100,Calories,Garden Side Salad,20,Salads,Wendys
+101,101, Protein (g),Garden Side Salad,1,Salads,Wendys
+102,102, Total Fat (g),Garden Side Salad,0,Salads,Wendys
+103,103,Total Carbs (g),Garden Side Salad,4,Salads,Wendys
+104,104,Sodium (mg),Garden Side Salad,30,Salads,Wendys
+105,105,Saturated Fat (g),Garden Side Salad,0,Salads,Wendys
+106,106,Trans Fat (g),Garden Side Salad,0,Salads,Wendys
+107,107,Cholesterol (mg),Garden Side Salad,0,Salads,Wendys
+108,108,Fiber (g),Garden Side Salad,2,Salads,Wendys
+109,109,Sugars (g),Garden Side Salad,2,Salads,Wendys
+110,110,Calories,Gourmet Croutons,80,Snacks & Sides,Wendys
+111,111, Protein (g),Gourmet Croutons,2,Snacks & Sides,Wendys
+112,112, Total Fat (g),Gourmet Croutons,3,Snacks & Sides,Wendys
+113,113,Total Carbs (g),Gourmet Croutons,13,Snacks & Sides,Wendys
+114,114,Sodium (mg),Gourmet Croutons,190,Snacks & Sides,Wendys
+115,115,Saturated Fat (g),Gourmet Croutons,0,Snacks & Sides,Wendys
+116,116,Trans Fat (g),Gourmet Croutons,0,Snacks & Sides,Wendys
+117,117,Cholesterol (mg),Gourmet Croutons,0,Snacks & Sides,Wendys
+118,118,Fiber (g),Gourmet Croutons,0,Snacks & Sides,Wendys
+119,119,Sugars (g),Gourmet Croutons,0,Snacks & Sides,Wendys
+120,120,Calories,Caesar Side Salad,60,Salads,Wendys
+121,121, Protein (g),Caesar Side Salad,4,Salads,Wendys
+122,122, Total Fat (g),Caesar Side Salad,4,Salads,Wendys
+123,123,Total Carbs (g),Caesar Side Salad,4,Salads,Wendys
+124,124,Sodium (mg),Caesar Side Salad,70,Salads,Wendys
+125,125,Saturated Fat (g),Caesar Side Salad,3,Salads,Wendys
+126,126,Trans Fat (g),Caesar Side Salad,0,Salads,Wendys
+127,127,Cholesterol (mg),Caesar Side Salad,10,Salads,Wendys
+128,128,Fiber (g),Caesar Side Salad,2,Salads,Wendys
+129,129,Sugars (g),Caesar Side Salad,1,Salads,Wendys
+130,130,Calories,Lemon Garlic Caesar Dressing ,110,Snacks & Sides,Wendys
+131,131, Protein (g),Lemon Garlic Caesar Dressing ,2,Snacks & Sides,Wendys
+132,132, Total Fat (g),Lemon Garlic Caesar Dressing ,11,Snacks & Sides,Wendys
+133,133,Total Carbs (g),Lemon Garlic Caesar Dressing ,2,Snacks & Sides,Wendys
+134,134,Sodium (mg),Lemon Garlic Caesar Dressing ,180,Snacks & Sides,Wendys
+135,135,Saturated Fat (g),Lemon Garlic Caesar Dressing ,2,Snacks & Sides,Wendys
+136,136,Trans Fat (g),Lemon Garlic Caesar Dressing ,0,Snacks & Sides,Wendys
+137,137,Cholesterol (mg),Lemon Garlic Caesar Dressing ,10,Snacks & Sides,Wendys
+138,138,Fiber (g),Lemon Garlic Caesar Dressing ,0,Snacks & Sides,Wendys
+139,139,Sugars (g),Lemon Garlic Caesar Dressing ,1,Snacks & Sides,Wendys
+140,140,Calories,Apple Slices,40,Snacks & Sides,Wendys
+141,141, Protein (g),Apple Slices,0,Snacks & Sides,Wendys
+142,142, Total Fat (g),Apple Slices,0,Snacks & Sides,Wendys
+143,143,Total Carbs (g),Apple Slices,9,Snacks & Sides,Wendys
+144,144,Sodium (mg),Apple Slices,0,Snacks & Sides,Wendys
+145,145,Saturated Fat (g),Apple Slices,0,Snacks & Sides,Wendys
+146,146,Trans Fat (g),Apple Slices,0,Snacks & Sides,Wendys
+147,147,Cholesterol (mg),Apple Slices,0,Snacks & Sides,Wendys
+148,148,Fiber (g),Apple Slices,2,Snacks & Sides,Wendys
+149,149,Sugars (g),Apple Slices,7,Snacks & Sides,Wendys
+150,150,Calories,Plain Baked Potato (avg. wgt. 10 oz.),270,Snacks & Sides,Wendys
+151,151, Protein (g),Plain Baked Potato (avg. wgt. 10 oz.),7,Snacks & Sides,Wendys
+152,152, Total Fat (g),Plain Baked Potato (avg. wgt. 10 oz.),0,Snacks & Sides,Wendys
+153,153,Total Carbs (g),Plain Baked Potato (avg. wgt. 10 oz.),61,Snacks & Sides,Wendys
+154,154,Sodium (mg),Plain Baked Potato (avg. wgt. 10 oz.),25,Snacks & Sides,Wendys
+155,155,Saturated Fat (g),Plain Baked Potato (avg. wgt. 10 oz.),0,Snacks & Sides,Wendys
+156,156,Trans Fat (g),Plain Baked Potato (avg. wgt. 10 oz.),0,Snacks & Sides,Wendys
+157,157,Cholesterol (mg),Plain Baked Potato (avg. wgt. 10 oz.),0,Snacks & Sides,Wendys
+158,158,Fiber (g),Plain Baked Potato (avg. wgt. 10 oz.),7,Snacks & Sides,Wendys
+159,159,Sugars (g),Plain Baked Potato (avg. wgt. 10 oz.),3,Snacks & Sides,Wendys
+160,160,Calories,Sour Cream & Chive Baked Potato,320,Snacks & Sides,Wendys
+161,161, Protein (g),Sour Cream & Chive Baked Potato,8,Snacks & Sides,Wendys
+162,162, Total Fat (g),Sour Cream & Chive Baked Potato,4,Snacks & Sides,Wendys
+163,163,Total Carbs (g),Sour Cream & Chive Baked Potato,63,Snacks & Sides,Wendys
+164,164,Sodium (mg),Sour Cream & Chive Baked Potato,50,Snacks & Sides,Wendys
+165,165,Saturated Fat (g),Sour Cream & Chive Baked Potato,2,Snacks & Sides,Wendys
+166,166,Trans Fat (g),Sour Cream & Chive Baked Potato,0,Snacks & Sides,Wendys
+167,167,Cholesterol (mg),Sour Cream & Chive Baked Potato,10,Snacks & Sides,Wendys
+168,168,Fiber (g),Sour Cream & Chive Baked Potato,7,Snacks & Sides,Wendys
+169,169,Sugars (g),Sour Cream & Chive Baked Potato,4,Snacks & Sides,Wendys
+170,170,Calories,Buttery Best Spread,50,Snacks & Sides,Wendys
+171,171, Protein (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+172,172, Total Fat (g),Buttery Best Spread,6,Snacks & Sides,Wendys
+173,173,Total Carbs (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+174,174,Sodium (mg),Buttery Best Spread,95,Snacks & Sides,Wendys
+175,175,Saturated Fat (g),Buttery Best Spread,1,Snacks & Sides,Wendys
+176,176,Trans Fat (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+177,177,Cholesterol (mg),Buttery Best Spread,0,Snacks & Sides,Wendys
+178,178,Fiber (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+179,179,Sugars (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+180,180,Calories,"Rich & Meaty Chili, Small",180,Snacks & Sides,Wendys
+181,181, Protein (g),"Rich & Meaty Chili, Small",13,Snacks & Sides,Wendys
+182,182, Total Fat (g),"Rich & Meaty Chili, Small",5,Snacks & Sides,Wendys
+183,183,Total Carbs (g),"Rich & Meaty Chili, Small",20,Snacks & Sides,Wendys
+184,184,Sodium (mg),"Rich & Meaty Chili, Small",790,Snacks & Sides,Wendys
+185,185,Saturated Fat (g),"Rich & Meaty Chili, Small",2,Snacks & Sides,Wendys
+186,186,Trans Fat (g),"Rich & Meaty Chili, Small",0,Snacks & Sides,Wendys
+187,187,Cholesterol (mg),"Rich & Meaty Chili, Small",30,Snacks & Sides,Wendys
+188,188,Fiber (g),"Rich & Meaty Chili, Small",4,Snacks & Sides,Wendys
+189,189,Sugars (g),"Rich & Meaty Chili, Small",5,Snacks & Sides,Wendys
+190,190,Calories,"Rich & Meaty Chili, Large",270,Snacks & Sides,Wendys
+191,191, Protein (g),"Rich & Meaty Chili, Large",19,Snacks & Sides,Wendys
+192,192, Total Fat (g),"Rich & Meaty Chili, Large",8,Snacks & Sides,Wendys
+193,193,Total Carbs (g),"Rich & Meaty Chili, Large",31,Snacks & Sides,Wendys
+194,194,Sodium (mg),"Rich & Meaty Chili, Large",1180,Snacks & Sides,Wendys
+195,195,Saturated Fat (g),"Rich & Meaty Chili, Large",3,Snacks & Sides,Wendys
+196,196,Trans Fat (g),"Rich & Meaty Chili, Large",1,Snacks & Sides,Wendys
+197,197,Cholesterol (mg),"Rich & Meaty Chili, Large",40,Snacks & Sides,Wendys
+198,198,Fiber (g),"Rich & Meaty Chili, Large",7,Snacks & Sides,Wendys
+199,199,Sugars (g),"Rich & Meaty Chili, Large",8,Snacks & Sides,Wendys
+200,200,Calories,Hot Chili Seasoning Packet,5,Snacks & Sides,Wendys
+201,201, Protein (g),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+202,202, Total Fat (g),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+203,203,Total Carbs (g),Hot Chili Seasoning Packet,1,Snacks & Sides,Wendys
+204,204,Sodium (mg),Hot Chili Seasoning Packet,280,Snacks & Sides,Wendys
+205,205,Saturated Fat (g),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+206,206,Trans Fat (g),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+207,207,Cholesterol (mg),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+208,208,Fiber (g),Hot Chili Seasoning Packet,0,Snacks & Sides,Wendys
+209,209,Sugars (g),Hot Chili Seasoning Packet,1,Snacks & Sides,Wendys
+210,210,Calories,Saltine Crackers,25,Snacks & Sides,Wendys
+211,211, Protein (g),Saltine Crackers,1,Snacks & Sides,Wendys
+212,212, Total Fat (g),Saltine Crackers,1,Snacks & Sides,Wendys
+213,213,Total Carbs (g),Saltine Crackers,5,Snacks & Sides,Wendys
+214,214,Sodium (mg),Saltine Crackers,80,Snacks & Sides,Wendys
+215,215,Saturated Fat (g),Saltine Crackers,0,Snacks & Sides,Wendys
+216,216,Trans Fat (g),Saltine Crackers,0,Snacks & Sides,Wendys
+217,217,Cholesterol (mg),Saltine Crackers,0,Snacks & Sides,Wendys
+218,218,Fiber (g),Saltine Crackers,0,Snacks & Sides,Wendys
+219,219,Sugars (g),Saltine Crackers,0,Snacks & Sides,Wendys
+220,220,Calories,"Cheddar Cheese, Shredded",70,Snacks & Sides,Wendys
+221,221, Protein (g),"Cheddar Cheese, Shredded",4,Snacks & Sides,Wendys
+222,222, Total Fat (g),"Cheddar Cheese, Shredded",6,Snacks & Sides,Wendys
+223,223,Total Carbs (g),"Cheddar Cheese, Shredded",1,Snacks & Sides,Wendys
+224,224,Sodium (mg),"Cheddar Cheese, Shredded",110,Snacks & Sides,Wendys
+225,225,Saturated Fat (g),"Cheddar Cheese, Shredded",4,Snacks & Sides,Wendys
+226,226,Trans Fat (g),"Cheddar Cheese, Shredded",0,Snacks & Sides,Wendys
+227,227,Cholesterol (mg),"Cheddar Cheese, Shredded",15,Snacks & Sides,Wendys
+228,228,Fiber (g),"Cheddar Cheese, Shredded",0,Snacks & Sides,Wendys
+229,229,Sugars (g),"Cheddar Cheese, Shredded",0,Snacks & Sides,Wendys
+230,230,Calories,Chili Cheese Fries,530,Snacks & Sides,Wendys
+231,231, Protein (g),Chili Cheese Fries,16,Snacks & Sides,Wendys
+232,232, Total Fat (g),Chili Cheese Fries,28,Snacks & Sides,Wendys
+233,233,Total Carbs (g),Chili Cheese Fries,55,Snacks & Sides,Wendys
+234,234,Sodium (mg),Chili Cheese Fries,1050,Snacks & Sides,Wendys
+235,235,Saturated Fat (g),Chili Cheese Fries,10,Snacks & Sides,Wendys
+236,236,Trans Fat (g),Chili Cheese Fries,1,Snacks & Sides,Wendys
+237,237,Cholesterol (mg),Chili Cheese Fries,45,Snacks & Sides,Wendys
+238,238,Fiber (g),Chili Cheese Fries,7,Snacks & Sides,Wendys
+239,239,Sugars (g),Chili Cheese Fries,4,Snacks & Sides,Wendys
+240,240,Calories,Value Natural-Cut Fries,220,Snacks & Sides,Wendys
+241,241, Protein (g),Value Natural-Cut Fries,3,Snacks & Sides,Wendys
+242,242, Total Fat (g),Value Natural-Cut Fries,11,Snacks & Sides,Wendys
+243,243,Total Carbs (g),Value Natural-Cut Fries,28,Snacks & Sides,Wendys
+244,244,Sodium (mg),Value Natural-Cut Fries,240,Snacks & Sides,Wendys
+245,245,Saturated Fat (g),Value Natural-Cut Fries,2,Snacks & Sides,Wendys
+246,246,Trans Fat (g),Value Natural-Cut Fries,0,Snacks & Sides,Wendys
+247,247,Cholesterol (mg),Value Natural-Cut Fries,0,Snacks & Sides,Wendys
+248,248,Fiber (g),Value Natural-Cut Fries,3,Snacks & Sides,Wendys
+249,249,Sugars (g),Value Natural-Cut Fries,0,Snacks & Sides,Wendys
+250,250,Calories,Small Natural-Cut Fries,310,Snacks & Sides,Wendys
+251,251, Protein (g),Small Natural-Cut Fries,4,Snacks & Sides,Wendys
+252,252, Total Fat (g),Small Natural-Cut Fries,15,Snacks & Sides,Wendys
+253,253,Total Carbs (g),Small Natural-Cut Fries,40,Snacks & Sides,Wendys
+254,254,Sodium (mg),Small Natural-Cut Fries,330,Snacks & Sides,Wendys
+255,255,Saturated Fat (g),Small Natural-Cut Fries,3,Snacks & Sides,Wendys
+256,256,Trans Fat (g),Small Natural-Cut Fries,0,Snacks & Sides,Wendys
+257,257,Cholesterol (mg),Small Natural-Cut Fries,0,Snacks & Sides,Wendys
+258,258,Fiber (g),Small Natural-Cut Fries,4,Snacks & Sides,Wendys
+259,259,Sugars (g),Small Natural-Cut Fries,0,Snacks & Sides,Wendys
+260,260,Calories,Medium Natural-Cut Fries,410,Snacks & Sides,Wendys
+261,261, Protein (g),Medium Natural-Cut Fries,5,Snacks & Sides,Wendys
+262,262, Total Fat (g),Medium Natural-Cut Fries,20,Snacks & Sides,Wendys
+263,263,Total Carbs (g),Medium Natural-Cut Fries,52,Snacks & Sides,Wendys
+264,264,Sodium (mg),Medium Natural-Cut Fries,440,Snacks & Sides,Wendys
+265,265,Saturated Fat (g),Medium Natural-Cut Fries,4,Snacks & Sides,Wendys
+266,266,Trans Fat (g),Medium Natural-Cut Fries,0,Snacks & Sides,Wendys
+267,267,Cholesterol (mg),Medium Natural-Cut Fries,0,Snacks & Sides,Wendys
+268,268,Fiber (g),Medium Natural-Cut Fries,5,Snacks & Sides,Wendys
+269,269,Sugars (g),Medium Natural-Cut Fries,0,Snacks & Sides,Wendys
+270,270,Calories,Large Natural-Cut Fries,500,Snacks & Sides,Wendys
+271,271, Protein (g),Large Natural-Cut Fries,6,Snacks & Sides,Wendys
+272,272, Total Fat (g),Large Natural-Cut Fries,24,Snacks & Sides,Wendys
+273,273,Total Carbs (g),Large Natural-Cut Fries,65,Snacks & Sides,Wendys
+274,274,Sodium (mg),Large Natural-Cut Fries,540,Snacks & Sides,Wendys
+275,275,Saturated Fat (g),Large Natural-Cut Fries,5,Snacks & Sides,Wendys
+276,276,Trans Fat (g),Large Natural-Cut Fries,0,Snacks & Sides,Wendys
+277,277,Cholesterol (mg),Large Natural-Cut Fries,0,Snacks & Sides,Wendys
+278,278,Fiber (g),Large Natural-Cut Fries,6,Snacks & Sides,Wendys
+279,279,Sugars (g),Large Natural-Cut Fries,0,Snacks & Sides,Wendys
+280,280,Calories,"Ketchup, 1 Packet",10,Snacks & Sides,Wendys
+281,281, Protein (g),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+282,282, Total Fat (g),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+283,283,Total Carbs (g),"Ketchup, 1 Packet",2,Snacks & Sides,Wendys
+284,284,Sodium (mg),"Ketchup, 1 Packet",70,Snacks & Sides,Wendys
+285,285,Saturated Fat (g),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+286,286,Trans Fat (g),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+287,287,Cholesterol (mg),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+288,288,Fiber (g),"Ketchup, 1 Packet",0,Snacks & Sides,Wendys
+289,289,Sugars (g),"Ketchup, 1 Packet",2,Snacks & Sides,Wendys
+290,290,Calories,4-Piece Regular Chicken Nuggets,180,Snacks & Sides,Wendys
+291,291, Protein (g),4-Piece Regular Chicken Nuggets,9,Snacks & Sides,Wendys
+292,292, Total Fat (g),4-Piece Regular Chicken Nuggets,12,Snacks & Sides,Wendys
+293,293,Total Carbs (g),4-Piece Regular Chicken Nuggets,10,Snacks & Sides,Wendys
+294,294,Sodium (mg),4-Piece Regular Chicken Nuggets,350,Snacks & Sides,Wendys
+295,295,Saturated Fat (g),4-Piece Regular Chicken Nuggets,3,Snacks & Sides,Wendys
+296,296,Trans Fat (g),4-Piece Regular Chicken Nuggets,0,Snacks & Sides,Wendys
+297,297,Cholesterol (mg),4-Piece Regular Chicken Nuggets,30,Snacks & Sides,Wendys
+298,298,Fiber (g),4-Piece Regular Chicken Nuggets,1,Snacks & Sides,Wendys
+299,299,Sugars (g),4-Piece Regular Chicken Nuggets,0,Snacks & Sides,Wendys
+300,300,Calories,4-Piece Spicy Chicken Nuggets,170,Snacks & Sides,Wendys
+301,301, Protein (g),4-Piece Spicy Chicken Nuggets,10,Snacks & Sides,Wendys
+302,302, Total Fat (g),4-Piece Spicy Chicken Nuggets,11,Snacks & Sides,Wendys
+303,303,Total Carbs (g),4-Piece Spicy Chicken Nuggets,9,Snacks & Sides,Wendys
+304,304,Sodium (mg),4-Piece Spicy Chicken Nuggets,500,Snacks & Sides,Wendys
+305,305,Saturated Fat (g),4-Piece Spicy Chicken Nuggets,3,Snacks & Sides,Wendys
+306,306,Trans Fat (g),4-Piece Spicy Chicken Nuggets,0,Snacks & Sides,Wendys
+307,307,Cholesterol (mg),4-Piece Spicy Chicken Nuggets,30,Snacks & Sides,Wendys
+308,308,Fiber (g),4-Piece Spicy Chicken Nuggets,1,Snacks & Sides,Wendys
+309,309,Sugars (g),4-Piece Spicy Chicken Nuggets,0,Snacks & Sides,Wendys
+310,310,Calories,6-Piece Regular Chicken Nuggets,270,Snacks & Sides,Wendys
+311,311, Protein (g),6-Piece Regular Chicken Nuggets,14,Snacks & Sides,Wendys
+312,312, Total Fat (g),6-Piece Regular Chicken Nuggets,18,Snacks & Sides,Wendys
+313,313,Total Carbs (g),6-Piece Regular Chicken Nuggets,14,Snacks & Sides,Wendys
+314,314,Sodium (mg),6-Piece Regular Chicken Nuggets,520,Snacks & Sides,Wendys
+315,315,Saturated Fat (g),6-Piece Regular Chicken Nuggets,4,Snacks & Sides,Wendys
+316,316,Trans Fat (g),6-Piece Regular Chicken Nuggets,0,Snacks & Sides,Wendys
+317,317,Cholesterol (mg),6-Piece Regular Chicken Nuggets,45,Snacks & Sides,Wendys
+318,318,Fiber (g),6-Piece Regular Chicken Nuggets,1,Snacks & Sides,Wendys
+319,319,Sugars (g),6-Piece Regular Chicken Nuggets,0,Snacks & Sides,Wendys
+320,320,Calories,6-Piece Spicy Chicken Nuggets,260,Snacks & Sides,Wendys
+321,321, Protein (g),6-Piece Spicy Chicken Nuggets,15,Snacks & Sides,Wendys
+322,322, Total Fat (g),6-Piece Spicy Chicken Nuggets,17,Snacks & Sides,Wendys
+323,323,Total Carbs (g),6-Piece Spicy Chicken Nuggets,14,Snacks & Sides,Wendys
+324,324,Sodium (mg),6-Piece Spicy Chicken Nuggets,750,Snacks & Sides,Wendys
+325,325,Saturated Fat (g),6-Piece Spicy Chicken Nuggets,4,Snacks & Sides,Wendys
+326,326,Trans Fat (g),6-Piece Spicy Chicken Nuggets,0,Snacks & Sides,Wendys
+327,327,Cholesterol (mg),6-Piece Spicy Chicken Nuggets,45,Snacks & Sides,Wendys
+328,328,Fiber (g),6-Piece Spicy Chicken Nuggets,1,Snacks & Sides,Wendys
+329,329,Sugars (g),6-Piece Spicy Chicken Nuggets,0,Snacks & Sides,Wendys
+330,330,Calories,10-Piece Chicken Nuggets,450,Snacks & Sides,Wendys
+331,331, Protein (g),10-Piece Chicken Nuggets,23,Snacks & Sides,Wendys
+332,332, Total Fat (g),10-Piece Chicken Nuggets,30,Snacks & Sides,Wendys
+333,333,Total Carbs (g),10-Piece Chicken Nuggets,24,Snacks & Sides,Wendys
+334,334,Sodium (mg),10-Piece Chicken Nuggets,870,Snacks & Sides,Wendys
+335,335,Saturated Fat (g),10-Piece Chicken Nuggets,7,Snacks & Sides,Wendys
+336,336,Trans Fat (g),10-Piece Chicken Nuggets,0,Snacks & Sides,Wendys
+337,337,Cholesterol (mg),10-Piece Chicken Nuggets,75,Snacks & Sides,Wendys
+338,338,Fiber (g),10-Piece Chicken Nuggets,2,Snacks & Sides,Wendys
+339,339,Sugars (g),10-Piece Chicken Nuggets,0,Snacks & Sides,Wendys
+340,340,Calories,Jr. Hamburger,250,Beef & Pork,Wendys
+341,341, Protein (g),Jr. Hamburger,14,Beef & Pork,Wendys
+342,342, Total Fat (g),Jr. Hamburger,10,Beef & Pork,Wendys
+343,343,Total Carbs (g),Jr. Hamburger,25,Beef & Pork,Wendys
+344,344,Sodium (mg),Jr. Hamburger,600,Beef & Pork,Wendys
+345,345,Saturated Fat (g),Jr. Hamburger,4,Beef & Pork,Wendys
+346,346,Trans Fat (g),Jr. Hamburger,1,Beef & Pork,Wendys
+347,347,Cholesterol (mg),Jr. Hamburger,40,Beef & Pork,Wendys
+348,348,Fiber (g),Jr. Hamburger,2,Beef & Pork,Wendys
+349,349,Sugars (g),Jr. Hamburger,5,Beef & Pork,Wendys
+350,350,Calories,Jr. Cheeseburger,290,Beef & Pork,Wendys
+351,351, Protein (g),Jr. Cheeseburger,16,Beef & Pork,Wendys
+352,352, Total Fat (g),Jr. Cheeseburger,13,Beef & Pork,Wendys
+353,353,Total Carbs (g),Jr. Cheeseburger,26,Beef & Pork,Wendys
+354,354,Sodium (mg),Jr. Cheeseburger,800,Beef & Pork,Wendys
+355,355,Saturated Fat (g),Jr. Cheeseburger,6,Beef & Pork,Wendys
+356,356,Trans Fat (g),Jr. Cheeseburger,1,Beef & Pork,Wendys
+357,357,Cholesterol (mg),Jr. Cheeseburger,50,Beef & Pork,Wendys
+358,358,Fiber (g),Jr. Cheeseburger,2,Beef & Pork,Wendys
+359,359,Sugars (g),Jr. Cheeseburger,6,Beef & Pork,Wendys
+360,360,Calories,Jr. Bacon Cheeseburger (JBC),390,Beef & Pork,Wendys
+361,361, Protein (g),Jr. Bacon Cheeseburger (JBC),20,Beef & Pork,Wendys
+362,362, Total Fat (g),Jr. Bacon Cheeseburger (JBC),22,Beef & Pork,Wendys
+363,363,Total Carbs (g),Jr. Bacon Cheeseburger (JBC),26,Beef & Pork,Wendys
+364,364,Sodium (mg),Jr. Bacon Cheeseburger (JBC),870,Beef & Pork,Wendys
+365,365,Saturated Fat (g),Jr. Bacon Cheeseburger (JBC),8,Beef & Pork,Wendys
+366,366,Trans Fat (g),Jr. Bacon Cheeseburger (JBC),1,Beef & Pork,Wendys
+367,367,Cholesterol (mg),Jr. Bacon Cheeseburger (JBC),65,Beef & Pork,Wendys
+368,368,Fiber (g),Jr. Bacon Cheeseburger (JBC),2,Beef & Pork,Wendys
+369,369,Sugars (g),Jr. Bacon Cheeseburger (JBC),5,Beef & Pork,Wendys
+370,370,Calories,Jr. Cheeseburger Deluxe,350,Beef & Pork,Wendys
+371,371, Protein (g),Jr. Cheeseburger Deluxe,17,Beef & Pork,Wendys
+372,372, Total Fat (g),Jr. Cheeseburger Deluxe,19,Beef & Pork,Wendys
+373,373,Total Carbs (g),Jr. Cheeseburger Deluxe,27,Beef & Pork,Wendys
+374,374,Sodium (mg),Jr. Cheeseburger Deluxe,830,Beef & Pork,Wendys
+375,375,Saturated Fat (g),Jr. Cheeseburger Deluxe,7,Beef & Pork,Wendys
+376,376,Trans Fat (g),Jr. Cheeseburger Deluxe,1,Beef & Pork,Wendys
+377,377,Cholesterol (mg),Jr. Cheeseburger Deluxe,55,Beef & Pork,Wendys
+378,378,Fiber (g),Jr. Cheeseburger Deluxe,2,Beef & Pork,Wendys
+379,379,Sugars (g),Jr. Cheeseburger Deluxe,7,Beef & Pork,Wendys
+380,380,Calories,Double Stack™,420,Beef & Pork,Wendys
+381,381, Protein (g),Double Stack™,27,Beef & Pork,Wendys
+382,382, Total Fat (g),Double Stack™,21,Beef & Pork,Wendys
+383,383,Total Carbs (g),Double Stack™,26,Beef & Pork,Wendys
+384,384,Sodium (mg),Double Stack™,1060,Beef & Pork,Wendys
+385,385,Saturated Fat (g),Double Stack™,10,Beef & Pork,Wendys
+386,386,Trans Fat (g),Double Stack™,2,Beef & Pork,Wendys
+387,387,Cholesterol (mg),Double Stack™,90,Beef & Pork,Wendys
+388,388,Fiber (g),Double Stack™,2,Beef & Pork,Wendys
+389,389,Sugars (g),Double Stack™,6,Beef & Pork,Wendys
+390,390,Calories,"Hamburger, Kids’ Meal",250,Beef & Pork,Wendys
+391,391, Protein (g),"Hamburger, Kids’ Meal",14,Beef & Pork,Wendys
+392,392, Total Fat (g),"Hamburger, Kids’ Meal",10,Beef & Pork,Wendys
+393,393,Total Carbs (g),"Hamburger, Kids’ Meal",25,Beef & Pork,Wendys
+394,394,Sodium (mg),"Hamburger, Kids’ Meal",530,Beef & Pork,Wendys
+395,395,Saturated Fat (g),"Hamburger, Kids’ Meal",4,Beef & Pork,Wendys
+396,396,Trans Fat (g),"Hamburger, Kids’ Meal",1,Beef & Pork,Wendys
+397,397,Cholesterol (mg),"Hamburger, Kids’ Meal",40,Beef & Pork,Wendys
+398,398,Fiber (g),"Hamburger, Kids’ Meal",1,Beef & Pork,Wendys
+399,399,Sugars (g),"Hamburger, Kids’ Meal",5,Beef & Pork,Wendys
+400,400,Calories,"Cheeseburger, Kids’ Meal",290,Beef & Pork,Wendys
+401,401, Protein (g),"Cheeseburger, Kids’ Meal",16,Beef & Pork,Wendys
+402,402, Total Fat (g),"Cheeseburger, Kids’ Meal",13,Beef & Pork,Wendys
+403,403,Total Carbs (g),"Cheeseburger, Kids’ Meal",26,Beef & Pork,Wendys
+404,404,Sodium (mg),"Cheeseburger, Kids’ Meal",730,Beef & Pork,Wendys
+405,405,Saturated Fat (g),"Cheeseburger, Kids’ Meal",6,Beef & Pork,Wendys
+406,406,Trans Fat (g),"Cheeseburger, Kids’ Meal",1,Beef & Pork,Wendys
+407,407,Cholesterol (mg),"Cheeseburger, Kids’ Meal",50,Beef & Pork,Wendys
+408,408,Fiber (g),"Cheeseburger, Kids’ Meal",1,Beef & Pork,Wendys
+409,409,Sugars (g),"Cheeseburger, Kids’ Meal",6,Beef & Pork,Wendys
+410,410,Calories,1/4 lb. Single w/ Cheese,580,Beef & Pork,Wendys
+411,411, Protein (g),1/4 lb. Single w/ Cheese,30,Beef & Pork,Wendys
+412,412, Total Fat (g),1/4 lb. Single w/ Cheese,31,Beef & Pork,Wendys
+413,413,Total Carbs (g),1/4 lb. Single w/ Cheese,42,Beef & Pork,Wendys
+414,414,Sodium (mg),1/4 lb. Single w/ Cheese,1220,Beef & Pork,Wendys
+415,415,Saturated Fat (g),1/4 lb. Single w/ Cheese,13,Beef & Pork,Wendys
+416,416,Trans Fat (g),1/4 lb. Single w/ Cheese,2,Beef & Pork,Wendys
+417,417,Cholesterol (mg),1/4 lb. Single w/ Cheese,100,Beef & Pork,Wendys
+418,418,Fiber (g),1/4 lb. Single w/ Cheese,3,Beef & Pork,Wendys
+419,419,Sugars (g),1/4 lb. Single w/ Cheese,10,Beef & Pork,Wendys
+420,420,Calories,1/2 lb. Double w/ Cheese,820,Beef & Pork,Wendys
+421,421, Protein (g),1/2 lb. Double w/ Cheese,48,Beef & Pork,Wendys
+422,422, Total Fat (g),1/2 lb. Double w/ Cheese,47,Beef & Pork,Wendys
+423,423,Total Carbs (g),1/2 lb. Double w/ Cheese,42,Beef & Pork,Wendys
+424,424,Sodium (mg),1/2 lb. Double w/ Cheese,1510,Beef & Pork,Wendys
+425,425,Saturated Fat (g),1/2 lb. Double w/ Cheese,20,Beef & Pork,Wendys
+426,426,Trans Fat (g),1/2 lb. Double w/ Cheese,3,Beef & Pork,Wendys
+427,427,Cholesterol (mg),1/2 lb. Double w/ Cheese,170,Beef & Pork,Wendys
+428,428,Fiber (g),1/2 lb. Double w/ Cheese,3,Beef & Pork,Wendys
+429,429,Sugars (g),1/2 lb. Double w/ Cheese,10,Beef & Pork,Wendys
+430,430,Calories,3/4 lb. Triple w/ Cheese,1090,Beef & Pork,Wendys
+431,431, Protein (g),3/4 lb. Triple w/ Cheese,69,Beef & Pork,Wendys
+432,432, Total Fat (g),3/4 lb. Triple w/ Cheese,66,Beef & Pork,Wendys
+433,433,Total Carbs (g),3/4 lb. Triple w/ Cheese,43,Beef & Pork,Wendys
+434,434,Sodium (mg),3/4 lb. Triple w/ Cheese,1990,Beef & Pork,Wendys
+435,435,Saturated Fat (g),3/4 lb. Triple w/ Cheese,29,Beef & Pork,Wendys
+436,436,Trans Fat (g),3/4 lb. Triple w/ Cheese,4,Beef & Pork,Wendys
+437,437,Cholesterol (mg),3/4 lb. Triple w/ Cheese,255,Beef & Pork,Wendys
+438,438,Fiber (g),3/4 lb. Triple w/ Cheese,3,Beef & Pork,Wendys
+439,439,Sugars (g),3/4 lb. Triple w/ Cheese,11,Beef & Pork,Wendys
+440,440,Calories,Baconator®,940,Beef & Pork,Wendys
+441,441, Protein (g),Baconator®,57,Beef & Pork,Wendys
+442,442, Total Fat (g),Baconator®,56,Beef & Pork,Wendys
+443,443,Total Carbs (g),Baconator®,41,Beef & Pork,Wendys
+444,444,Sodium (mg),Baconator®,1890,Beef & Pork,Wendys
+445,445,Saturated Fat (g),Baconator®,23,Beef & Pork,Wendys
+446,446,Trans Fat (g),Baconator®,3,Beef & Pork,Wendys
+447,447,Cholesterol (mg),Baconator®,205,Beef & Pork,Wendys
+448,448,Fiber (g),Baconator®,2,Beef & Pork,Wendys
+449,449,Sugars (g),Baconator®,9,Beef & Pork,Wendys
+450,450,Calories,Son of Baconator®,670,Beef & Pork,Wendys
+451,451, Protein (g),Son of Baconator®,38,Beef & Pork,Wendys
+452,452, Total Fat (g),Son of Baconator®,37,Beef & Pork,Wendys
+453,453,Total Carbs (g),Son of Baconator®,41,Beef & Pork,Wendys
+454,454,Sodium (mg),Son of Baconator®,1670,Beef & Pork,Wendys
+455,455,Saturated Fat (g),Son of Baconator®,15,Beef & Pork,Wendys
+456,456,Trans Fat (g),Son of Baconator®,2,Beef & Pork,Wendys
+457,457,Cholesterol (mg),Son of Baconator®,130,Beef & Pork,Wendys
+458,458,Fiber (g),Son of Baconator®,2,Beef & Pork,Wendys
+459,459,Sugars (g),Son of Baconator®,9,Beef & Pork,Wendys
+460,460,Calories,Ultimate Chicken Grill Sandwich,370,Chicken & Fish,Wendys
+461,461, Protein (g),Ultimate Chicken Grill Sandwich,34,Chicken & Fish,Wendys
+462,462, Total Fat (g),Ultimate Chicken Grill Sandwich,7,Chicken & Fish,Wendys
+463,463,Total Carbs (g),Ultimate Chicken Grill Sandwich,43,Chicken & Fish,Wendys
+464,464,Sodium (mg),Ultimate Chicken Grill Sandwich,880,Chicken & Fish,Wendys
+465,465,Saturated Fat (g),Ultimate Chicken Grill Sandwich,2,Chicken & Fish,Wendys
+466,466,Trans Fat (g),Ultimate Chicken Grill Sandwich,0,Chicken & Fish,Wendys
+467,467,Cholesterol (mg),Ultimate Chicken Grill Sandwich,95,Chicken & Fish,Wendys
+468,468,Fiber (g),Ultimate Chicken Grill Sandwich,2,Chicken & Fish,Wendys
+469,469,Sugars (g),Ultimate Chicken Grill Sandwich,9,Chicken & Fish,Wendys
+470,470,Calories,Spicy Chicken Sandwich,510,Chicken & Fish,Wendys
+471,471, Protein (g),Spicy Chicken Sandwich,29,Chicken & Fish,Wendys
+472,472, Total Fat (g),Spicy Chicken Sandwich,20,Chicken & Fish,Wendys
+473,473,Total Carbs (g),Spicy Chicken Sandwich,55,Chicken & Fish,Wendys
+474,474,Sodium (mg),Spicy Chicken Sandwich,1130,Chicken & Fish,Wendys
+475,475,Saturated Fat (g),Spicy Chicken Sandwich,4,Chicken & Fish,Wendys
+476,476,Trans Fat (g),Spicy Chicken Sandwich,0,Chicken & Fish,Wendys
+477,477,Cholesterol (mg),Spicy Chicken Sandwich,65,Chicken & Fish,Wendys
+478,478,Fiber (g),Spicy Chicken Sandwich,4,Chicken & Fish,Wendys
+479,479,Sugars (g),Spicy Chicken Sandwich,7,Chicken & Fish,Wendys
+480,480,Calories,Homestyle Chicken Sandwich,510,Chicken & Fish,Wendys
+481,481, Protein (g),Homestyle Chicken Sandwich,29,Chicken & Fish,Wendys
+482,482, Total Fat (g),Homestyle Chicken Sandwich,20,Chicken & Fish,Wendys
+483,483,Total Carbs (g),Homestyle Chicken Sandwich,54,Chicken & Fish,Wendys
+484,484,Sodium (mg),Homestyle Chicken Sandwich,1200,Chicken & Fish,Wendys
+485,485,Saturated Fat (g),Homestyle Chicken Sandwich,4,Chicken & Fish,Wendys
+486,486,Trans Fat (g),Homestyle Chicken Sandwich,0,Chicken & Fish,Wendys
+487,487,Cholesterol (mg),Homestyle Chicken Sandwich,70,Chicken & Fish,Wendys
+488,488,Fiber (g),Homestyle Chicken Sandwich,4,Chicken & Fish,Wendys
+489,489,Sugars (g),Homestyle Chicken Sandwich,8,Chicken & Fish,Wendys
+490,490,Calories,Asiago Ranch Club w/ Homestyle Chicken,670,Chicken & Fish,Wendys
+491,491, Protein (g),Asiago Ranch Club w/ Homestyle Chicken,38,Chicken & Fish,Wendys
+492,492, Total Fat (g),Asiago Ranch Club w/ Homestyle Chicken,32,Chicken & Fish,Wendys
+493,493,Total Carbs (g),Asiago Ranch Club w/ Homestyle Chicken,57,Chicken & Fish,Wendys
+494,494,Sodium (mg),Asiago Ranch Club w/ Homestyle Chicken,1640,Chicken & Fish,Wendys
+495,495,Saturated Fat (g),Asiago Ranch Club w/ Homestyle Chicken,9,Chicken & Fish,Wendys
+496,496,Trans Fat (g),Asiago Ranch Club w/ Homestyle Chicken,0,Chicken & Fish,Wendys
+497,497,Cholesterol (mg),Asiago Ranch Club w/ Homestyle Chicken,100,Chicken & Fish,Wendys
+498,498,Fiber (g),Asiago Ranch Club w/ Homestyle Chicken,4,Chicken & Fish,Wendys
+499,499,Sugars (g),Asiago Ranch Club w/ Homestyle Chicken,9,Chicken & Fish,Wendys
+500,500,Calories,Asiago Ranch Club w/ Ultimate Chicken Gril,530,Chicken & Fish,Wendys
+501,501, Protein (g),Asiago Ranch Club w/ Ultimate Chicken Gril,43,Chicken & Fish,Wendys
+502,502, Total Fat (g),Asiago Ranch Club w/ Ultimate Chicken Gril,21,Chicken & Fish,Wendys
+503,503,Total Carbs (g),Asiago Ranch Club w/ Ultimate Chicken Gril,43,Chicken & Fish,Wendys
+504,504,Sodium (mg),Asiago Ranch Club w/ Ultimate Chicken Gril,1270,Chicken & Fish,Wendys
+505,505,Saturated Fat (g),Asiago Ranch Club w/ Ultimate Chicken Gril,7,Chicken & Fish,Wendys
+506,506,Trans Fat (g),Asiago Ranch Club w/ Ultimate Chicken Gril,0,Chicken & Fish,Wendys
+507,507,Cholesterol (mg),Asiago Ranch Club w/ Ultimate Chicken Gril,130,Chicken & Fish,Wendys
+508,508,Fiber (g),Asiago Ranch Club w/ Ultimate Chicken Gril,2,Chicken & Fish,Wendys
+509,509,Sugars (g),Asiago Ranch Club w/ Ultimate Chicken Gril,8,Chicken & Fish,Wendys
+510,510,Calories,Asiago Ranch Club w/ Spicy Chicken,670,Chicken & Fish,Wendys
+511,511, Protein (g),Asiago Ranch Club w/ Spicy Chicken,37,Chicken & Fish,Wendys
+512,512, Total Fat (g),Asiago Ranch Club w/ Spicy Chicken,32,Chicken & Fish,Wendys
+513,513,Total Carbs (g),Asiago Ranch Club w/ Spicy Chicken,57,Chicken & Fish,Wendys
+514,514,Sodium (mg),Asiago Ranch Club w/ Spicy Chicken,1560,Chicken & Fish,Wendys
+515,515,Saturated Fat (g),Asiago Ranch Club w/ Spicy Chicken,9,Chicken & Fish,Wendys
+516,516,Trans Fat (g),Asiago Ranch Club w/ Spicy Chicken,1,Chicken & Fish,Wendys
+517,517,Cholesterol (mg),Asiago Ranch Club w/ Spicy Chicken,100,Chicken & Fish,Wendys
+518,518,Fiber (g),Asiago Ranch Club w/ Spicy Chicken,4,Chicken & Fish,Wendys
+519,519,Sugars (g),Asiago Ranch Club w/ Spicy Chicken,8,Chicken & Fish,Wendys
+520,520,Calories,Crispy Chicken Sandwich,380,Chicken & Fish,Wendys
+521,521, Protein (g),Crispy Chicken Sandwich,15,Chicken & Fish,Wendys
+522,522, Total Fat (g),Crispy Chicken Sandwich,20,Chicken & Fish,Wendys
+523,523,Total Carbs (g),Crispy Chicken Sandwich,35,Chicken & Fish,Wendys
+524,524,Sodium (mg),Crispy Chicken Sandwich,680,Chicken & Fish,Wendys
+525,525,Saturated Fat (g),Crispy Chicken Sandwich,4,Chicken & Fish,Wendys
+526,526,Trans Fat (g),Crispy Chicken Sandwich,0,Chicken & Fish,Wendys
+527,527,Cholesterol (mg),Crispy Chicken Sandwich,35,Chicken & Fish,Wendys
+528,528,Fiber (g),Crispy Chicken Sandwich,3,Chicken & Fish,Wendys
+529,529,Sugars (g),Crispy Chicken Sandwich,4,Chicken & Fish,Wendys
+530,530,Calories,Crispy Chicken Caesar Wrap,440,Chicken & Fish,Wendys
+531,531, Protein (g),Crispy Chicken Caesar Wrap,17,Chicken & Fish,Wendys
+532,532, Total Fat (g),Crispy Chicken Caesar Wrap,26,Chicken & Fish,Wendys
+533,533,Total Carbs (g),Crispy Chicken Caesar Wrap,33,Chicken & Fish,Wendys
+534,534,Sodium (mg),Crispy Chicken Caesar Wrap,970,Chicken & Fish,Wendys
+535,535,Saturated Fat (g),Crispy Chicken Caesar Wrap,7,Chicken & Fish,Wendys
+536,536,Trans Fat (g),Crispy Chicken Caesar Wrap,0,Chicken & Fish,Wendys
+537,537,Cholesterol (mg),Crispy Chicken Caesar Wrap,45,Chicken & Fish,Wendys
+538,538,Fiber (g),Crispy Chicken Caesar Wrap,2,Chicken & Fish,Wendys
+539,539,Sugars (g),Crispy Chicken Caesar Wrap,1,Chicken & Fish,Wendys
+540,540,Calories,Grilled Chicken Go Wrap,260,Chicken & Fish,Wendys
+541,541, Protein (g),Grilled Chicken Go Wrap,19,Chicken & Fish,Wendys
+542,542, Total Fat (g),Grilled Chicken Go Wrap,10,Chicken & Fish,Wendys
+543,543,Total Carbs (g),Grilled Chicken Go Wrap,25,Chicken & Fish,Wendys
+544,544,Sodium (mg),Grilled Chicken Go Wrap,740,Chicken & Fish,Wendys
+545,545,Saturated Fat (g),Grilled Chicken Go Wrap,4,Chicken & Fish,Wendys
+546,546,Trans Fat (g),Grilled Chicken Go Wrap,0,Chicken & Fish,Wendys
+547,547,Cholesterol (mg),Grilled Chicken Go Wrap,55,Chicken & Fish,Wendys
+548,548,Fiber (g),Grilled Chicken Go Wrap,1,Chicken & Fish,Wendys
+549,549,Sugars (g),Grilled Chicken Go Wrap,3,Chicken & Fish,Wendys
+550,550,Calories,Homestyle Chicken Go Wrap,340,Chicken & Fish,Wendys
+551,551, Protein (g),Homestyle Chicken Go Wrap,17,Chicken & Fish,Wendys
+552,552, Total Fat (g),Homestyle Chicken Go Wrap,17,Chicken & Fish,Wendys
+553,553,Total Carbs (g),Homestyle Chicken Go Wrap,30,Chicken & Fish,Wendys
+554,554,Sodium (mg),Homestyle Chicken Go Wrap,910,Chicken & Fish,Wendys
+555,555,Saturated Fat (g),Homestyle Chicken Go Wrap,5,Chicken & Fish,Wendys
+556,556,Trans Fat (g),Homestyle Chicken Go Wrap,0,Chicken & Fish,Wendys
+557,557,Cholesterol (mg),Homestyle Chicken Go Wrap,45,Chicken & Fish,Wendys
+558,558,Fiber (g),Homestyle Chicken Go Wrap,1,Chicken & Fish,Wendys
+559,559,Sugars (g),Homestyle Chicken Go Wrap,1,Chicken & Fish,Wendys
+560,560,Calories,Spicy Chicken Go Wrap,330,Chicken & Fish,Wendys
+561,561, Protein (g),Spicy Chicken Go Wrap,17,Chicken & Fish,Wendys
+562,562, Total Fat (g),Spicy Chicken Go Wrap,16,Chicken & Fish,Wendys
+563,563,Total Carbs (g),Spicy Chicken Go Wrap,30,Chicken & Fish,Wendys
+564,564,Sodium (mg),Spicy Chicken Go Wrap,870,Chicken & Fish,Wendys
+565,565,Saturated Fat (g),Spicy Chicken Go Wrap,5,Chicken & Fish,Wendys
+566,566,Trans Fat (g),Spicy Chicken Go Wrap,0,Chicken & Fish,Wendys
+567,567,Cholesterol (mg),Spicy Chicken Go Wrap,40,Chicken & Fish,Wendys
+568,568,Fiber (g),Spicy Chicken Go Wrap,1,Chicken & Fish,Wendys
+569,569,Sugars (g),Spicy Chicken Go Wrap,1,Chicken & Fish,Wendys
+570,570,Calories,"Chocolate Frosty, Small",290,Desserts,Wendys
+571,571, Protein (g),"Chocolate Frosty, Small",8,Desserts,Wendys
+572,572, Total Fat (g),"Chocolate Frosty, Small",7,Desserts,Wendys
+573,573,Total Carbs (g),"Chocolate Frosty, Small",48,Desserts,Wendys
+574,574,Sodium (mg),"Chocolate Frosty, Small",135,Desserts,Wendys
+575,575,Saturated Fat (g),"Chocolate Frosty, Small",5,Desserts,Wendys
+576,576,Trans Fat (g),"Chocolate Frosty, Small",0,Desserts,Wendys
+577,577,Cholesterol (mg),"Chocolate Frosty, Small",30,Desserts,Wendys
+578,578,Fiber (g),"Chocolate Frosty, Small",2,Desserts,Wendys
+579,579,Sugars (g),"Chocolate Frosty, Small",40,Desserts,Wendys
+580,580,Calories,"Vanilla Frosty, Small",280,Desserts,Wendys
+581,581, Protein (g),"Vanilla Frosty, Small",8,Desserts,Wendys
+582,582, Total Fat (g),"Vanilla Frosty, Small",7,Desserts,Wendys
+583,583,Total Carbs (g),"Vanilla Frosty, Small",46,Desserts,Wendys
+584,584,Sodium (mg),"Vanilla Frosty, Small",135,Desserts,Wendys
+585,585,Saturated Fat (g),"Vanilla Frosty, Small",5,Desserts,Wendys
+586,586,Trans Fat (g),"Vanilla Frosty, Small",0,Desserts,Wendys
+587,587,Cholesterol (mg),"Vanilla Frosty, Small",30,Desserts,Wendys
+588,588,Fiber (g),"Vanilla Frosty, Small",0,Desserts,Wendys
+589,589,Sugars (g),"Vanilla Frosty, Small",39,Desserts,Wendys
+590,590,Calories,"Chocolate Frosty Shake, Small",580,Desserts,Wendys
+591,591, Protein (g),"Chocolate Frosty Shake, Small",11,Desserts,Wendys
+592,592, Total Fat (g),"Chocolate Frosty Shake, Small",13,Desserts,Wendys
+593,593,Total Carbs (g),"Chocolate Frosty Shake, Small",104,Desserts,Wendys
+594,594,Sodium (mg),"Chocolate Frosty Shake, Small",250,Desserts,Wendys
+595,595,Saturated Fat (g),"Chocolate Frosty Shake, Small",8,Desserts,Wendys
+596,596,Trans Fat (g),"Chocolate Frosty Shake, Small",1,Desserts,Wendys
+597,597,Cholesterol (mg),"Chocolate Frosty Shake, Small",45,Desserts,Wendys
+598,598,Fiber (g),"Chocolate Frosty Shake, Small",2,Desserts,Wendys
+599,599,Sugars (g),"Chocolate Frosty Shake, Small",93,Desserts,Wendys
+600,600,Calories,"Chocolate Frosty Shake, Large",870,Desserts,Wendys
+601,601, Protein (g),"Chocolate Frosty Shake, Large",15,Desserts,Wendys
+602,602, Total Fat (g),"Chocolate Frosty Shake, Large",17,Desserts,Wendys
+603,603,Total Carbs (g),"Chocolate Frosty Shake, Large",164,Desserts,Wendys
+604,604,Sodium (mg),"Chocolate Frosty Shake, Large",380,Desserts,Wendys
+605,605,Saturated Fat (g),"Chocolate Frosty Shake, Large",11,Desserts,Wendys
+606,606,Trans Fat (g),"Chocolate Frosty Shake, Large",1,Desserts,Wendys
+607,607,Cholesterol (mg),"Chocolate Frosty Shake, Large",60,Desserts,Wendys
+608,608,Fiber (g),"Chocolate Frosty Shake, Large",4,Desserts,Wendys
+609,609,Sugars (g),"Chocolate Frosty Shake, Large",148,Desserts,Wendys
+610,610,Calories,"Strawberry Frosty Shake, Small",540,Desserts,Wendys
+611,611, Protein (g),"Strawberry Frosty Shake, Small",10,Desserts,Wendys
+612,612, Total Fat (g),"Strawberry Frosty Shake, Small",12,Desserts,Wendys
+613,613,Total Carbs (g),"Strawberry Frosty Shake, Small",97,Desserts,Wendys
+614,614,Sodium (mg),"Strawberry Frosty Shake, Small",180,Desserts,Wendys
+615,615,Saturated Fat (g),"Strawberry Frosty Shake, Small",8,Desserts,Wendys
+616,616,Trans Fat (g),"Strawberry Frosty Shake, Small",1,Desserts,Wendys
+617,617,Cholesterol (mg),"Strawberry Frosty Shake, Small",45,Desserts,Wendys
+618,618,Fiber (g),"Strawberry Frosty Shake, Small",1,Desserts,Wendys
+619,619,Sugars (g),"Strawberry Frosty Shake, Small",86,Desserts,Wendys
+620,620,Calories,"Strawberry Frosty Shake, Large",780,Desserts,Wendys
+621,621, Protein (g),"Strawberry Frosty Shake, Large",13,Desserts,Wendys
+622,622, Total Fat (g),"Strawberry Frosty Shake, Large",15,Desserts,Wendys
+623,623,Total Carbs (g),"Strawberry Frosty Shake, Large",149,Desserts,Wendys
+624,624,Sodium (mg),"Strawberry Frosty Shake, Large",240,Desserts,Wendys
+625,625,Saturated Fat (g),"Strawberry Frosty Shake, Large",10,Desserts,Wendys
+626,626,Trans Fat (g),"Strawberry Frosty Shake, Large",1,Desserts,Wendys
+627,627,Cholesterol (mg),"Strawberry Frosty Shake, Large",60,Desserts,Wendys
+628,628,Fiber (g),"Strawberry Frosty Shake, Large",1,Desserts,Wendys
+629,629,Sugars (g),"Strawberry Frosty Shake, Large",134,Desserts,Wendys
+630,630,Calories,"Caramel Frosty Shake, Small",650,Desserts,Wendys
+631,631, Protein (g),"Caramel Frosty Shake, Small",10,Desserts,Wendys
+632,632, Total Fat (g),"Caramel Frosty Shake, Small",14,Desserts,Wendys
+633,633,Total Carbs (g),"Caramel Frosty Shake, Small",121,Desserts,Wendys
+634,634,Sodium (mg),"Caramel Frosty Shake, Small",320,Desserts,Wendys
+635,635,Saturated Fat (g),"Caramel Frosty Shake, Small",9,Desserts,Wendys
+636,636,Trans Fat (g),"Caramel Frosty Shake, Small",1,Desserts,Wendys
+637,637,Cholesterol (mg),"Caramel Frosty Shake, Small",50,Desserts,Wendys
+638,638,Fiber (g),"Caramel Frosty Shake, Small",0,Desserts,Wendys
+639,639,Sugars (g),"Caramel Frosty Shake, Small",96,Desserts,Wendys
+640,640,Calories,"Caramel Frosty Shake, Large",990,Desserts,Wendys
+641,641, Protein (g),"Caramel Frosty Shake, Large",14,Desserts,Wendys
+642,642, Total Fat (g),"Caramel Frosty Shake, Large",18,Desserts,Wendys
+643,643,Total Carbs (g),"Caramel Frosty Shake, Large",195,Desserts,Wendys
+644,644,Sodium (mg),"Caramel Frosty Shake, Large",510,Desserts,Wendys
+645,645,Saturated Fat (g),"Caramel Frosty Shake, Large",11,Desserts,Wendys
+646,646,Trans Fat (g),"Caramel Frosty Shake, Large",1,Desserts,Wendys
+647,647,Cholesterol (mg),"Caramel Frosty Shake, Large",70,Desserts,Wendys
+648,648,Fiber (g),"Caramel Frosty Shake, Large",0,Desserts,Wendys
+649,649,Sugars (g),"Caramel Frosty Shake, Large",153,Desserts,Wendys
+650,650,Calories,Chocolate Frosty Waffle Cone,300,Desserts,Wendys
+651,651, Protein (g),Chocolate Frosty Waffle Cone,7,Desserts,Wendys
+652,652, Total Fat (g),Chocolate Frosty Waffle Cone,6,Desserts,Wendys
+653,653,Total Carbs (g),Chocolate Frosty Waffle Cone,54,Desserts,Wendys
+654,654,Sodium (mg),Chocolate Frosty Waffle Cone,160,Desserts,Wendys
+655,655,Saturated Fat (g),Chocolate Frosty Waffle Cone,4,Desserts,Wendys
+656,656,Trans Fat (g),Chocolate Frosty Waffle Cone,0,Desserts,Wendys
+657,657,Cholesterol (mg),Chocolate Frosty Waffle Cone,20,Desserts,Wendys
+658,658,Fiber (g),Chocolate Frosty Waffle Cone,2,Desserts,Wendys
+659,659,Sugars (g),Chocolate Frosty Waffle Cone,35,Desserts,Wendys
+660,660,Calories,Vanilla Frosty Waffle Cone,290,Desserts,Wendys
+661,661, Protein (g),Vanilla Frosty Waffle Cone,7,Desserts,Wendys
+662,662, Total Fat (g),Vanilla Frosty Waffle Cone,0,Desserts,Wendys
+663,663,Total Carbs (g),Vanilla Frosty Waffle Cone,53,Desserts,Wendys
+664,664,Sodium (mg),Vanilla Frosty Waffle Cone,160,Desserts,Wendys
+665,665,Saturated Fat (g),Vanilla Frosty Waffle Cone,4,Desserts,Wendys
+666,666,Trans Fat (g),Vanilla Frosty Waffle Cone,0,Desserts,Wendys
+667,667,Cholesterol (mg),Vanilla Frosty Waffle Cone,20,Desserts,Wendys
+668,668,Fiber (g),Vanilla Frosty Waffle Cone,1,Desserts,Wendys
+669,669,Sugars (g),Vanilla Frosty Waffle Cone,34,Desserts,Wendys
+670,670,Calories,Artisan Egg Sandwich with Applewood Smoked Bacon,350,Snacks & Sides,Wendys
+671,671, Protein (g),Artisan Egg Sandwich with Applewood Smoked Bacon,18,Snacks & Sides,Wendys
+672,672, Total Fat (g),Artisan Egg Sandwich with Applewood Smoked Bacon,18,Snacks & Sides,Wendys
+673,673,Total Carbs (g),Artisan Egg Sandwich with Applewood Smoked Bacon,29,Snacks & Sides,Wendys
+674,674,Sodium (mg),Artisan Egg Sandwich with Applewood Smoked Bacon,730,Snacks & Sides,Wendys
+675,675,Saturated Fat (g),Artisan Egg Sandwich with Applewood Smoked Bacon,8,Snacks & Sides,Wendys
+676,676,Trans Fat (g),Artisan Egg Sandwich with Applewood Smoked Bacon,0,Snacks & Sides,Wendys
+677,677,Cholesterol (mg),Artisan Egg Sandwich with Applewood Smoked Bacon,250,Snacks & Sides,Wendys
+678,678,Fiber (g),Artisan Egg Sandwich with Applewood Smoked Bacon,1,Snacks & Sides,Wendys
+679,679,Sugars (g),Artisan Egg Sandwich with Applewood Smoked Bacon,4,Snacks & Sides,Wendys
+680,680,Calories,Artisan Egg Sandwich with All-Natural Sausage,500,Snacks & Sides,Wendys
+681,681, Protein (g),Artisan Egg Sandwich with All-Natural Sausage,24,Snacks & Sides,Wendys
+682,682, Total Fat (g),Artisan Egg Sandwich with All-Natural Sausage,32,Snacks & Sides,Wendys
+683,683,Total Carbs (g),Artisan Egg Sandwich with All-Natural Sausage,30,Snacks & Sides,Wendys
+684,684,Sodium (mg),Artisan Egg Sandwich with All-Natural Sausage,870,Snacks & Sides,Wendys
+685,685,Saturated Fat (g),Artisan Egg Sandwich with All-Natural Sausage,13,Snacks & Sides,Wendys
+686,686,Trans Fat (g),Artisan Egg Sandwich with All-Natural Sausage,1,Snacks & Sides,Wendys
+687,687,Cholesterol (mg),Artisan Egg Sandwich with All-Natural Sausage,280,Snacks & Sides,Wendys
+688,688,Fiber (g),Artisan Egg Sandwich with All-Natural Sausage,1,Snacks & Sides,Wendys
+689,689,Sugars (g),Artisan Egg Sandwich with All-Natural Sausage,4,Snacks & Sides,Wendys
+690,690,Calories,Artisan Sandwich with Egg & Cheese,290,Snacks & Sides,Wendys
+691,691, Protein (g),Artisan Sandwich with Egg & Cheese,15,Snacks & Sides,Wendys
+692,692, Total Fat (g),Artisan Sandwich with Egg & Cheese,13,Snacks & Sides,Wendys
+693,693,Total Carbs (g),Artisan Sandwich with Egg & Cheese,29,Snacks & Sides,Wendys
+694,694,Sodium (mg),Artisan Sandwich with Egg & Cheese,530,Snacks & Sides,Wendys
+695,695,Saturated Fat (g),Artisan Sandwich with Egg & Cheese,6,Snacks & Sides,Wendys
+696,696,Trans Fat (g),Artisan Sandwich with Egg & Cheese,0,Snacks & Sides,Wendys
+697,697,Cholesterol (mg),Artisan Sandwich with Egg & Cheese,235,Snacks & Sides,Wendys
+698,698,Fiber (g),Artisan Sandwich with Egg & Cheese,1,Snacks & Sides,Wendys
+699,699,Sugars (g),Artisan Sandwich with Egg & Cheese,4,Snacks & Sides,Wendys
+700,700,Calories,Mornin’ Melt™ Panini with Applewood Smoked Bacon,540,Snacks & Sides,Wendys
+701,701, Protein (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,30,Snacks & Sides,Wendys
+702,702, Total Fat (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,35,Snacks & Sides,Wendys
+703,703,Total Carbs (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,33,Snacks & Sides,Wendys
+704,704,Sodium (mg),Mornin’ Melt™ Panini with Applewood Smoked Bacon,860,Snacks & Sides,Wendys
+705,705,Saturated Fat (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,18,Snacks & Sides,Wendys
+706,706,Trans Fat (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,1,Snacks & Sides,Wendys
+707,707,Cholesterol (mg),Mornin’ Melt™ Panini with Applewood Smoked Bacon,290,Snacks & Sides,Wendys
+708,708,Fiber (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,1,Snacks & Sides,Wendys
+709,709,Sugars (g),Mornin’ Melt™ Panini with Applewood Smoked Bacon,4,Snacks & Sides,Wendys
+710,710,Calories,Mornin’ Melt Panini with All-Natural Sausage,650,Snacks & Sides,Wendys
+711,711, Protein (g),Mornin’ Melt Panini with All-Natural Sausage,34,Snacks & Sides,Wendys
+712,712, Total Fat (g),Mornin’ Melt Panini with All-Natural Sausage,46,Snacks & Sides,Wendys
+713,713,Total Carbs (g),Mornin’ Melt Panini with All-Natural Sausage,33,Snacks & Sides,Wendys
+714,714,Sodium (mg),Mornin’ Melt Panini with All-Natural Sausage,900,Snacks & Sides,Wendys
+715,715,Saturated Fat (g),Mornin’ Melt Panini with All-Natural Sausage,22,Snacks & Sides,Wendys
+716,716,Trans Fat (g),Mornin’ Melt Panini with All-Natural Sausage,1,Snacks & Sides,Wendys
+717,717,Cholesterol (mg),Mornin’ Melt Panini with All-Natural Sausage,315,Snacks & Sides,Wendys
+718,718,Fiber (g),Mornin’ Melt Panini with All-Natural Sausage,1,Snacks & Sides,Wendys
+719,719,Sugars (g),Mornin’ Melt Panini with All-Natural Sausage,3,Snacks & Sides,Wendys
+720,720,Calories,Mornin’ Melt Panini with Egg & Cheese,450,Snacks & Sides,Wendys
+721,721, Protein (g),Mornin’ Melt Panini with Egg & Cheese,25,Snacks & Sides,Wendys
+722,722, Total Fat (g),Mornin’ Melt Panini with Egg & Cheese,27,Snacks & Sides,Wendys
+723,723,Total Carbs (g),Mornin’ Melt Panini with Egg & Cheese,33,Snacks & Sides,Wendys
+724,724,Sodium (mg),Mornin’ Melt Panini with Egg & Cheese,560,Snacks & Sides,Wendys
+725,725,Saturated Fat (g),Mornin’ Melt Panini with Egg & Cheese,15,Snacks & Sides,Wendys
+726,726,Trans Fat (g),Mornin’ Melt Panini with Egg & Cheese,1,Snacks & Sides,Wendys
+727,727,Cholesterol (mg),Mornin’ Melt Panini with Egg & Cheese,270,Snacks & Sides,Wendys
+728,728,Fiber (g),Mornin’ Melt Panini with Egg & Cheese,1,Snacks & Sides,Wendys
+729,729,Sugars (g),Mornin’ Melt Panini with Egg & Cheese,3,Snacks & Sides,Wendys
+730,730,Calories,Fresh-Baked Biscuit with Applewood Smoked Bacon,420,Snacks & Sides,Wendys
+731,731, Protein (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,17,Snacks & Sides,Wendys
+732,732, Total Fat (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,23,Snacks & Sides,Wendys
+733,733,Total Carbs (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,36,Snacks & Sides,Wendys
+734,734,Sodium (mg),Fresh-Baked Biscuit with Applewood Smoked Bacon,1260,Snacks & Sides,Wendys
+735,735,Saturated Fat (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,13,Snacks & Sides,Wendys
+736,736,Trans Fat (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,0,Snacks & Sides,Wendys
+737,737,Cholesterol (mg),Fresh-Baked Biscuit with Applewood Smoked Bacon,240,Snacks & Sides,Wendys
+738,738,Fiber (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,2,Snacks & Sides,Wendys
+739,739,Sugars (g),Fresh-Baked Biscuit with Applewood Smoked Bacon,4,Snacks & Sides,Wendys
+740,740,Calories,Fresh-Baked Biscuit with All-Natural Sausage,570,Snacks & Sides,Wendys
+741,741, Protein (g),Fresh-Baked Biscuit with All-Natural Sausage,23,Snacks & Sides,Wendys
+742,742, Total Fat (g),Fresh-Baked Biscuit with All-Natural Sausage,36,Snacks & Sides,Wendys
+743,743,Total Carbs (g),Fresh-Baked Biscuit with All-Natural Sausage,37,Snacks & Sides,Wendys
+744,744,Sodium (mg),Fresh-Baked Biscuit with All-Natural Sausage,1390,Snacks & Sides,Wendys
+745,745,Saturated Fat (g),Fresh-Baked Biscuit with All-Natural Sausage,17,Snacks & Sides,Wendys
+746,746,Trans Fat (g),Fresh-Baked Biscuit with All-Natural Sausage,0,Snacks & Sides,Wendys
+747,747,Cholesterol (mg),Fresh-Baked Biscuit with All-Natural Sausage,275,Snacks & Sides,Wendys
+748,748,Fiber (g),Fresh-Baked Biscuit with All-Natural Sausage,2,Snacks & Sides,Wendys
+749,749,Sugars (g),Fresh-Baked Biscuit with All-Natural Sausage,5,Snacks & Sides,Wendys
+750,750,Calories,Fresh-Baked Biscuit with Egg & Cheese,360,Snacks & Sides,Wendys
+751,751, Protein (g),Fresh-Baked Biscuit with Egg & Cheese,14,Snacks & Sides,Wendys
+752,752, Total Fat (g),Fresh-Baked Biscuit with Egg & Cheese,18,Snacks & Sides,Wendys
+753,753,Total Carbs (g),Fresh-Baked Biscuit with Egg & Cheese,36,Snacks & Sides,Wendys
+754,754,Sodium (mg),Fresh-Baked Biscuit with Egg & Cheese,1060,Snacks & Sides,Wendys
+755,755,Saturated Fat (g),Fresh-Baked Biscuit with Egg & Cheese,11,Snacks & Sides,Wendys
+756,756,Trans Fat (g),Fresh-Baked Biscuit with Egg & Cheese,0,Snacks & Sides,Wendys
+757,757,Cholesterol (mg),Fresh-Baked Biscuit with Egg & Cheese,230,Snacks & Sides,Wendys
+758,758,Fiber (g),Fresh-Baked Biscuit with Egg & Cheese,2,Snacks & Sides,Wendys
+759,759,Sugars (g),Fresh-Baked Biscuit with Egg & Cheese,4,Snacks & Sides,Wendys
+760,760,Calories,Toasted Bagel Sandwich with Applewood Smoked Bacon,480,Snacks & Sides,Wendys
+761,761, Protein (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,24,Snacks & Sides,Wendys
+762,762, Total Fat (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,18,Snacks & Sides,Wendys
+763,763,Total Carbs (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,57,Snacks & Sides,Wendys
+764,764,Sodium (mg),Toasted Bagel Sandwich with Applewood Smoked Bacon,1010,Snacks & Sides,Wendys
+765,765,Saturated Fat (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,7,Snacks & Sides,Wendys
+766,766,Trans Fat (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,0,Snacks & Sides,Wendys
+767,767,Cholesterol (mg),Toasted Bagel Sandwich with Applewood Smoked Bacon,245,Snacks & Sides,Wendys
+768,768,Fiber (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,4,Snacks & Sides,Wendys
+769,769,Sugars (g),Toasted Bagel Sandwich with Applewood Smoked Bacon,8,Snacks & Sides,Wendys
+770,770,Calories,Toasted Bagel Sandwich with All-Natural Sausage,600,Snacks & Sides,Wendys
+771,771, Protein (g),Toasted Bagel Sandwich with All-Natural Sausage,28,Snacks & Sides,Wendys
+772,772, Total Fat (g),Toasted Bagel Sandwich with All-Natural Sausage,29,Snacks & Sides,Wendys
+773,773,Total Carbs (g),Toasted Bagel Sandwich with All-Natural Sausage,57,Snacks & Sides,Wendys
+774,774,Sodium (mg),Toasted Bagel Sandwich with All-Natural Sausage,1040,Snacks & Sides,Wendys
+775,775,Saturated Fat (g),Toasted Bagel Sandwich with All-Natural Sausage,11,Snacks & Sides,Wendys
+776,776,Trans Fat (g),Toasted Bagel Sandwich with All-Natural Sausage,0,Snacks & Sides,Wendys
+777,777,Cholesterol (mg),Toasted Bagel Sandwich with All-Natural Sausage,270,Snacks & Sides,Wendys
+778,778,Fiber (g),Toasted Bagel Sandwich with All-Natural Sausage,4,Snacks & Sides,Wendys
+779,779,Sugars (g),Toasted Bagel Sandwich with All-Natural Sausage,8,Snacks & Sides,Wendys
+780,780,Calories,Toasted Bagel Sandwich with Egg and Cheddar,390,Snacks & Sides,Wendys
+781,781, Protein (g),Toasted Bagel Sandwich with Egg and Cheddar,19,Snacks & Sides,Wendys
+782,782, Total Fat (g),Toasted Bagel Sandwich with Egg and Cheddar,10,Snacks & Sides,Wendys
+783,783,Total Carbs (g),Toasted Bagel Sandwich with Egg and Cheddar,56,Snacks & Sides,Wendys
+784,784,Sodium (mg),Toasted Bagel Sandwich with Egg and Cheddar,700,Snacks & Sides,Wendys
+785,785,Saturated Fat (g),Toasted Bagel Sandwich with Egg and Cheddar,5,Snacks & Sides,Wendys
+786,786,Trans Fat (g),Toasted Bagel Sandwich with Egg and Cheddar,0,Snacks & Sides,Wendys
+787,787,Cholesterol (mg),Toasted Bagel Sandwich with Egg and Cheddar,225,Snacks & Sides,Wendys
+788,788,Fiber (g),Toasted Bagel Sandwich with Egg and Cheddar,4,Snacks & Sides,Wendys
+789,789,Sugars (g),Toasted Bagel Sandwich with Egg and Cheddar,7,Snacks & Sides,Wendys
+790,790,Calories,Honey Butter Chicken Biscuit,510,Snacks & Sides,Wendys
+791,791, Protein (g),Honey Butter Chicken Biscuit,21,Snacks & Sides,Wendys
+792,792, Total Fat (g),Honey Butter Chicken Biscuit,25,Snacks & Sides,Wendys
+793,793,Total Carbs (g),Honey Butter Chicken Biscuit,52,Snacks & Sides,Wendys
+794,794,Sodium (mg),Honey Butter Chicken Biscuit,1400,Snacks & Sides,Wendys
+795,795,Saturated Fat (g),Honey Butter Chicken Biscuit,11,Snacks & Sides,Wendys
+796,796,Trans Fat (g),Honey Butter Chicken Biscuit,0,Snacks & Sides,Wendys
+797,797,Cholesterol (mg),Honey Butter Chicken Biscuit,55,Snacks & Sides,Wendys
+798,798,Fiber (g),Honey Butter Chicken Biscuit,2,Snacks & Sides,Wendys
+799,799,Sugars (g),Honey Butter Chicken Biscuit,9,Snacks & Sides,Wendys
+800,800,Calories,"Sunny Side Burger, Jr. Single",470,Beef & Pork,Wendys
+801,801, Protein (g),"Sunny Side Burger, Jr. Single",28,Beef & Pork,Wendys
+802,802, Total Fat (g),"Sunny Side Burger, Jr. Single",27,Beef & Pork,Wendys
+803,803,Total Carbs (g),"Sunny Side Burger, Jr. Single",29,Beef & Pork,Wendys
+804,804,Sodium (mg),"Sunny Side Burger, Jr. Single",1010,Beef & Pork,Wendys
+805,805,Saturated Fat (g),"Sunny Side Burger, Jr. Single",12,Beef & Pork,Wendys
+806,806,Trans Fat (g),"Sunny Side Burger, Jr. Single",1,Beef & Pork,Wendys
+807,807,Cholesterol (mg),"Sunny Side Burger, Jr. Single",290,Beef & Pork,Wendys
+808,808,Fiber (g),"Sunny Side Burger, Jr. Single",1,Beef & Pork,Wendys
+809,809,Sugars (g),"Sunny Side Burger, Jr. Single",4,Beef & Pork,Wendys
+810,810,Calories,Steel-Cut Oatmeal with Cranberries and Pecans,330,Snacks & Sides,Wendys
+811,811, Protein (g),Steel-Cut Oatmeal with Cranberries and Pecans,5,Snacks & Sides,Wendys
+812,812, Total Fat (g),Steel-Cut Oatmeal with Cranberries and Pecans,12,Snacks & Sides,Wendys
+813,813,Total Carbs (g),Steel-Cut Oatmeal with Cranberries and Pecans,57,Snacks & Sides,Wendys
+814,814,Sodium (mg),Steel-Cut Oatmeal with Cranberries and Pecans,250,Snacks & Sides,Wendys
+815,815,Saturated Fat (g),Steel-Cut Oatmeal with Cranberries and Pecans,1,Snacks & Sides,Wendys
+816,816,Trans Fat (g),Steel-Cut Oatmeal with Cranberries and Pecans,0,Snacks & Sides,Wendys
+817,817,Cholesterol (mg),Steel-Cut Oatmeal with Cranberries and Pecans,0,Snacks & Sides,Wendys
+818,818,Fiber (g),Steel-Cut Oatmeal with Cranberries and Pecans,4,Snacks & Sides,Wendys
+819,819,Sugars (g),Steel-Cut Oatmeal with Cranberries and Pecans,33,Snacks & Sides,Wendys
+820,820,Calories,Steel-Cut Oatmeal with Summer Berries,140,Snacks & Sides,Wendys
+821,821, Protein (g),Steel-Cut Oatmeal with Summer Berries,4,Snacks & Sides,Wendys
+822,822, Total Fat (g),Steel-Cut Oatmeal with Summer Berries,2,Snacks & Sides,Wendys
+823,823,Total Carbs (g),Steel-Cut Oatmeal with Summer Berries,31,Snacks & Sides,Wendys
+824,824,Sodium (mg),Steel-Cut Oatmeal with Summer Berries,190,Snacks & Sides,Wendys
+825,825,Saturated Fat (g),Steel-Cut Oatmeal with Summer Berries,0,Snacks & Sides,Wendys
+826,826,Trans Fat (g),Steel-Cut Oatmeal with Summer Berries,0,Snacks & Sides,Wendys
+827,827,Cholesterol (mg),Steel-Cut Oatmeal with Summer Berries,0,Snacks & Sides,Wendys
+828,828,Fiber (g),Steel-Cut Oatmeal with Summer Berries,3,Snacks & Sides,Wendys
+829,829,Sugars (g),Steel-Cut Oatmeal with Summer Berries,11,Snacks & Sides,Wendys
+830,830,Calories,Steel-Cut Oatmeal with Apples and Caramel,160,Snacks & Sides,Wendys
+831,831, Protein (g),Steel-Cut Oatmeal with Apples and Caramel,4,Snacks & Sides,Wendys
+832,832, Total Fat (g),Steel-Cut Oatmeal with Apples and Caramel,2,Snacks & Sides,Wendys
+833,833,Total Carbs (g),Steel-Cut Oatmeal with Apples and Caramel,38,Snacks & Sides,Wendys
+834,834,Sodium (mg),Steel-Cut Oatmeal with Apples and Caramel,200,Snacks & Sides,Wendys
+835,835,Saturated Fat (g),Steel-Cut Oatmeal with Apples and Caramel,0,Snacks & Sides,Wendys
+836,836,Trans Fat (g),Steel-Cut Oatmeal with Apples and Caramel,0,Snacks & Sides,Wendys
+837,837,Cholesterol (mg),Steel-Cut Oatmeal with Apples and Caramel,0,Snacks & Sides,Wendys
+838,838,Fiber (g),Steel-Cut Oatmeal with Apples and Caramel,3,Snacks & Sides,Wendys
+839,839,Sugars (g),Steel-Cut Oatmeal with Apples and Caramel,17,Snacks & Sides,Wendys
+840,840,Calories,"Steel-Cut Oatmeal, Plain",150,Snacks & Sides,Wendys
+841,841, Protein (g),"Steel-Cut Oatmeal, Plain",5,Snacks & Sides,Wendys
+842,842, Total Fat (g),"Steel-Cut Oatmeal, Plain",3,Snacks & Sides,Wendys
+843,843,Total Carbs (g),"Steel-Cut Oatmeal, Plain",33,Snacks & Sides,Wendys
+844,844,Sodium (mg),"Steel-Cut Oatmeal, Plain",230,Snacks & Sides,Wendys
+845,845,Saturated Fat (g),"Steel-Cut Oatmeal, Plain",0,Snacks & Sides,Wendys
+846,846,Trans Fat (g),"Steel-Cut Oatmeal, Plain",0,Snacks & Sides,Wendys
+847,847,Cholesterol (mg),"Steel-Cut Oatmeal, Plain",0,Snacks & Sides,Wendys
+848,848,Fiber (g),"Steel-Cut Oatmeal, Plain",3,Snacks & Sides,Wendys
+849,849,Sugars (g),"Steel-Cut Oatmeal, Plain",10,Snacks & Sides,Wendys
+850,850,Calories,Brown Sugar,40,Snacks & Sides,Wendys
+851,851, Protein (g),Brown Sugar,0,Snacks & Sides,Wendys
+852,852, Total Fat (g),Brown Sugar,0,Snacks & Sides,Wendys
+853,853,Total Carbs (g),Brown Sugar,9,Snacks & Sides,Wendys
+854,854,Sodium (mg),Brown Sugar,0,Snacks & Sides,Wendys
+855,855,Saturated Fat (g),Brown Sugar,0,Snacks & Sides,Wendys
+856,856,Trans Fat (g),Brown Sugar,0,Snacks & Sides,Wendys
+857,857,Cholesterol (mg),Brown Sugar,0,Snacks & Sides,Wendys
+858,858,Fiber (g),Brown Sugar,0,Snacks & Sides,Wendys
+859,859,Sugars (g),Brown Sugar,9,Snacks & Sides,Wendys
+860,860,Calories,Sausage & Egg Burrito,270,Snacks & Sides,Wendys
+861,861, Protein (g),Sausage & Egg Burrito,12,Snacks & Sides,Wendys
+862,862, Total Fat (g),Sausage & Egg Burrito,20,Snacks & Sides,Wendys
+863,863,Total Carbs (g),Sausage & Egg Burrito,12,Snacks & Sides,Wendys
+864,864,Sodium (mg),Sausage & Egg Burrito,640,Snacks & Sides,Wendys
+865,865,Saturated Fat (g),Sausage & Egg Burrito,7,Snacks & Sides,Wendys
+866,866,Trans Fat (g),Sausage & Egg Burrito,0,Snacks & Sides,Wendys
+867,867,Cholesterol (mg),Sausage & Egg Burrito,210,Snacks & Sides,Wendys
+868,868,Fiber (g),Sausage & Egg Burrito,1,Snacks & Sides,Wendys
+869,869,Sugars (g),Sausage & Egg Burrito,1,Snacks & Sides,Wendys
+870,870,Calories,Hot Sauce,10,Snacks & Sides,Wendys
+871,871, Protein (g),Hot Sauce,0,Snacks & Sides,Wendys
+872,872, Total Fat (g),Hot Sauce,0,Snacks & Sides,Wendys
+873,873,Total Carbs (g),Hot Sauce,2,Snacks & Sides,Wendys
+874,874,Sodium (mg),Hot Sauce,135,Snacks & Sides,Wendys
+875,875,Saturated Fat (g),Hot Sauce,0,Snacks & Sides,Wendys
+876,876,Trans Fat (g),Hot Sauce,0,Snacks & Sides,Wendys
+877,877,Cholesterol (mg),Hot Sauce,0,Snacks & Sides,Wendys
+878,878,Fiber (g),Hot Sauce,0,Snacks & Sides,Wendys
+879,879,Sugars (g),Hot Sauce,1,Snacks & Sides,Wendys
+880,880,Calories,Sausage Biscuit,460,Snacks & Sides,Wendys
+881,881, Protein (g),Sausage Biscuit,13,Snacks & Sides,Wendys
+882,882, Total Fat (g),Sausage Biscuit,29,Snacks & Sides,Wendys
+883,883,Total Carbs (g),Sausage Biscuit,37,Snacks & Sides,Wendys
+884,884,Sodium (mg),Sausage Biscuit,1110,Snacks & Sides,Wendys
+885,885,Saturated Fat (g),Sausage Biscuit,14,Snacks & Sides,Wendys
+886,886,Trans Fat (g),Sausage Biscuit,0,Snacks & Sides,Wendys
+887,887,Cholesterol (mg),Sausage Biscuit,50,Snacks & Sides,Wendys
+888,888,Fiber (g),Sausage Biscuit,2,Snacks & Sides,Wendys
+889,889,Sugars (g),Sausage Biscuit,4,Snacks & Sides,Wendys
+890,890,Calories,Sausage Gravy & Biscuit,460,Snacks & Sides,Wendys
+891,891, Protein (g),Sausage Gravy & Biscuit,9,Snacks & Sides,Wendys
+892,892, Total Fat (g),Sausage Gravy & Biscuit,24,Snacks & Sides,Wendys
+893,893,Total Carbs (g),Sausage Gravy & Biscuit,51,Snacks & Sides,Wendys
+894,894,Sodium (mg),Sausage Gravy & Biscuit,1530,Snacks & Sides,Wendys
+895,895,Saturated Fat (g),Sausage Gravy & Biscuit,12,Snacks & Sides,Wendys
+896,896,Trans Fat (g),Sausage Gravy & Biscuit,0,Snacks & Sides,Wendys
+897,897,Cholesterol (mg),Sausage Gravy & Biscuit,20,Snacks & Sides,Wendys
+898,898,Fiber (g),Sausage Gravy & Biscuit,2,Snacks & Sides,Wendys
+899,899,Sugars (g),Sausage Gravy & Biscuit,5,Snacks & Sides,Wendys
+900,900,Calories,"Toasted Bagel, Plain",270,Snacks & Sides,Wendys
+901,901, Protein (g),"Toasted Bagel, Plain",9,Snacks & Sides,Wendys
+902,902, Total Fat (g),"Toasted Bagel, Plain",1,Snacks & Sides,Wendys
+903,903,Total Carbs (g),"Toasted Bagel, Plain",55,Snacks & Sides,Wendys
+904,904,Sodium (mg),"Toasted Bagel, Plain",540,Snacks & Sides,Wendys
+905,905,Saturated Fat (g),"Toasted Bagel, Plain",0,Snacks & Sides,Wendys
+906,906,Trans Fat (g),"Toasted Bagel, Plain",0,Snacks & Sides,Wendys
+907,907,Cholesterol (mg),"Toasted Bagel, Plain",0,Snacks & Sides,Wendys
+908,908,Fiber (g),"Toasted Bagel, Plain",4,Snacks & Sides,Wendys
+909,909,Sugars (g),"Toasted Bagel, Plain",7,Snacks & Sides,Wendys
+910,910,Calories,Buttery Best Spread,50,Snacks & Sides,Wendys
+911,911, Protein (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+912,912, Total Fat (g),Buttery Best Spread,5,Snacks & Sides,Wendys
+913,913,Total Carbs (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+914,914,Sodium (mg),Buttery Best Spread,95,Snacks & Sides,Wendys
+915,915,Saturated Fat (g),Buttery Best Spread,1,Snacks & Sides,Wendys
+916,916,Trans Fat (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+917,917,Cholesterol (mg),Buttery Best Spread,0,Snacks & Sides,Wendys
+918,918,Fiber (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+919,919,Sugars (g),Buttery Best Spread,0,Snacks & Sides,Wendys
+920,920,Calories,Seasoned Homestyle Potatoes,230,Snacks & Sides,Wendys
+921,921, Protein (g),Seasoned Homestyle Potatoes,2,Snacks & Sides,Wendys
+922,922, Total Fat (g),Seasoned Homestyle Potatoes,9,Snacks & Sides,Wendys
+923,923,Total Carbs (g),Seasoned Homestyle Potatoes,34,Snacks & Sides,Wendys
+924,924,Sodium (mg),Seasoned Homestyle Potatoes,700,Snacks & Sides,Wendys
+925,925,Saturated Fat (g),Seasoned Homestyle Potatoes,2,Snacks & Sides,Wendys
+926,926,Trans Fat (g),Seasoned Homestyle Potatoes,0,Snacks & Sides,Wendys
+927,927,Cholesterol (mg),Seasoned Homestyle Potatoes,0,Snacks & Sides,Wendys
+928,928,Fiber (g),Seasoned Homestyle Potatoes,3,Snacks & Sides,Wendys
+929,929,Sugars (g),Seasoned Homestyle Potatoes,0,Snacks & Sides,Wendys
+930,930,Calories,"Orange Juice, Small",130,Snacks & Sides,Wendys
+931,931, Protein (g),"Orange Juice, Small",2,Snacks & Sides,Wendys
+932,932, Total Fat (g),"Orange Juice, Small",0,Snacks & Sides,Wendys
+933,933,Total Carbs (g),"Orange Juice, Small",30,Snacks & Sides,Wendys
+934,934,Sodium (mg),"Orange Juice, Small",0,Snacks & Sides,Wendys
+935,935,Saturated Fat (g),"Orange Juice, Small",0,Snacks & Sides,Wendys
+936,936,Trans Fat (g),"Orange Juice, Small",0,Snacks & Sides,Wendys
+937,937,Cholesterol (mg),"Orange Juice, Small",0,Snacks & Sides,Wendys
+938,938,Fiber (g),"Orange Juice, Small",1,Snacks & Sides,Wendys
+939,939,Sugars (g),"Orange Juice, Small",23,Snacks & Sides,Wendys
+940,940,Calories,Oatmeal Bar,280,Desserts,Wendys
+941,941, Protein (g),Oatmeal Bar,4,Desserts,Wendys
+942,942, Total Fat (g),Oatmeal Bar,10,Desserts,Wendys
+943,943,Total Carbs (g),Oatmeal Bar,46,Desserts,Wendys
+944,944,Sodium (mg),Oatmeal Bar,220,Desserts,Wendys
+945,945,Saturated Fat (g),Oatmeal Bar,5,Desserts,Wendys
+946,946,Trans Fat (g),Oatmeal Bar,0,Desserts,Wendys
+947,947,Cholesterol (mg),Oatmeal Bar,20,Desserts,Wendys
+948,948,Fiber (g),Oatmeal Bar,5,Desserts,Wendys
+949,949,Sugars (g),Oatmeal Bar,24,Desserts,Wendys
+950,950,Calories,Cinna-Middles,540,Desserts,Wendys
+951,951, Protein (g),Cinna-Middles,7,Desserts,Wendys
+952,952, Total Fat (g),Cinna-Middles,30,Desserts,Wendys
+953,953,Total Carbs (g),Cinna-Middles,62,Desserts,Wendys
+954,954,Sodium (mg),Cinna-Middles,640,Desserts,Wendys
+955,955,Saturated Fat (g),Cinna-Middles,14,Desserts,Wendys
+956,956,Trans Fat (g),Cinna-Middles,0,Desserts,Wendys
+957,957,Cholesterol (mg),Cinna-Middles,20,Desserts,Wendys
+958,958,Fiber (g),Cinna-Middles,2,Desserts,Wendys
+959,959,Sugars (g),Cinna-Middles,25,Desserts,Wendys
+960,960,Calories,Chocolate Chunk Cookie,390,Desserts,Wendys
+961,961, Protein (g),Chocolate Chunk Cookie,4,Desserts,Wendys
+962,962, Total Fat (g),Chocolate Chunk Cookie,21,Desserts,Wendys
+963,963,Total Carbs (g),Chocolate Chunk Cookie,51,Desserts,Wendys
+964,964,Sodium (mg),Chocolate Chunk Cookie,270,Desserts,Wendys
+965,965,Saturated Fat (g),Chocolate Chunk Cookie,11,Desserts,Wendys
+966,966,Trans Fat (g),Chocolate Chunk Cookie,0,Desserts,Wendys
+967,967,Cholesterol (mg),Chocolate Chunk Cookie,25,Desserts,Wendys
+968,968,Fiber (g),Chocolate Chunk Cookie,2,Desserts,Wendys
+969,969,Sugars (g),Chocolate Chunk Cookie,30,Desserts,Wendys
+970,970,Calories,Sugar Cookie,390,Desserts,Wendys
+971,971, Protein (g),Sugar Cookie,4,Desserts,Wendys
+972,972, Total Fat (g),Sugar Cookie,19,Desserts,Wendys
+973,973,Total Carbs (g),Sugar Cookie,53,Desserts,Wendys
+974,974,Sodium (mg),Sugar Cookie,360,Desserts,Wendys
+975,975,Saturated Fat (g),Sugar Cookie,9,Desserts,Wendys
+976,976,Trans Fat (g),Sugar Cookie,0,Desserts,Wendys
+977,977,Cholesterol (mg),Sugar Cookie,30,Desserts,Wendys
+978,978,Fiber (g),Sugar Cookie,1,Desserts,Wendys
+979,979,Sugars (g),Sugar Cookie,28,Desserts,Wendys
+980,980,Calories,Chocolate Brownie,400,Desserts,Wendys
+981,981, Protein (g),Chocolate Brownie,5,Desserts,Wendys
+982,982, Total Fat (g),Chocolate Brownie,18,Desserts,Wendys
+983,983,Total Carbs (g),Chocolate Brownie,57,Desserts,Wendys
+984,984,Sodium (mg),Chocolate Brownie,190,Desserts,Wendys
+985,985,Saturated Fat (g),Chocolate Brownie,5,Desserts,Wendys
+986,986,Trans Fat (g),Chocolate Brownie,0,Desserts,Wendys
+987,987,Cholesterol (mg),Chocolate Brownie,75,Desserts,Wendys
+988,988,Fiber (g),Chocolate Brownie,3,Desserts,Wendys
+989,989,Sugars (g),Chocolate Brownie,44,Desserts,Wendys
+990,990,Calories,Oreo® Brownie,470,Desserts,Wendys
+991,991, Protein (g),Oreo® Brownie,5,Desserts,Wendys
+992,992, Total Fat (g),Oreo® Brownie,21,Desserts,Wendys
+993,993,Total Carbs (g),Oreo® Brownie,68,Desserts,Wendys
+994,994,Sodium (mg),Oreo® Brownie,260,Desserts,Wendys
+995,995,Saturated Fat (g),Oreo® Brownie,6,Desserts,Wendys
+996,996,Trans Fat (g),Oreo® Brownie,0,Desserts,Wendys
+997,997,Cholesterol (mg),Oreo® Brownie,75,Desserts,Wendys
+998,998,Fiber (g),Oreo® Brownie,3,Desserts,Wendys
+999,999,Sugars (g),Oreo® Brownie,50,Desserts,Wendys
