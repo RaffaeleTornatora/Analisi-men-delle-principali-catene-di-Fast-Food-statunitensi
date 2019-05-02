@@ -1,0 +1,101 @@
+,index,Item Name,Serving Size (G),Calories, Protein (g), Total Fat (g),Total Carbs (g),Sodium (mg),Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Fiber (g),Sugars (g),Weight Watchers,Category
+0,0,Apple Pecan Chicken Salad ,355,350,35,11,27,970,7,0,115,5,17,9,Salads
+1,1,Apple Pecan Chicken Salad Half-Size ,196,180,18,6,14,490,4,0,55,3,9,5,Salads
+2,2,Roasted Pecans,17,110,1,9,6,60,1,0,0,1,4,3,Salads
+3,4,Baja Chili Salad,520,530,32,31,34,1580,14,1,90,13,10,15,Salads
+4,5,Baja Chili Salad Half-Size,293,280,16,16,18,820,7,0,45,7,6,8,Salads
+5,6,Seasoned Tortilla Strips,17,80,1,5,11,105,1,0,0,1,0,2,Snacks & Sides
+6,8,Chicken BLT Cobb Salad ,385,380,44,18,11,1190,9,0,260,3,4,10,Salads
+7,9,Chicken BLT Cobb Salad Half-Size ,211,190,22,9,6,600,5,0,130,2,2,5,Salads
+8,11,Spicy Chicken Caesar Salad,354,480,35,27,24,1030,12,1,90,6,3,13,Salads
+9,12,Spicy Chicken Caesar Salad Half-Size,221,250,18,14,14,520,6,0,45,4,2,7,Salads
+10,15,Garden Side Salad,98,20,1,0,4,30,0,0,0,2,2,1,Salads
+11,16,Gourmet Croutons,18,80,2,3,13,190,0,0,0,0,0,2,Snacks & Sides
+12,17,Caesar Side Salad,106,60,4,4,4,70,3,0,10,2,1,2,Salads
+13,19,Lemon Garlic Caesar Dressing ,31,110,2,11,2,180,2,0,10,0,1,3,Snacks & Sides
+14,20,Apple Slices,68,40,0,0,9,0,0,0,0,2,7,1,Snacks & Sides
+15,21,Plain Baked Potato (avg. wgt. 10 oz.),283,270,7,0,61,25,0,0,0,7,3,7,Snacks & Sides
+16,22,Sour Cream & Chive Baked Potato,309,320,8,4,63,50,2,0,10,7,4,9,Snacks & Sides
+17,23,Buttery Best Spread,11,50,0,6,0,95,1,0,0,0,0,2,Snacks & Sides
+18,24,"Rich & Meaty Chili, Small",227,180,13,5,20,790,2,0,30,4,5,5,Snacks & Sides
+19,25,"Rich & Meaty Chili, Large",340,270,19,8,31,1180,3,1,40,7,8,7,Snacks & Sides
+20,26,Hot Chili Seasoning Packet,7,5,0,0,1,280,0,0,0,0,1,0,Snacks & Sides
+21,27,Saltine Crackers,6,25,1,1,5,80,0,0,0,0,0,1,Snacks & Sides
+22,28,"Cheddar Cheese, Shredded",17,70,4,6,1,110,4,0,15,0,0,2,Snacks & Sides
+23,29,Chili Cheese Fries,280,530,16,28,55,1050,10,1,45,7,4,15,Snacks & Sides
+24,30,Value Natural-Cut Fries,77,220,3,11,28,240,2,0,0,3,0,6,Snacks & Sides
+25,31,Small Natural-Cut Fries,108,310,4,15,40,330,3,0,0,4,0,9,Snacks & Sides
+26,32,Medium Natural-Cut Fries,142,410,5,20,52,440,4,0,0,5,0,11,Snacks & Sides
+27,33,Large Natural-Cut Fries,176,500,6,24,65,540,5,0,0,6,0,14,Snacks & Sides
+28,34,"Ketchup, 1 Packet",7,10,0,0,2,70,0,0,0,0,2,0,Snacks & Sides
+29,35,4-Piece Regular Chicken Nuggets,60,180,9,12,10,350,3,0,30,1,0,5,Snacks & Sides
+30,36,4-Piece Spicy Chicken Nuggets,60,170,10,11,9,500,3,0,30,1,0,5,Snacks & Sides
+31,37,6-Piece Regular Chicken Nuggets,90,270,14,18,14,520,4,0,45,1,0,7,Snacks & Sides
+32,38,6-Piece Spicy Chicken Nuggets,90,260,15,17,14,750,4,0,45,1,0,7,Snacks & Sides
+33,39,10-Piece Chicken Nuggets,150,450,23,30,24,870,7,0,75,2,0,12,Snacks & Sides
+34,44,Jr. Hamburger,102,250,14,10,25,600,4,1,40,2,5,7,Beef & Pork
+35,45,Jr. Cheeseburger,114,290,16,13,26,800,6,1,50,2,6,8,Beef & Pork
+36,46,Jr. Bacon Cheeseburger (JBC),151,390,20,22,26,870,8,1,65,2,5,10,Beef & Pork
+37,47,Jr. Cheeseburger Deluxe,157,350,17,19,27,830,7,1,55,2,7,9,Beef & Pork
+38,48,Double Stack™,170,420,27,21,26,1060,10,2,90,2,6,11,Beef & Pork
+39,49,"Hamburger, Kids’ Meal",94,250,14,10,25,530,4,1,40,1,5,7,Beef & Pork
+40,50,"Cheeseburger, Kids’ Meal",106,290,16,13,26,730,6,1,50,1,6,8,Beef & Pork
+41,51,1/4 lb. Single w/ Cheese,247,580,30,31,42,1220,13,2,100,3,10,15,Beef & Pork
+42,52,1/2 lb. Double w/ Cheese,329,820,48,47,42,1510,20,3,170,3,10,21,Beef & Pork
+43,53,3/4 lb. Triple w/ Cheese,423,1090,69,66,43,1990,29,4,255,3,11,28,Beef & Pork
+44,54,Baconator®,295,940,57,56,41,1890,23,3,205,2,9,24,Beef & Pork
+45,55,Son of Baconator®,211,670,38,37,41,1670,15,2,130,2,9,17,Beef & Pork
+46,56,Ultimate Chicken Grill Sandwich,231,370,34,7,43,880,2,0,95,2,9,10,Chicken & Fish
+47,57,Spicy Chicken Sandwich,244,510,29,20,55,1130,4,0,65,4,7,14,Chicken & Fish
+48,58,Homestyle Chicken Sandwich,247,510,29,20,54,1200,4,0,70,4,8,14,Chicken & Fish
+49,59,Asiago Ranch Club w/ Homestyle Chicken,284,670,38,32,57,1640,9,0,100,4,9,18,Chicken & Fish
+50,60,Asiago Ranch Club w/ Ultimate Chicken Gril,l 265,530,43,21,43,1270,7,0,130,2,8,14,Chicken & Fish
+51,61,Asiago Ranch Club w/ Spicy Chicken,282,670,37,32,57,1560,9,1,100,4,8,18,Chicken & Fish
+52,62,Crispy Chicken Sandwich,142,380,15,20,35,680,4,0,35,3,4,10,Chicken & Fish
+53,63,Crispy Chicken Caesar Wrap,157,440,17,26,33,970,7,0,45,2,1,12,Chicken & Fish
+54,64,Grilled Chicken Go Wrap,127,260,19,10,25,740,4,0,55,1,3,7,Chicken & Fish
+55,65,Homestyle Chicken Go Wrap,136,340,17,17,30,910,5,0,45,1,1,9,Chicken & Fish
+56,66,Spicy Chicken Go Wrap,135,330,17,16,30,870,5,0,40,1,1,9,Chicken & Fish
+57,88,"Chocolate Frosty, Small",212,290,8,7,48,135,5,0,30,2,40,8,Desserts
+58,89,"Vanilla Frosty, Small",204,280,8,7,46,135,5,0,30,0,39,8,Desserts
+59,90,"Chocolate Frosty Shake, Small",342,580,11,13,104,250,8,1,45,2,93,16,Desserts
+60,91,"Chocolate Frosty Shake, Large",496,870,15,17,164,380,11,1,60,4,148,24,Desserts
+61,92,"Strawberry Frosty Shake, Small",341,540,10,12,97,180,8,1,45,1,86,15,Desserts
+62,93,"Strawberry Frosty Shake, Large",491,780,13,15,149,240,10,1,60,1,134,21,Desserts
+63,94,"Caramel Frosty Shake, Small",352,650,10,14,121,320,9,1,50,0,96,18,Desserts
+64,95,"Caramel Frosty Shake, Large",513,990,14,18,195,510,11,1,70,0,153,27,Desserts
+65,96,Chocolate Frosty Waffle Cone,170,300,7,6,54,160,4,0,20,2,35,8,Desserts
+66,97,Vanilla Frosty Waffle Cone,163,290,7,0,53,160,4,0,20,1,34,6,Desserts
+67,98,Artisan Egg Sandwich with Applewood Smoked Bacon, ,350,18,18,29,730,8,0,250,1,4,9,Snacks & Sides
+68,99,Artisan Egg Sandwich with All-Natural Sausage, ,500,24,32,30,870,13,1,280,1,4,14,Snacks & Sides
+69,100,Artisan Sandwich with Egg & Cheese, ,290,15,13,29,530,6,0,235,1,4,8,Snacks & Sides
+70,101,Mornin’ Melt™ Panini with Applewood Smoked Bacon, ,540,30,35,33,860,18,1,290,1,4,15,Snacks & Sides
+71,102,Mornin’ Melt Panini with All-Natural Sausage, ,650,34,46,33,900,22,1,315,1,3,19,Snacks & Sides
+72,103,Mornin’ Melt Panini with Egg & Cheese, ,450,25,27,33,560,15,1,270,1,3,13,Snacks & Sides
+73,104,Fresh-Baked Biscuit with Applewood Smoked Bacon, ,420,17,23,36,1260,13,0,240,2,4,11,Snacks & Sides
+74,105,Fresh-Baked Biscuit with All-Natural Sausage, ,570,23,36,37,1390,17,0,275,2,5,15,Snacks & Sides
+75,106,Fresh-Baked Biscuit with Egg & Cheese, ,360,14,18,36,1060,11,0,230,2,4,10,Snacks & Sides
+76,107,Toasted Bagel Sandwich with Applewood Smoked Bacon, ,480,24,18,57,1010,7,0,245,4,8,13,Snacks & Sides
+77,108,Toasted Bagel Sandwich with All-Natural Sausage, ,600,28,29,57,1040,11,0,270,4,8,16,Snacks & Sides
+78,109,Toasted Bagel Sandwich with Egg and Cheddar, ,390,19,10,56,700,5,0,225,4,7,11,Snacks & Sides
+79,110,Honey Butter Chicken Biscuit, ,510,21,25,52,1400,11,0,55,2,9,14,Snacks & Sides
+80,111,"Sunny Side Burger, Jr. Single", ,470,28,27,29,1010,12,1,290,1,4,13,Beef & Pork
+81,112,Steel-Cut Oatmeal with Cranberries and Pecans, ,330,5,12,57,250,1,0,0,4,33,10,Snacks & Sides
+82,113,Steel-Cut Oatmeal with Summer Berries, ,140,4,2,31,190,0,0,0,3,11,4,Snacks & Sides
+83,114,Steel-Cut Oatmeal with Apples and Caramel, ,160,4,2,38,200,0,0,0,3,17,5,Snacks & Sides
+84,115,"Steel-Cut Oatmeal, Plain", ,150,5,3,33,230,0,0,0,3,10,5,Snacks & Sides
+85,116,Brown Sugar, ,40,0,0,9,0,0,0,0,0,9,1,Snacks & Sides
+86,117,Sausage & Egg Burrito, ,270,12,20,12,640,7,0,210,1,1,8,Snacks & Sides
+87,118,Hot Sauce, ,10,0,0,2,135,0,0,0,0,1,0,Snacks & Sides
+88,119,Sausage Biscuit, ,460,13,29,37,1110,14,0,50,2,4,13,Snacks & Sides
+89,120,Sausage Gravy & Biscuit, ,460,9,24,51,1530,12,0,20,2,5,13,Snacks & Sides
+90,121,"Toasted Bagel, Plain", ,270,9,1,55,540,0,0,0,4,7,7,Snacks & Sides
+91,122,Buttery Best Spread, ,50,0,5,0,95,1,0,0,0,0,1,Snacks & Sides
+92,123,Seasoned Homestyle Potatoes, ,230,2,9,34,700,2,0,0,3,0,6,Snacks & Sides
+93,124,"Orange Juice, Small", ,130,2,0,30,0,0,0,0,1,23,3,Snacks & Sides
+94,125,Oatmeal Bar, ,280,4,10,46,220,5,0,20,5,24,8,Desserts
+95,126,Cinna-Middles, ,540,7,30,62,640,14,0,20,2,25,15,Desserts
+96,127,Chocolate Chunk Cookie, ,390,4,21,51,270,11,0,25,2,30,11,Desserts
+97,128,Sugar Cookie, ,390,4,19,53,360,9,0,30,1,28,11,Desserts
+98,129,Chocolate Brownie, ,400,5,18,57,190,5,0,75,3,44,11,Desserts
+99,130,Oreo® Brownie, ,470,5,21,68,260,6,0,75,3,50,13,Desserts

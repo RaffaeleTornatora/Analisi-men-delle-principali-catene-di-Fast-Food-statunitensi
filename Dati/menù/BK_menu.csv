@@ -1,0 +1,180 @@
+,Item Name,Calories, Protein (g), Total Fat (g),Total Carbs (g),Sodium (mg),Calories from Fat,Saturated Fat (g),Trans Fat (g),Cholesterol (mg),Fiber (g),Sugars (g),Weight Watchers,Category
+0,WHOPPER® Sandwich,630,25,35,57,980,320,10,1,65,3,13,125,Whopper
+1,WHOPPER® Sandwich w/o Mayo,470,25,17,57,840,160,7,0,55,3,13,108,Whopper
+2,WHOPPER® Sandwich with Cheese,710,29,42,59,1380,380,15,1,85,3,14,169,Whopper
+3,WHOPPER® Sandwich with Cheese w/o Mayo,560,29,24,58,1240,220,12,1,75,3,14,152,Whopper
+4,DOUBLE WHOPPER® Sandwich,830,42,50,57,1040,450,17,1,120,3,13,133,Whopper
+5,DOUBLE WHOPPER® Sandwich w/o Mayo,670,41,32,57,900,290,14,1,110,3,13,116,Whopper
+6,DOUBLE WHOPPER® Sandwich with Cheese,990,52,65,53,1480,580,24,2,160,3,11,181,Whopper
+7,DOUBLE WHOPPER® Sandwich with Cheesew/o Mayo,830,52,47,53,1340,420,21,2,150,3,11,164,Whopper
+8,TRIPLE WHOPPER® Sandwich,1020,58,65,57,1090,580,23,2,175,3,13,139,Whopper
+9,TRIPLE WHOPPER® Sandwich w/o Mayo,870,58,47,57,950,420,20,2,165,3,13,122,Whopper
+10,Texas DOUBLE WHOPPER® Sandwich,1000,52,66,55,1860,590,24,2,155,3,11,222,Whopper
+11,WHOPPER JR.® Sandwich,340,14,19,28,510,170,5,0,40,2,6,64,Whopper
+12,WHOPPER JR.® Sandwich w/o Mayo,260,13,10,28,440,90,4,0,35,2,6,56,Whopper
+13,WHOPPER JR.® Sandwich with Cheese,380,16,23,29,730,210,8,1,55,2,6,89,Whopper
+14,WHOPPER JR.® Sandwich with Cheese w/o Mayo,300,16,14,660,710,130,6,0,45,1,6,248,Whopper
+15,Hamburger,240,12,8,31,460,70,4,0,30,1,7,59,Burgers
+16,Cheeseburger,280,15,12,32,690,100,6,0,40,1,7,84,Burgers
+17,Double Hamburger,330,19,15,31,490,130,6,0,60,1,7,63,Burgers
+18,Double Cheeseburger,370,22,18,32,720,170,9,1,70,1,7,88,Burgers
+19,BK® Bacon Burger,320,14,17,31,500,150,5,0,40,1,7,64,Burgers
+20,Bacon Cheeseburger,310,17,14,32,770,130,6,0,45,1,7,93,Burgers
+21,Double Bacon Cheeseburger,440,26,24,32,940,220,10,1,85,1,7,113,Burgers
+22,BK® Single Stacker,370,16,21,32,690,190,8,0,50,1,7,85,Burgers
+23,BK® Double Stacker,490,26,30,32,820,270,11,1,90,1,7,100,Burgers
+24,BK® Triple Stacker,630,36,41,32,1040,360,17,1,130,1,7,125,Burgers
+25,BK® Quad Stacker,760,46,51,33,1270,460,22,2,170,1,8,151,Burgers
+26,Premium Chicken Sandwich- Grilled,510,31,22,43,1350,200,4,0,80,2,6,160,Chicken & Fish
+27,Premium Chicken Sandwich- Grilled w/o Mayo,400,31,11,43,1260,100,2,0,70,2,5,149,Chicken & Fish
+28,Premium Chicken Sandwich- Crispy,750,30,45,58,1560,400,8,1,70,3,8,189,Chicken & Fish
+29,Premium Chicken Sandwich- Crispy w/o Mayo,540,29,21,57,1370,190,4,0,55,3,8,166,Chicken & Fish
+30,Original Chicken Sandwich,630,24,39,46,1390,350,7,1,65,3,4,166,Chicken & Fish
+31,Original Chicken Sandwich w/o Mayo,420,24,16,46,1210,140,4,0,45,3,4,145,Chicken & Fish
+32,Chicken Crisp Sandwich- classic,500,17,32,39,860,290,6,2,45,2,5,106,Chicken & Fish
+33,Chicken Crisp Sandwich- Spicy,480,17,27,40,930,240,5,1,45,2,6,114,Chicken & Fish
+34,Home-style Chicken Strips- 2pc,240,9,13,23,940,110,3,0,20,0,0,109,Chicken & Fish
+35,Home-style Chicken Strips- 3pc,360,14,19,34,1400,170,4,0,30,1,0,162,Chicken & Fish
+36,Home-style Chicken Strips- 5pc,610,23,32,57,2340,280,6,1,50,1,1,272,Chicken & Fish
+37,Chicken Nuggets (4 pc),190,10,11,10,310,100,2,0,25,1,0,37,Chicken & Fish
+38,Chicken Nuggets (6 pc),290,15,17,15,460,150,3,0,40,1,0,55,Chicken & Fish
+39,Chicken Nuggets (8 pc),380,20,22,20,610,200,5,0,50,2,0,73,Chicken & Fish
+40,Chicken Nuggets (20 pc),950,51,55,50,1530,500,11,0,130,5,0,184,Chicken & Fish
+41,Tacos (2),390,14,16,18,710,140,7,1,30,5,4,83,Chicken & Fish
+42,Country Pork Sandwich,810,29,42,78,1910,380,13,0,75,4,10,232,Chicken & Fish
+43,Premium Alaskan Fish Sandwich,590,21,31,57,1480,280,5,0,45,3,8,178,Chicken & Fish
+44,Premium Alaskan Fish Sandwich w/o Tartar Sauce,410,21,12,53,1240,110,2,0,30,3,6,150,Chicken & Fish
+45,BK VEGGIE® Burger ,410,22,16,44,1030,150,3,0,5,7,8,125,Chicken & Fish
+46,BK VEGGIE® Burger w/ Cheese,450,24,20,44,1250,180,5,0,20,7,8,149,Chicken & Fish
+47,BK VEGGIE® Burger w/o Mayo,320,22,7,43,960,70,1,0,0,7,8,116,Chicken & Fish
+48,Apple Slices,25,0,0,6,0,0,0,0,0,1,5,2,Chicken & Fish
+49,Onion Rings – value,150,1,8,19,400,70,2,0,0,1,2,49,Snacks & Sides
+50,Onion Rings – small,320,3,16,41,840,150,3,0,0,3,4,103,Snacks & Sides
+51,Onion Rings – medium,410,4,21,53,1080,190,4,0,0,4,5,133,Snacks & Sides
+52,Onion Rings – large,500,5,25,64,1310,230,5,0,0,5,7,161,Snacks & Sides
+53,French Fries – value (Salted),240,2,10,34,330,90,2,0,0,3,0,45,Snacks & Sides
+54,French Fries – small (Salted),340,4,15,49,480,130,3,0,0,4,0,66,Snacks & Sides
+55,French Fries – medium (Salted),410,4,18,58,570,160,3,0,0,4,0,78,Snacks & Sides
+56,French Fries – large (Salted),500,5,22,72,710,200,4,0,0,5,0,98,Snacks & Sides
+57,Mozzarella Sticks (4 pc),280,11,15,24,650,140,5,0,35,2,2,78,Snacks & Sides
+58,Chicken Caesar Garden Fresh Salad with TENDERGRILL and dressing,530,35,32,26,1640,290,5,0,95,3,6,188,Salads
+59,Chicken Caesar Garden Fresh Salad with TENDERCRISP and dressing,670,34,43,40,1760,380,7,0,80,5,8,206,Salads
+60,Side Caesar Salad and dressing,220,6,20,7,540,180,4,0,10,2,3,62,Salads
+61,Chicken BLT Garden Fresh Salad with TENDERGRILL and dressing,550,36,37,17,1640,330,10,0,115,3,5,186,Salads
+62,Chicken BLT Garden Fresh Salad with TENDERCRISP and dressing,690,35,48,31,1750,430,12,1,100,4,8,203,Salads
+63,Chicken Apple & Cranberry Garden Fresh Salad with TENDERGRILL and dressing,560,29,30,40,980,270,7,0,90,4,34,120,Salads
+64,Chicken Apple & Cranberry Garden Fresh Salad with TENDERCRISP and dressing,700,28,41,54,1090,370,9,0,80,5,37,137,Salads
+65,Side Garden Salad and Avocado Ranch Dressing,230,5,21,7,520,190,5,0,30,2,3,60,Salads
+66,Ranch Crispy Chicken Wrap,370,14,23,29,1010,210,6,1,35,2,1,119,Salads
+67,Ranch Grilled Chicken Wrap,350,19,18,24,1020,170,5,0,55,1,1,119,Salads
+68,Honey Mustard Crispy Chicken Wrap,390,14,23,34,930,210,6,0,35,2,6,112,Salads
+69,Honey Mustard Grilled Chicken Wrap,370,19,19,29,950,170,5,0,55,1,6,113,Salads
+70,Chicken BLT Garden Fresh Salad Wrap- grilled,420,22,22,36,1280,190,6,0,55,4,3,150,Salads
+71,Chicken BLT Garden Fresh Salad Wrap- crispy,490,22,27,43,1340,240,7,0,50,4,4,159,Salads
+72,Chicken Apple and Cranberry Garden Fresh Salad Wrap- grilled,430,19,18,47,980,170,5,0,45,4,17,121,Salads
+73,Chicken Apple and Cranberry Garden Fresh Salad Wrap- crispy,500,18,24,54,1030,210,6,0,40,5,19,128,Salads
+74,Chicken Caesar Garden Fresh Salad Wrap- grilled,380,21,18,37,1210,160,4,0,40,5,3,143,Salads
+75,Chicken Caesar Garden Fresh Salad Wrap- crispy,460,21,23,44,1260,210,5,0,35,5,4,150,Salads
+76,Ken’s Citrus Caesar Dressing- packet,180,2,18,4,460,160,4,0,5,0,2,53,Salads
+77,Ken’s Honey Mustard Dressing- packet,220,1,18,13,270,160,3,0,15,1,12,35,Salads
+78,Ken’s Lite Honey Balsamic- packet,120,0,7,14,220,70,1,0,0,0,11,28,Salads
+79,Ken’s Avocado Ranch Dressing- packet,170,1,17,4,420,150,3,0,15,0,3,48,Salads
+80,Ken’s Apple Cider Vinaigrette- packet,210,0,18,10,115,160,3,0,10,0,7,17,Salads
+81,Home-style Caesar Croutons- Packet,60,2,2,9,160,20,0,0,10,0,1,20,Salads
+82,Quaker® Oatmeal Maple and Brown Sugar Flavor*,270,5,4,55,290,40,2,0,5,5,29,47,Breakfast
+83,Quaker® Oatmeal Original,140,5,4,23,100,30,1,0,5,3,1,17,Breakfast
+84,Kids Oatmeal,170,4,4,32,260,35,2,0,5,3,9,37,Breakfast
+85,Sausage Breakfast Burrito,290,14,17,21,830,150,7,0,140,1,2,97,Breakfast
+86,Southwestern Breakfast Burrito,580,23,35,42,1690,320,13,0,205,4,3,198,Breakfast
+87,BK®Breakfast Muffin Sandwich Egg and Cheese,220,12,9,22,650,80,4,0,160,1,2,77,Breakfast
+88,BK®Breakfast Muffin Sandwich Sausage and Cheese,330,14,20,23,750,180,7,0,45,1,1,89,Breakfast
+89,"BK®Breakfast Muffin Sandwich Sausage, egg and Cheese",390,20,23,23,960,210,9,0,195,1,2,112,Breakfast
+90,"BK®Breakfast Muffin Sandwich ham, egg and Cheese",250,18,9,23,1090,80,4,0,175,1,3,125,Breakfast
+91,"BK®Breakfast Muffin Sandwich bacon, egg and Cheese",250,14,11,22,760,100,5,0,165,1,2,89,Breakfast
+92,BK™ Ultimate Breakfast Platter,1450,40,84,134,2920,750,30,1,505,5,41,360,Breakfast
+93,Pancake and Sausage platter,670,14,34,78,1010,300,9,0,125,1,36,134,Breakfast
+94,Pancakes (3) and 1 oz breakfast syrup,500,7,19,77,700,170,5,0,95,1,36,99,Breakfast
+95,CROISSAN’WICH® Egg & Cheese,280,12,15,25,620,140,7,0,160,1,4,75,Breakfast
+96,CROISSAN’WICH® Sausage & Cheese,390,13,26,25,700,230,10,0,45,1,3,85,Breakfast
+97,"CROISSAN’WICH® Sausage, Egg & Cheese",450,19,30,26,910,270,11,0,195,1,4,108,Breakfast
+98,"CROISSAN’WICH® Ham, Egg & Cheese",310,17,15,26,1030,140,7,0,165,1,5,120,Breakfast
+99,"CROISSAN’WICH® Bacon, Egg & Cheese",320,13,18,25,710,160,8,0,165,1,4,85,Breakfast
+100,"DOUBLE CROISSAN’WICH™ w/ Sausage, Egg, & Cheese",660,29,48,27,1420,430,18,1,235,1,4,166,Breakfast
+101,"DOUBLE CROISSAN’WICH™ w/ ham, Egg, & Cheese",390,26,19,27,1670,170,9,0,185,1,6,190,Breakfast
+102,"DOUBLE CROISSAN’WICH™ w/ Bacon, Egg, & Cheese",390,18,24,25,1020,220,11,0,180,1,4,119,Breakfast
+103,"DOUBLE CROISSAN’WICH™ w/ Sausage, Bacon, Egg, & Cheese",530,23,36,26,1220,320,15,1,210,1,4,143,Breakfast
+104,"DOUBLE CROISSAN’WICH™ w/ Ham, Bacon, Egg, & Cheese",390,22,22,26,1350,200,10,0,190,1,5,155,Breakfast
+105,"DOUBLE CROISSAN’WICH™ w/ Ham, Sausage, Egg, & Cheese",530,27,34,27,1550,300,14,1,215,1,5,178,Breakfast
+106,Sausage Biscuit,420,13,27,32,1090,240,15,1,35,1,3,129,Breakfast
+107,"Sausage, Egg, & Cheese Biscuit",520,20,34,33,1490,300,19,1,180,1,3,173,Breakfast
+108,"Bacon, Egg & Cheese Biscuit",420,17,25,32,1400,220,16,1,160,1,4,163,Breakfast
+109,Country Ham and Egg Biscuit,420,18,23,32,1990,210,15,1,185,1,3,226,Breakfast
+110,Cinnabon® Roll- One,300,6,11,45,280,100,5,0,5,2,20,44,Breakfast
+111,Hash Browns – small,250,2,16,24,410,150,4,0,0,3,0,52,Breakfast
+112,Hash Browns – medium,500,4,33,48,810,290,7,0,0,7,0,103,Breakfast
+113,Hash Browns – large,670,5,44,65,1080,390,9,0,0,9,0,138,Breakfast
+114,French Toast Sticks (3 piece),230,3,11,29,260,100,2,0,0,1,8,37,Breakfast
+115,French Toast Sticks (5 piece),380,5,18,49,430,160,3,0,0,2,13,61,Breakfast
+116,Dutch Apple Pie,320,2,14,46,300,130,6,0,0,1,23,46,Desserts
+117,HERSHEY®’S Sundae Pie,310,3,19,32,220,170,12,0,10,1,22,34,Desserts
+118,Soft Serve Cone,160,4,4,27,130,35,3,0,15,0,20,22,Desserts
+119,Soft Serve Cup,140,4,4,23,125,35,3,0,15,0,19,20,Desserts
+120,Caramel Sundae,280,5,6,52,250,60,4,0,20,0,37,42,Desserts
+121,Chocolate Fudge Sundae,280,6,7,50,220,60,5,0,15,1,43,39,Desserts
+122,Strawberry Sundae,190,4,4,35,125,35,3,0,15,0,31,24,Desserts
+123,OREO Sundae,440,8,12,77,390,110,7,0,25,1,57,65,Desserts
+124,Mini M & M Sundae,450,8,13,76,310,120,9,0,30,0,62,56,Desserts
+125,Brownie Sundae,530,10,17,89,390,150,10,0,55,2,70,69,Desserts
+126,Chocolate Chip Cookies (2),330,3,15,47,250,140,8,0,20,1,29,41,Desserts
+127,White Chocolate Macadamia Nut Cookies (2),340,4,18,44,240,160,8,0,20,0,28,40,Desserts
+128,Oatmeal Raisin Cookies (2),310,4,13,46,260,120,8,0,20,3,26,42,Desserts
+129,Fat FREE Milk (8 fl oz),90,9,0,13,125,0,0,0,5,0,12,17,Smoothies & Shakes
+130,1% Low Fat Chocolate Milk (8 fl oz),160,8,3,26,150,25,2,0,15,0,25,24,Smoothies & Shakes
+131,Smoothie: Strawberry Banana 12 fl oz,200,1,0,48,20,5,0,0,0,2,40,16,Smoothies & Shakes
+132,Smoothie: Strawberry Banana 16 fl oz,310,2,1,73,35,5,0,0,0,2,60,24,Smoothies & Shakes
+133,Smoothie: Strawberry Banana 20 fl oz,410,3,1,97,50,10,0,0,0,3,81,33,Smoothies & Shakes
+134,Smoothie: Tropical Mango- 12 fl oz,210,2,1,51,40,5,0,0,0,1,41,19,Smoothies & Shakes
+135,Smoothie: Tropical Mango- 16 fl oz,330,3,1,78,65,10,0,0,0,2,63,29,Smoothies & Shakes
+136,Smoothie: Tropical Mango- 20 fl oz,450,4,2,104,95,15,0,0,5,2,85,40,Smoothies & Shakes
+137,Vanilla Milk Shake 12 fl oz,550,10,16,91,310,140,12,1,40,0,81,61,Smoothies & Shakes
+138,Vanilla Milk Shake 16 fl oz,730,14,20,124,430,180,15,1,55,0,110,84,Smoothies & Shakes
+139,Vanilla Milk Shake 20 fl oz,930,17,23,163,540,210,17,1,65,0,146,107,Smoothies & Shakes
+140,Chocolate Milk Shake 12 fl oz,580,10,17,97,310,150,13,1,40,0,83,63,Smoothies & Shakes
+141,Chocolate Milk Shake 16 fl oz,760,14,21,131,430,190,15,1,55,0,112,85,Smoothies & Shakes
+142,Chocolate Milk Shake 20 fl oz,980,17,24,174,530,220,17,1,65,0,150,109,Smoothies & Shakes
+143,Strawberry Milk Shake 12 fl oz,500,10,16,79,320,140,12,1,40,0,67,58,Smoothies & Shakes
+144,Strawberry Milk Shake 16 fl oz,660,14,20,107,440,180,15,1,55,0,92,80,Smoothies & Shakes
+145,Strawberry Milk Shake 20 fl oz,820,17,23,137,550,210,17,1,65,0,119,100,Smoothies & Shakes
+146,Seattle’s Best Coffee® – Decaf- 16 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,Coffee & Tea
+147,Seattle’s Best Coffee®- Decaf- 20 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,Coffee & Tea
+148,Seattle’s Best Coffee®- Regular- 16 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,Coffee & Tea
+149,Seattle’s Best Coffee®- Regular- 20 fl oz,0,0,0,0,0,0,0,0,0,0,0,0,Coffee & Tea
+150,Seattle’s Best Coffee® Iced Coffee -SMALL,80,2,2,14,75,20,2,0,10,0,12,12,Coffee & Tea
+151,Seattle’s Best Coffee® Iced Coffee – MED,110,3,3,18,100,25,2,0,10,0,16,16,Coffee & Tea
+152,Seattle’s Best Coffee® Iced Coffee -LARGE,140,4,4,23,125,35,3,0,15,0,20,20,Coffee & Tea
+153,Seattle’s Best Coffee® Iced Coffee -SMALL- MOCHA,180,2,3,37,75,25,2,0,10,1,33,19,Coffee & Tea
+154,Seattle’s Best Coffee® Iced Coffee – MED- MOCHA,260,3,4,54,100,35,3,0,10,1,48,26,Coffee & Tea
+155,Seattle’s Best Coffee® Iced Coffee -LARGE- MOCHA,340,4,3,71,125,45,2,0,15,2,62,34,Coffee & Tea
+156,Seattle’s Best Coffee® Iced Coffee -SMALL- VANILLA,160,2,2,34,75,20,2,0,10,0,32,18,Coffee & Tea
+157,Seattle’s Best Coffee® Iced Coffee – MED-VANILLA,230,3,3,49,100,25,2,0,10,0,46,25,Coffee & Tea
+158,Seattle’s Best Coffee® Iced Coffee -LARGE- VANILLA,300,4,4,63,130,35,3,0,15,0,60,32,Coffee & Tea
+159,Seattle’s Best Coffee® Iced Coffee -SMALL- CARAMEL,170,3,4,32,150,30,2,0,15,0,23,25,Coffee & Tea
+160,Seattle’s Best Coffee® Iced Coffee – MED- CARAMEL,210,3,4,41,190,35,3,0,15,0,28,32,Coffee & Tea
+161,Seattle’s Best Coffee® Iced Coffee -LARGE- CARAMEL,260,4,5,50,230,40,3,0,15,0,34,39,Coffee & Tea
+162,Mocha Frappe: 12 fl oz,410,3,19,58,230,170,11,0,5,0,39,43,Coffee & Tea
+163,Mocha Frappe: 16 fl oz,510,4,22,72,300,200,12,0,5,0,49,54,Coffee & Tea
+164,Mocha Frappe: 20 fl oz,600,5,25,87,360,230,14,0,5,0,59,65,Coffee & Tea
+165,Caramel Frappe: 12 fl oz,410,3,19,58,230,170,11,0,5,0,39,43,Coffee & Tea
+166,Caramel Frappe: 16 fl oz,510,4,22,72,300,200,12,0,5,0,49,54,Coffee & Tea
+167,Caramel Frappe: 20 fl oz,600,5,25,87,360,230,13,0,5,0,59,65,Limited time offerings
+168,Angry Whopper,740,29,42,65,1180,380,12,1,75,3,16,149,Limited time offerings
+169,Angry Whopper JR.,400,16,22,36,650,200,6,0,45,1,9,82,Limited time offerings
+170,Wisconsin White Cheddar Whopper,950,46,62,58,1660,560,23,2,135,3,13,201,Limited time offerings
+171,Wisconsin White Cheddar Whopper JR.,480,23,30,33,810,270,11,1,75,1,7,99,Limited time offerings
+172,Sweet Potato Curly Fries (S),170,1,10,19,380,90,2,0,0,3,8,47,Limited time offerings
+173,Sweet Potato Curly Fries (M),250,2,14,28,550,130,2,0,0,4,11,69,Limited time offerings
+174,Sweet Potato Curly Fries (L),320,2,19,36,710,170,3,0,0,6,14,88,Limited time offerings
+175,Gingerbread Cookie Sundae,350,6,7,68,210,60,4,0,20,0,57,43,Limited time offerings
+176,Gingerbread Shake (12 fl oz),490,8,15,82,290,140,11,0,30,0,70,56,Limited time offerings
+177,Gingerbread Shake (16 fl oz),640,12,18,109,400,160,13,1,45,0,94,76,Limited time offerings
+178,Gingerbread Shake (20 fl oz),810,14,21,142,500,190,15,1,55,0,124,96,Limited time offerings
