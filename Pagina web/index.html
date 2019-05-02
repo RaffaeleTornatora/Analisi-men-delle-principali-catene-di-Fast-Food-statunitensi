@@ -1,0 +1,306 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+  <meta name="description" content="">
+  <meta name="author" content="">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700|PT+Serif:400,400i,700,700i|Source+Code+Pro|Source+Sans+Pro:200,200i,300,300i,400,400i,600,600i,700,700i,900,900i" rel="stylesheet">
+  <link rel="icon" href="../../favicon.ico">
+
+  <title>Data Viz Lab</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/style.css" rel="stylesheet">
+
+  <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+  <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+  <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+  <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+
+<body>
+
+    <!-- Intro con titolo e immagine. Inserire immagine in /media/ con il nome cover.png
+    Al posto dei segna posto aggiungere il vostro nome e matricola negli <span> -->
+      <div class="intro">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-8 col-md-offset-2 text">
+              <h5 class="text-center">UNIMIB - 2017/2018</h5>
+              <h1 class="text-center">Analisi sui menu delle principali catene di fast food statunitensi</h1>
+              <h4 class="text-center">Un progetto di 
+                <span class="name">Anna De Angeli (832995)</span>
+                <span class="name">Paola Bruno (833121)</span>, 
+                <span class="name">Raffaele Tornatora (786357)</span> e
+                <span class="name">Maxime Triveri (819191)</span></h4>
+              </div>
+          </div>
+          </div>
+      </div>
+
+
+      <!-- Primo blocco di testo -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Introduzione</h5>
+            <p>L’industria dei fast-food è cresciuta considerevolmente negli ultimi trent’anni e, solo negli stati uniti, vale circa <strong>198.9 miliardi di dollari</strong>; un numero previsto in crescita entro il 2020, quando il valore del settore dovrebbe <a href="http://www.infodata.ilsole24ore.com/2017/10/27/fast-food-un-business-quasi-200-miliardi-dollari-negli-stati-uniti/" target="_blank">superare i 223 miliardi</a>. <br>
+Gli Stati Uniti non sono di certo famosi per la loro tradizione culinaria, tanto che è possibile considerare tra i loro piatti tipici l’hamburger, prodotto che si trova facilmente nei menù di tutte le catene di fast-food. Tale tipo di ristorazione è sempre stato da un lato molto gettonato in particolar modo per i prezzi vantaggiosi, dall’altro molto dibattuto a causa della qualità dell’offerta.<br>
+È opinione diffusa che un’alimentazione basata su questo tipo di cibi sia dannosa e possibile causa di malattie e disturbi alimentari come obesità o diabete di tipo 2. <br>
+Il film <em>Super Size Me</em>, candidato nel 2005 per l’Oscar a miglior documentario, mostra gli effetti dannosi di una dieta di 30 giorni (colazione, pranzo e cena) da McDonald’s, primo fast food per numerosità negli Stati Uniti, denunciando la qualità dei prodotti offerti dal punto di vista nutrizionale. Si usa, infatti, il termine <em>junk food</em> per individuare il cibo tipicamente offerto dai fast food ricco di <strong>grassi saturi</strong>, <strong>sale</strong> e <strong>zuccheri</strong> con poche fibre e sostanze nutritive.<br>
+
+Considerando le principali catene di fast food negli Stati Uniti, lo scopo del presente studio è quello di fornire maggiori informazioni rispetto ai valori nutrizionali dei prodotti sia a livello <strong>micro</strong> sia a livello <strong>macro</strong> (aggregando gli alimenti in categorie). Il valore dei diversi componenti nutrizionali analizzati è stato considerato anche in relazione ai valori di assunzione giornaliera consigliati per una sana alimentazione.<br><br>
+       <h5>Prima infografica</h5>
+            <p>Con la prima infografica si cerca di dare una visione complessiva della localizzazione di 10 mila fast food negli Stati Uniti. Per una dimensione significativa, è stato calcolato il <strong>numero di fast food per ogni centomila abitanti nei diversi Stati</strong>: in una <em>treemap</em> sono stati ordinati gli Stati per discostamento dalla mediana di tale valore. Tra gli Stati che presentano un discostamento positivo dalla mediana al di sopra dello 0,1 figurano il <strong>Wyoming</strong>, il <strong>Vermont</strong>, l'<strong>Alaska</strong>, il <strong>Nord</strong> e <strong>Sud Dakota</strong>, mentre, tra quelli che presentano un discostamento negativo, lo stato che spicca è la <strong>California</strong>. In ultima analisi, attraverso una <em>word cloud</em>, è stato calcolato il <strong>numero di fast food per ogni catena considerata</strong>, in modo tale da poter verificare in modo immediato quali siano i fast food maggiormente diffusi, informazione utile come punto di partenza per le infografiche successive. I fast food per i quali si registra una massiccia presenza sul territorio, sono in ordine McDonald’s, Burger King, Taco Bell e Wendy’s.<br></p>
+            
+            
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Prima Visualizzazione -->
+      <div class="container viz">
+        <div class="row">
+        <div class='tableauPlaceholder' id='viz1537003653784' style='position: relative'><noscript><a href='#'><img alt='Fast Food in the United States of America ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info1_2&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Info1_2&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info1_2&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1537003653784');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1143px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);    </script>
+          <!-- Incollare qui l'embed della visualizzazione o inserire l'immagine tramite <img src="media/nomefile.jpg">
+          Largezza consigliata per le immagini o per gli embed 1140px per 700px-->
+        </div>
+      </div>
+
+
+
+
+      <!-- Secondo blocco di testo -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+    
+<p>Viene data la possibilità di filtrare per Stato e per fast food. Il colore più scuro e l’aumento delle dimensioni dei “quadrati” nella <em>treemap</em> indicano un maggiore gap dalla mediana e quindi una maggiore concentrazione di fast food per 100 000 abitanti nei diversi stati. Per la localizzazione dei “ristoranti” nella mappa è stato utilizzato il logo dei i quattro fast food più diffusi sul territorio americano (McDonald’s, BurgerKing, TacoBell e Wendy’s) ed un segnaposto per tutti gli altri. Tale distinzione è presente anche nella <em>word cloud</em>: i nomi dei fast food i cui menù non sono stati analizzati sono tutti dello stesso colore.
+            </p><br><br>
+            
+             <h5>Seconda infografica</h5>
+            <p>Nella seconda infografica vengono mostrati i valori nutrizionali dei prodotti offerti dai 4 fast food sopra elencati sia a livello macro sia a livello micro. <br>
+In una <em>heatmap</em> sono stati indicati i <strong>valori medi di ogni componente nutrizionale</strong> (calorie, colesterolo, fibre, proteine, grassi saturi, sodio, zucchero, carboidrati, grassi insaturi) per ogni <strong>categoria di prodotto</strong> (Beef & Pork, Chicken & Fish, Desserts, Salads, Snacks & Sides).<br>
+Nella seconda parte dalla visualizzazione è possibile vedere per ogni fast food come si distribuiscono i valori nutrizionali dei prodotti offerti.<br>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Seconda Visualizzazione -->
+      <div class="container viz">
+        <div class="row">
+<div class='tableauPlaceholder' id='viz1537003942735' style='position: relative'><noscript><a href='#'><img alt='Nutritional Values of fast food&#39;s products ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info2_0&#47;NutritionalValues&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Info2_0&#47;NutritionalValues' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info2_0&#47;NutritionalValues&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1537003942735');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1143px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+          <!-- Incollare qui l'embed della visualizzazione o inserire l'immagine tramite <img src="media/nomefile.jpg">
+          Largezza consigliata per le immagini o per gli embed 1140px per 700px-->
+        </div>
+      </div>
+
+
+
+
+      <!-- Terzo blocco di testo -->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+
+<p> È possibile selezionare la componente nutrizionale di interesse attraverso un filtro situato in alto a destra. Nella heatmap il colore più scuro rappresenta valori medi più alti. Nella seconda parte della visualizzazione, invece, il colore rappresenta le diverse categorie di cibo a cui appartengono i prodotti.
+</p><br><br>
+                    <h5>Terza infografica</h5>
+            <p>Nella terza infografica sono stati indicati per ogni categoria di prodotto i <strong>valori medi di diverse componenti nutrizionali</strong> (fibre, proteine, zuccheri, carboidrati totali, grassi totali e sodio), rispetto alla <strong>soglia</strong> (indicata in arancione) <strong>di assunzione giornaliera</strong>.<br>
+             Si può notare che i prodotti nella categoria Desserts hanno un contenuto medio di zuccheri superiore alla soglia. Lo stesso vale anche per i prodotti appartenenti alle categorie Beef & Pork, chicken & Fish, Salads rispetto al contenuto medio di sodio: è possibile visualizzare in modo più preciso tale scostamento anche grazie allo zoom presente su tale componente nutrizionale.<br>
+Nella seconda parte dell’infografica sono riportati tutti i prodotti offerti in modo tale che sull’asse delle ordinate sia possibile visualizzare in <strong>percentuale</strong> il valore nutrizionale (per tutte le componenti considerate nella parte superiore dell’infografica) di ciascuno di essi in relazione alla <strong>soglia giornaliera</strong>.
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Terza Visualizzazione -->
+      <div class="container viz">
+        <div class="row">
+<div class='tableauPlaceholder' id='viz1537004176414' style='position: relative'><noscript><a href='#'><img alt='Nutritional values ​​with respect to the daily threshold ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info3&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Info3&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;In&#47;Info3&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1537004176414');                    var vizElement = divElement.getElementsByTagName('object')[0];                    vizElement.style.width='1143px';vizElement.style.height='791px';                    var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>      
+          <!-- Incollare qui l'embed della visualizzazione o inserire l'immagine tramite <img src="media/nomefile.jpg">
+          Largezza consigliata per le immagini o per gli embed 1140px per 700px-->
+        </div>
+      </div>
+
+ <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+
+<p>Viene data la possibilità di filtrare per componente nutrizionale, per categoria di cibo e per fast food. Nella prima parte dell’infografica è presente uno zoom sul sodio necessario per mostrare con maggiore precisione lo scostamento dalla soglia di assunzione giornaliera delle categorie di cibo considerate e rappresentate, nella seconda parte della visualizzazione la distinzione è indicata attraverso il colore.
+
+</p>
+          </div>
+        </div>
+      </div>
+
+
+      <!-- Quarto blocco di testo con le conlusioni-->
+      <div class="container">
+        <div class="row">
+          <div class="col-md-8 col-md-offset-2">
+            <h5>Conclusioni</h5>
+            <p>In conclusione, abbiamo notato grazie alle nostre visualizzazioni quanto sia diffuso, nel territorio statunitense, il fenomeno dei fast food: ed è proprio da questa diffusione che deriva l’importanza di informarsi su cosa si consuma.<br>
+            Conoscere ciò che si mangia ogni giorno è di rilevante importanza:
+un consumatore attento e consapevole dovrà quindi imparare a considerare prima di tutto i valori nutrizionali che purtroppo vengono ignorati troppo facilmente. In questo modo potrà evitare i cibi contenenti elevate quantità di zuccheri o di grassi saturi: alimenti che possono sembrare sani o dietetici potrebbero rivelarsi ipercalorici come ad esempio accade per le insalate offerte da Taco Bell.
+Inoltre, tali valori nutrizionali non dovranno essere considerati solo in modo assoluto, ma anche in relazione alle soglie di assunzione giornaliera così da scovare anche quegli alimenti che superano, per una certa componente nutrizionale, tale soglia in modo rilevante come è dimostrato dai prodotti appartenenti alle categorie <strong>Beef & Pork</strong>, <strong>Chicken & Fish</strong> e <strong>Salads</strong> rispetto al loro contenuto di sodio.
+            </p>
+          </div>
+        </div>
+      </div>
+
+
+
+
+      <div class="howTo">
+        <div class="container">
+          <div class="row">
+            <div class="col-md-6 col-md-offset-2">
+              
+              <!-- In questa parte descrivere il processo di raccolta, pulizia e visualizzazione dei dati. Che tipo di dati avevo? Che tipo di operazioni sono state effettuate per poter visualizzare i dati. Come si leggono le visualizzazioni?-->
+              <h5>Note Metodologiche </h5>
+              <p>Per la localizzazione dei diversi fast food sul territorio statunitense è stato utilizzato un dataset di kaggle <a href="https://www.kaggle.com/datafiniti/fast-food-restaurants">Fast Food Restaurants Across America</a>.<br>
+i menù di Mc Donald's, Burger King, Taco Bell e Wendy's con relativi prodotti e componenti nutrizionali sono stati ottenuti mediante tecniche di scraping dai diversi siti dei fast food. <br>
+Per la creazione della prima infografica abbiamo utilizzato i dati resi disponibili da kaggle in cui erano presenti la latitudine e la longitudine di tutti i fast food e li abbiamo plottati in una mappa utilizzando come <em>marks</em>, come specificato sopra, il logo per i quattro fast food i cui menù sono stati analizzati e un segnaposto per tutti gli altri. Per la creazione della <em>treemap</em> abbiamo diviso il numero di fast food per la popolazione di ogni stato e moltiplicato per 100 mila abitanti. Una volta calcolata la mediana di tale valore, abbiamo calcolato per tutti gli stati il gap da quest’ultima. <br>Per la <em>word cloud</em> è bastato contare il numero di “ristoranti” per ogni catena presenti sul territorio statunitense e rappresentare tale valore attraverso la dimensione per cui a una dimensione maggiore corrisponde una frequenza maggiore.<br>
+Per la seconda infografica abbiamo utilizzato i dati sui menu dei diversi fast food ottenuti attraverso scraping in cui erano disponibili tutti i prodotti, la categoria di cibo di appartenenza e la tabella con i valori nutrizionali. Per la creazione della heatmap abbiamo rappresentato i valori medi per ogni componente nutrizionale e per ogni categoria di cibo che avevamo a disposizione. Per la creazione della seconda parte della visualizzazione abbiamo plottato per ogni fast food i prodotti offerti per visualizzare per ognuno di essi i valori di ogni componente nutrizionale analizzata.<br>
+Per la creazione della terza infografica oltre ai dati riguardanti i menù abbiamo utilizzato anche i valori delle soglie di assunzione giornaliera per diverse componenti nutrizionali quali proteine, sodio, carboidrati, grassi, zuccheri e fibre. <br>Per la prima parte della visualizzazione abbiamo utilizzato i valori delle componenti nutrizionali appena elencate dei prodotti aggregati a livello di categoria (viene perciò visualizzato il valore medio di contenuto delle componenti per ogni categoria). Inoltre, è stata rappresentata attraverso una linea la soglia di assunzione giornaliera per ogni componente.<br>
+ Per la seconda parte della visualizzazione abbiamo calcolato per ogni prodotto il contenuto di ogni componente nutrizionale rispetto alla rispettiva soglia di assunzione giornaliera in percentuale e misurato tale valore sull’asse delle ordinate: in questo modo scegliendo ad esempio le proteine è possibile vedere per tutti i prodotti presenti nei menù dei fast food analizzati il contenuto di proteine in relazione alla soglia giornaliera.
+
+</p>
+              
+              <hr>
+
+              <h5>Euristiche considerate</h5>
+              <p>La principale euristica che abbiamo utilizzato per la creazione delle visualizzazioni è il “visual information-seeking mantra” [Shneiderman, 1996]: “<em>Overview first, zoom and filter, then details-on-demand.</em>”
+              <strong>Overview</strong>: sono state create delle infografiche cercando di dare una visione d’insieme iniziale dell’argomento che si è trattato.<br>
+<strong>Filter</strong>: i menù presenti nella parte superiore delle infografiche sono utili per selezionare i diversi fast food, le categorie di prodotti e i componenti nutrizionali.
+<br>
+<strong>Details on demand</strong>: selezionando un singolo elemento è possibile visualizzare i dati relativi ad esso escludendo contemporaneamente i dati relativi agli altri elementi.
+</p>
+
+              <hr>
+
+              <h5>Test Utente</h5>
+              
+              <p>Abbiamo individuate tre task, uno per ogni infografica. <br>
+Di seguito, viene mostrato il test utente relativo alla terza infografica.<br><br>
+<strong>Obiettivo principale: utilizzare I filtri e le tooltips per trovare il prodotto appartenente alla categoria beef & pork della catena burger king con più alto contenuto di sodio rispetto alla soglia giornaliera.</strong><br><br>
+Scenario ottimale:
+<ul>
+	<li>utente seleziona “Sodium (g)” nel filtro Nutritional component</li>
+	<li>utente seleziona “Beef & Pork” nel filtro Categoria</li>
+	<li>utente seleziona “BurgerKing” nel filtro Fast Food</li>
+	<li>utente osserva la seconda parte dell’infografica (relativa ai prodotti)</li>
+	<li>utente trova l’item più un alto nell’asse delle ordinate</li>
+	<li>utente passa il mouse sull’item individuato al punto precedente e legge il nome del prodotto</li>
+</ul>
+
+</p><br>
+
+             <h5>infografica task 3</h5>
+             <img class="imgtest"  src="media/time_execution_3.png" width="362" height="219" alt="tempo infografica 3"/>
+
+             <p>Un t-test per campioni a due code è stato eseguito per confrontare la terza infografica  nell’attività sopra descritta per due gruppi: gli utenti che vedevano la visualizzazione per la prima volta e gli esperti ovvero i creatori dell’infografica, i quali hanno eseguito il task tre volte per ognuno a differenti velocità (lenta, veloce, media).<br>
+
+C’è una differenza significativa tra i tempi di esecuzione del task 3; t(22) = 3.5175, p = .00095 (riferito al test ad una coda), per cui il gruppo di esperti impiega un tempo minore (è più efficiente) rispetto al gruppo degli utenti.
+</p>        <br><br>
+ <h5>Proporzione risposte corrette e sbagliate con relative barre di errore</h5>   
+  <img class="imgtest" src="media/Proporzione risposte user test.png" width="514" height="296" alt="proporzione risposte corrette e sbagliate"/>
+<p>Come è possibile vedere dal grafico riportato la percentuale di risposte sbagliate dagli utenti sul totale è molto bassa.</p>
+<hr>
+             
+<h5>Questionari psicometrici</h5>
+            
+             <!--violin plot-->
+              <img class="imgquest" src="media/esperti vs non esperti 1.png" width="600" height=" 278" alt="valutazione esperti/non esperti"/> 
+              <img class="imgquest" src="media/Esperti vs non esperti 2.png" width="600" height=" 278" alt="valutazione esperti/non esperti"/> 
+              <img class="imgquest" src="media/esperti vs non esperti 3.png" width="600" height=" 278" alt="valutazione esperti/non esperti"/> 
+     <p>Si è effettuato per ogni domanda, di ogni infografica, il test di Mann-Whitney per verificare se ci fosse una differenza statisticamente significativa tra le risposte dei gruppi di esperti e non esperti.<br> L’unico risultato statisticamente significativo è stato ottenuto per la caratteristica ‘Intuitività’ dell’infografica 3 con i seguenti risultati: Ua = 192, p-value = 0.0351,  Mean Rank dei non esperti = 16.2 e Mean Rank degli esperti = 22.8.<br> Gli esperti hanno giudicato l’infografica 3 come maggiormente intuitiva rispetto ai non esperti in modo statisticamente significativo (con alpha = 0.05).</p>         
+              
+
+              <img class="imgquest" src="media/Item correlation.png" width="569" height="469" alt=""/> </div>
+
+
+
+
+
+
+            <!-- Inserire i link di google spreadsheet/drive o i link ai file dentro la cartella data (ridotti possibilmente - max 5mb) al posto di # e dare un nome ai dataset.-->
+            <div class="col-md-3 col-md-offset-1 howToSide">
+            <h5>Dati utilizzati</h5>
+            <p><a href="https://www.kaggle.com/datafiniti/fast-food-restaurants">Fast Food Restaurants Across America</a></p>
+            <p><a href="#">Cartella Drive</a></p><p>(dati ottenuti da noi attraverso uno scraping)</p>
+
+            <!-- Inserire i link agli strumenti utilizzati per la gestione dei dati e per la visualizzazione-->
+            <h5 id="tools">Strumenti utilizzati</h5>
+            <p><a target="_blank" href="https://www.tableau.com/">Tableau</a></p>
+            <p><a target="_blank"  href="https://www.python.org/">Python</a></p>
+            <p><a target="_blank"  href="https://www.graphpad.com/quickcalcs/">GraphPad QuickCalcs</a></p>
+            <p><a target="_blank" href="http://vassarstats.net/utest.html">Mann-Whitney Test</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    <!-- /#page-content-wrapper -->
+
+
+
+  <!-- Bootstrap core JavaScript
+  ================================================== -->
+  <!-- Placed at the end of the document so the pages load faster -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="js/bootstrap.min.js"></script>
+  <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+  <script src="js/ie10-viewport-bug-workaround.js"></script>
+  <script>$(document).ready(function () {
+    var trigger = $('.hamburger'),
+    overlay = $('.overlay'),
+    isClosed = false;
+
+    trigger.click(function () {
+      hamburger_cross();
+    });
+
+    function hamburger_cross() {
+
+      if (isClosed == true) {
+        overlay.hide();
+        trigger.removeClass('is-open');
+        trigger.addClass('is-closed');
+        isClosed = false;
+      } else {
+        overlay.show();
+        trigger.removeClass('is-closed');
+        trigger.addClass('is-open');
+        isClosed = true;
+      }
+    }
+
+    $('[data-toggle="offcanvas"]').click(function () {
+      $('#wrapper').toggleClass('toggled');
+    });
+  });
+  </script>
+
+</body>
+</html>

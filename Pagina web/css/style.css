@@ -1,0 +1,122 @@
+/*-------------------------------*/
+/*            Typography            */
+/*-------------------------------*/
+html, body {
+	background-color: #333333;
+	color:white;
+}
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 50px;
+  letter-spacing: -1px;
+  margin-top: 44px;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0;
+  margin-bottom: 22px;
+}
+
+h4 {
+  font-family: 'Source Code Pro', monospace;
+  font-weight: 400;
+  font-size: 14px;
+  padding-top: 44px;
+}
+
+h5 {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-weight: 600;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.name {
+  text-transform: uppercase;
+}
+
+p {
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+  line-height: 150%;
+  padding-bottom: 44px;
+}
+
+.intro {
+  background:
+  linear-gradient(
+      rgba(51, 51, 51, 0.3),
+      rgba(51, 51, 51, 0.6)
+    ),url(../media/cover.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  min-height: 100vh;
+  background-color: #333333;
+  padding-top: 85px;
+  margin-bottom: 70px;
+}
+
+iframe {
+	border:none;
+}
+.text {
+  padding-top: 20px;
+}
+.viz {
+	margin: 50px auto;
+	border: none;
+}
+
+.viz img {
+  min-width: 100%;
+  max-width: 100%;
+}
+
+.howTo {
+  background-color: #515151;
+  min-height: 300px;
+  padding-top: 44px;
+  padding-bottom: 88px;
+}
+
+.howTo p{
+  font-size: 16px;
+  line-height: 150%;
+  padding-bottom: 0px;
+}
+
+.howToSide p{
+  font-family: 'Source Code Pro', monospace;
+  font-size: 14px;
+  padding-bottom: 0px;
+  letter-spacing: -1px;
+  margin: 0 0 0px;
+}
+
+#tools {
+  margin-top: 44px;
+}
+
+a {
+  color: #f95658;
+}
+
+a:hover {
+  color: #c74446;
+}
+.imgtest {
+position: relative;
+	margin:25px auto;
+}
+.imgquest {
+	position: relative;
+	margin: 25px auto;
+}
